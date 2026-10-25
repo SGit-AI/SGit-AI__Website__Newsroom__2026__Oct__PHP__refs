@@ -25,9 +25,9 @@ CISA's alert carries the sentence nearly verbatim, so the advice is established 
 | [cloudflare-blog-php2shell-waf](../../sources/cloudflare-blog-php2shell-waf/index.html) | partial | *We observed how attackers were mutating the attack payload to try to bypass our protections* | 302408765abf45e3 |
 | [certfr-2026-ale-014](../../sources/certfr-2026-ale-014/index.html) | partial | *Ces mesures peuvent être réalisées au niveau d'un pare-feu applicatif (Web Application Firewall).* | f9e9557ab49ddb95 |
 
-Open tickets: [Finding-109](../../factcheck/index.html#Finding-109), [Finding-51](../../factcheck/index.html#Finding-51).
+Open tickets: [Finding-109](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-109), [Finding-51](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-51).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:17 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:17 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21CISA publishes [Critical Vulnerabilities in PHP Require Immediate Patching](../../sources/cisa-alert-php-20261021/index.html)
@@ -46,7 +46,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerSSamSecurity leadDDrewPHP or platform engineerAAshSecurity researcherRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecLLeeDeveloper
-And on [every claim](../../claims/index.html#waf).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#waf).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · disputed
@@ -60,4 +60,4 @@ Sources: cisa-alert-php-20261021, ch-bacs-warnung-php, cloudflare-blog-php2shell
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/waf/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/waf/index.html

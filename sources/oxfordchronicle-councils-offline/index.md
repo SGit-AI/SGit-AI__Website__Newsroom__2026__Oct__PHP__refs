@@ -22,7 +22,7 @@ Captured by claude-story-site. Status: captured. Oxford City Council: 'a precaut
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | Oxford City Council: 'a precaution because of a worldwide issue with the underlying technology and is not a cyber incident' [fact timeline →](../../facts/oxford/index.html) | the council's social post, via Oxford Chronicle | reported | **A2** Reported●●○○○○ | 0/1 | [Oxford Chronicle](../../sources/oxfordchronicle-councils-offline/index.html) |
 
@@ -42,4 +42,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/oxfordchronicle-councils-offline/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/oxfordchronicle-councils-offline/index.html

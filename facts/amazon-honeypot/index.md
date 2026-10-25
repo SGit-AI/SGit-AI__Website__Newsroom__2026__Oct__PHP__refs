@@ -29,9 +29,9 @@ The quoted words were Amazon's in its post as captured at 11:17 UTC on 22 Octobe
 | [securityweek-exploitation-days-before](../../sources/securityweek-exploitation-days-before/index.html) | partial | *The exploits being sprayed indiscriminately either don’t work at all, test for timing-based differences, or crash the target,* | ac663f2d9dbd0197 |
 | [aws-security-blog-madpot](../../sources/aws-security-blog-madpot/index.html) | partial | *PHP2Shell is now seeing broad exploitation attempts in the wild.* | 4108b2850c48a8f2 |
 
-Open tickets: [Contradiction-2](../../factcheck/index.html#Contradiction-2), [Evidence-12](../../factcheck/index.html#Evidence-12), [Finding-122](../../factcheck/index.html#Finding-122), [Finding-126](../../factcheck/index.html#Finding-126), [Finding-14](../../factcheck/index.html#Finding-14), [Finding-60](../../factcheck/index.html#Finding-60).
+Open tickets: [Contradiction-2](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-2), [Evidence-12](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-12), [Finding-122](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-122), [Finding-126](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-126), [Finding-14](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-14), [Finding-60](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-60).
 
-Graded in Run-5, resting on captures up to 2026-10-23 16:04 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-5, resting on captures up to 2026-10-23 16:04 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21Amazon publishes [Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot | AWS Securi](../../sources/aws-security-blog-madpot/index.html)
@@ -49,7 +49,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerCCaseyWebsite ownerJJordanBoard member or executiveSSamSecurity leadBBlakeAnalyst or policy advisorRRobinCISOQQuinnCFOMMorganData protection officerJJamieHead of AppSec
-And on [every claim](../../claims/index.html#amazon-honeypot).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#amazon-honeypot).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -64,4 +64,4 @@ v2 · site v0.2.0 · 22 October 2026 · reportedAn exploit attempt hit an Amazon
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/amazon-honeypot/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/amazon-honeypot/index.html

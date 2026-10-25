@@ -20,7 +20,7 @@ The Foundation's own sentence carries every element, including its hedge 'may ha
 |---|---|---|---|
 | [php-foundation-blog-security-release](../../sources/php-foundation-blog-security-release/index.html) | carries | *Mitigation advice we started providing to a few critical infrastructure providers around Oct 20th 23:00 UTC, may have leaked as well.* | a1be057adc1c5bfa |
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:09 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:09 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21PHP Foundation publishes [Today's PHP Security Release, and How We're Strengthening PHP Security](../../sources/php-foundation-blog-security-release/index.html)
@@ -35,7 +35,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 RRowanJournalistAAshSecurity researcherBBlakeAnalyst or policy advisor
-And on [every claim](../../claims/index.html#leak-mitigations).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#leak-mitigations).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -49,4 +49,4 @@ Sources: php-foundation-blog-security-release
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/leak-mitigations/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/leak-mitigations/index.html

@@ -26,9 +26,9 @@ The CERT.LV notice, the national authority's own record, carries every part: a d
 | [certlv-php-preventive](../../sources/certlv-php-preventive/index.html) | carries | *Šobrīd pieejamība atjaunota arī lsm.lv un 112.lv vietnēm.* | e37a6582c4e6c685 |
 | [lv-latvija-gov](../../sources/lv-latvija-gov/index.html) | blocked | *nothing that carries it* |  |
 
-Open tickets: [Finding-24](../../factcheck/index.html#Finding-24), [Finding-25](../../factcheck/index.html#Finding-25), [Finding-77](../../factcheck/index.html#Finding-77).
+Open tickets: [Finding-24](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-24), [Finding-25](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-25), [Finding-77](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-77).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:13 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:13 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21 18:25 UTCCERT.LV publishes [Saistībā ar globāli atklātām PHP ievainojamībām Latvijā ievieš preventīvus pasākumus](../../sources/certlv-php-preventive/index.html)
@@ -43,7 +43,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerTTaylorProject or programme managerJJordanBoard member or executiveRRobinCISOQQuinnCFOMMorganData protection officerRRileyCommunications team
-And on [every claim](../../claims/index.html#latvia-offline).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#latvia-offline).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · confirmed
@@ -57,4 +57,4 @@ Sources: certlv-php-preventive
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/latvia-offline/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/latvia-offline/index.html

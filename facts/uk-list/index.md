@@ -24,9 +24,9 @@ LBC and Insurance Business carry Edinburgh and Oxford councils and the Met Polic
 | [insurancebusiness-uk-councils-met](../../sources/insurancebusiness-uk-councils-met/index.html) | carries | *Error messages also appeared on the Bristol, Lambeth and Barnet council websites.* | 89357150e0bc8363 |
 | [eadt-minister-budget-no-breach](../../sources/eadt-minister-budget-no-breach/index.html) | carries | *because the Office for Budget Responsibility (OBR) had to take down its website.* | 4c8556b5aaedee9f |
 
-Open tickets: [Contradiction-5](../../factcheck/index.html#Contradiction-5), [Evidence-2](../../factcheck/index.html#Evidence-2), [Finding-106](../../factcheck/index.html#Finding-106), [Finding-31](../../factcheck/index.html#Finding-31).
+Open tickets: [Contradiction-5](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-5), [Evidence-2](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-2), [Finding-106](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-106), [Finding-31](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-31).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:29 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:29 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21LBC publishes [Websites taken offline as ‘critical’ security flaw hits Met Police, Traitors and government sites | LBC](../../sources/lbc-uk-websites-offline/index.html)
@@ -43,7 +43,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerTTaylorProject or programme managerJJordanBoard member or executiveRRobinCISOQQuinnCFOMMorganData protection officerRRileyCommunications team
-And on [every claim](../../claims/index.html#uk-list).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#uk-list).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · reported
@@ -57,4 +57,4 @@ Sources: lbc-uk-websites-offline, insurancebusiness-uk-councils-met
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/uk-list/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/uk-list/index.html

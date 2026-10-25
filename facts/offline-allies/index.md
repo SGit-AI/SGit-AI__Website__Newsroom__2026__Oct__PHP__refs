@@ -30,9 +30,9 @@ The captured BBC page does not say this: it says the NCSC 'as well as its counte
 | [nsa-press-php-4630238](../../sources/nsa-press-php-4630238/index.html) | carries | *If an immediate update is not feasible, it is recommended that organizations take the system offline until it can be fully mitigated.* | 8a8553ea1ffcd794 |
 | [certfr-2026-ale-014](../../sources/certfr-2026-ale-014/index.html) | carries | *Le CERT-FR recommande d'isoler les équipements affectés puis de procéder à la migration vers une version maintenue* | f9e9557ab49ddb95 |
 
-Open tickets: [Finding-43](../../factcheck/index.html#Finding-43), [Finding-44](../../factcheck/index.html#Finding-44), [Finding-45](../../factcheck/index.html#Finding-45), [Finding-87](../../factcheck/index.html#Finding-87).
+Open tickets: [Finding-43](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-43), [Finding-44](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-44), [Finding-45](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-45), [Finding-87](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-87).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:48 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:48 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21ACSC publishes [Critical vulnerabilities in PHP](../../sources/acsc-alert-php/index.html)
@@ -57,7 +57,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerTTaylorProject or programme managerJJordanBoard member or executiveSSamSecurity leadRRowanJournalistRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecRRileyCommunications team
-And on [every claim](../../claims/index.html#offline-allies).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#offline-allies).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · contradicted
@@ -71,4 +71,4 @@ Sources: bbc-live-ckgel5xp2xv9t, acsc-alert-php, certeu-sa-2026-018, ncsc-nl-php
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/offline-allies/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/offline-allies/index.html

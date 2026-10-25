@@ -20,7 +20,7 @@ Captured at 08:13Z to show placement. The top news item is "Critical Vulnerabili
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | The risks require immediate patching across United States Government departments and agenciesNo CISA emergency directive was visible on the CISA home page at capture. [fact timeline →](../../facts/gov-patch-required/index.html) | NSA | reported | **A6** Established●●●●●● | 1/2 | [NSA](../../sources/nsa-press-php-4630238/index.html) [CISA](../../sources/cisa-home/index.html) |
 
@@ -29,7 +29,7 @@ Captured at 08:13Z to show placement. The top news item is "Critical Vulnerabili
 No timeline event cites this source yet.
 
 ### Agency rows from this source
-- [CISA](../../agencies/index.html): offline yes
+- [CISA](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline yes
 
 ## The bytes
 capture 20261022T081329Z · HTTP 200 · https://www.cisa.gov/- `headers.json` a76ca34b24fba67b623a4b3e4b5748241af7aac12f07bb31b73a1f88445398b2 2,712 bytes
@@ -43,4 +43,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/cisa-home/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/cisa-home/index.html

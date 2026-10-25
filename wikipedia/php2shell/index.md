@@ -12,7 +12,7 @@ The English Wikipedia article [PHP2Shell](https://en.wikipedia.org/wiki/PHP2Shel
 
 40statements 37cited 45references 17captured here 370revisions 178editors 27languages
 
-The interactive graph needs JavaScript. The same nodes are on [every statement](statements/index.html), [every reference](references/index.html) and [every edit](history/index.html); the graph is [graph.json](../../data/wikipedia/php2shell/graph.json).
+The interactive graph needs JavaScript. The same nodes are on [every statement](statements/index.html), [every reference](references/index.html) and [every edit](history/index.html); the graph is [graph.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.7/wikipedia/php2shell/graph.json).
 
 ## Facts and the words around them
 
@@ -49,14 +49,14 @@ Wikipedia's own rule is that an article states facts and attributes opinions. Re
 - [NCSC UK](../../sources/ncsc-news-php/index.html): cited by 1 statement there and by [offline-ncsc](../../facts/offline-ncsc/index.html) here
 
 ### Contradictions this site records on that shared evidence (8)
-- [K-001](../../factcheck/index.html#K-001): How much of the web: 70% of websites, or 70% of the Internet? (explained)
-- [K-002](../../factcheck/index.html#K-002): Is php2shell being exploited? (explained)
-- [K-003](../../factcheck/index.html#K-003): Which PHP versions are affected? (explained)
-- [K-007](../../factcheck/index.html#K-007): How severe: CVSS 10.0, 9.2 or 9.8? (explained)
-- [K-008](../../factcheck/index.html#K-008): Which flaw was shown to give code execution on PHP-FPM? (open)
-- [K-009](../../factcheck/index.html#K-009): Did any technical detail leak on 20 October? (explained)
-- [K-010](../../factcheck/index.html#K-010): When was the release planned, and when did it ship? (open)
-- [K-012](../../factcheck/index.html#K-012): What does W3Techs say: 69.3% or 75%? (explained)
+- [K-001](https://php.oct.2026.newsroom.sgit.ai/factcheck/#K-001): How much of the web: 70% of websites, or 70% of the Internet? (explained)
+- [K-002](https://php.oct.2026.newsroom.sgit.ai/factcheck/#K-002): Is php2shell being exploited? (explained)
+- [K-003](https://php.oct.2026.newsroom.sgit.ai/factcheck/#K-003): Which PHP versions are affected? (explained)
+- [K-007](https://php.oct.2026.newsroom.sgit.ai/factcheck/#K-007): How severe: CVSS 10.0, 9.2 or 9.8? (explained)
+- [K-008](https://php.oct.2026.newsroom.sgit.ai/factcheck/#K-008): Which flaw was shown to give code execution on PHP-FPM? (open)
+- [K-009](https://php.oct.2026.newsroom.sgit.ai/factcheck/#K-009): Did any technical detail leak on 20 October? (explained)
+- [K-010](https://php.oct.2026.newsroom.sgit.ai/factcheck/#K-010): When was the release planned, and when did it ship? (open)
+- [K-012](https://php.oct.2026.newsroom.sgit.ai/factcheck/#K-012): What does W3Techs say: 69.3% or 75%? (explained)
 
 ## What changed since this site captured it
 
@@ -89,7 +89,7 @@ Wikidata, the structured sister of Wikipedia, holds item [Q141801185](https://ww
 
 ## What links here
 
-198 other articles link to this one, which is how a reader of Wikipedia arrives: from *PHP*, *2026*, the lists of security incidents, the pages of the companies named. The list is in [links-in.json](../../data/wikipedia/php2shell/links-in.json).
+198 other articles link to this one, which is how a reader of Wikipedia arrives: from *PHP*, *2026*, the lists of security incidents, the pages of the companies named. The list is in [links-in.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.7/wikipedia/php2shell/links-in.json).
 
 ## Towards a measure of trust
 
@@ -99,4 +99,4 @@ The text is Wikipedia's, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/index.html

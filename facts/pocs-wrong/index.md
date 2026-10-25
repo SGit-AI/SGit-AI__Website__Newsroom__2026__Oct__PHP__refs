@@ -25,9 +25,9 @@ rjmendez's README carries both halves, but the VulnCheck half is second-hand (Vu
 | [fastly-blog-php2shell](../../sources/fastly-blog-php2shell/index.html) | partial | *the existing PoCs require knowledge of the specific, running PHP binary and address space layout on the server* | bacf27615fe1180a |
 | [thehackernews-what-protects-you](../../sources/thehackernews-what-protects-you/index.html) | partial | *the public exploit code going around has not been shown to work* | 2301d254784fd661 |
 
-Open tickets: [Finding-52](../../factcheck/index.html#Finding-52), [Finding-91](../../factcheck/index.html#Finding-91), [Gap-3](../../factcheck/index.html#Gap-3).
+Open tickets: [Finding-52](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-52), [Finding-91](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-91), [Gap-3](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Gap-3).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:28 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:28 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21rjmendez, GitHub publishes [GitHub - rjmendez/phpup-2026: IOCs and detection rules for CVE-2026-109618 / CVE-2026-109619 (PHP session.uplo](../../sources/github-rjmendez-phpup-2026/index.html)
@@ -44,7 +44,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerSSamSecurity leadDDrewPHP or platform engineerAAshSecurity researcherRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecLLeeDeveloper
-And on [every claim](../../claims/index.html#pocs-wrong).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#pocs-wrong).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · reported
@@ -58,4 +58,4 @@ Sources: github-rjmendez-phpup-2026, huntress-php2shell-rapid-response
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/pocs-wrong/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/pocs-wrong/index.html

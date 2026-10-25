@@ -24,7 +24,7 @@ JPCERT-AT-2026-0033, published 2026-10-22, updated 2026-10-22 (wording fix in se
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | The UK's NCSC, the NSA and their counterparts in the EU and Australia advise taking systems offline where patching is not feasibleAustralia's ACSC gives no offline advice. CERT-EU says isolate. The Netherlands, Italy, Japan and New Zealand give no offline advice. [fact timeline →](../../facts/offline-allies/index.html) | BBC | contradicted | **A1** Weak signal●○○○○○ | 4/6 | [BBC News](../../sources/bbc-live-ckgel5xp2xv9t/index.html) [ACSC](../../sources/acsc-alert-php/index.html) [CERT-EU](../../sources/certeu-sa-2026-018/index.html) [NCSC-NL](../../sources/ncsc-nl-php2shell/index.html) [ACN / CSIRT Italia](../../sources/acn-it-php2shell/index.html) [JPCERT/CC](../../sources/jpcert-at260033/index.html) |
 
@@ -35,7 +35,7 @@ JPCERT-AT-2026-0033, published 2026-10-22, updated 2026-10-22 (wording fix in se
 | 2026-10-22 05:20 UTC | JVN publishes its note (14:20 JST); JPCERT/CC alert JPCERT-AT-2026-0033 is dated 22 October. | stated |
 
 ### Agency rows from this source
-- [JPCERT/CC](../../agencies/index.html): offline none
+- [JPCERT/CC](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline none
 
 ## The bytes
 capture 20261022T081700Z · HTTP 200 · https://www.jpcert.or.jp/at/2026/at260033.html- `headers.json` cbc1e287bde3882e41d91bfa7315dcbaccf9a996c0a383acc62f9095fbe921eb 605 bytes
@@ -49,4 +49,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/jpcert-at260033/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/jpcert-at260033/index.html

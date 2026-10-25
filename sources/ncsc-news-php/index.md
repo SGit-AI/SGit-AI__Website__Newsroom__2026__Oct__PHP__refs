@@ -46,7 +46,7 @@ NCSC Alert. Page: PUBLISHED 21 October 2026; JSON-LD dateModified 2026-10-22; HT
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | 'Where immediate remediation is not feasible, organisations should consider taking the system offline until it can be fully mitigated'That sentence is not on the NCSC page as captured at 08:09Z on 22 October. The page's offline advice is step 4 of 6 and is worded differently. The page was modified at 07:30Z that morning. The sentence's opening matches the Canadian CCCS text. [fact timeline →](../../facts/offline-ncsc/index.html) | UK NCSC, as quoted by the BBC | disputed | **A2** Reported●●○○○○ disputed | 2/3 | [BBC News](../../sources/bbc-live-ckgel5xp2xv9t/index.html) [NCSC UK](../../sources/ncsc-news-php/index.html) [CCCS](../../sources/cccs-al26-026/index.html) |
 
@@ -58,7 +58,7 @@ NCSC Alert. Page: PUBLISHED 21 October 2026; JSON-LD dateModified 2026-10-22; HT
 | 2026-10-22 07:30:02 UTC | The UK NCSC page is modified (HTTP last-modified). | stated |
 
 ### Agency rows from this source
-- [NCSC](../../agencies/index.html): offline after mitigations
+- [NCSC](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline after mitigations
 
 ## The bytes
 capture 20261022T080903Z · HTTP 200 · https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php- `headers.json` 642ad2462903a32f7050dae5e198654e710dadc0a6225333d96370031c7ede4c 852 bytes
@@ -72,4 +72,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/ncsc-news-php/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/ncsc-news-php/index.html

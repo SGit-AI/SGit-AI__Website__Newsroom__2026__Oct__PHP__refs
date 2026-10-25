@@ -22,9 +22,9 @@ The BBC capture carries Alan Woodward's words 'something like 30 million website
 |---|---|---|---|
 | [bbc-live-ckgel5xp2xv9t](../../sources/bbc-live-ckgel5xp2xv9t/index.html) | carries | *Referencing the "serious" scale of it, he says it could affect "something like 30 million websites".* | c88b8c5f4c6bc07d |
 
-Open tickets: [Finding-101](../../factcheck/index.html#Finding-101).
+Open tickets: [Finding-101](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-101).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:05 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:05 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-22 06:16 UTCBBC News publishes [PHP: Global scramble to fix critical cyber-security flaws as many websites taken offline - follow live](../../sources/bbc-live-ckgel5xp2xv9t/index.html)
@@ -39,7 +39,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerJJordanBoard member or executiveSSamSecurity leadRRowanJournalistBBlakeAnalyst or policy advisorRRobinCISOQQuinnCFORRileyCommunications team
-And on [every claim](../../claims/index.html#scale-30m).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#scale-30m).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -53,4 +53,4 @@ Sources: bbc-live-ckgel5xp2xv9t
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/scale-30m/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-30m/index.html

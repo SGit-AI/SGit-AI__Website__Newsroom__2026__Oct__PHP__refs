@@ -29,7 +29,7 @@ No claim cites this source yet.
 | 2026-10-20 | Swiss BACS posts a warning (home-page teaser dated 20 October; the page itself now says 21 October). | inferred |
 
 ### Agency rows from this source
-- [BACS (NCSC)](../../agencies/index.html): offline consider
+- [BACS (NCSC)](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline consider
 
 ## The bytes
 capture 20261022T081604Z · HTTP 200 · https://www.bacs.admin.ch/en- `headers.json` 80c563292cf0e8178e58809441cc65504b120a6299d27979fc429c606efaa3fd 6,406 bytes
@@ -43,4 +43,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/ch-ncsc-home/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/ch-ncsc-home/index.html

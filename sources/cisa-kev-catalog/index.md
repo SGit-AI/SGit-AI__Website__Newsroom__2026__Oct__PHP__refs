@@ -31,7 +31,7 @@ No claim cites this source yet.
 No timeline event cites this source yet.
 
 ### Exploitation signals from this source
-- [2026-10-21](../../exploitation/index.html): 'CISA has not observed exploitation of these vulnerabilities as of the time of publication.' Neither CVE is in the Known Exploited Vulnerabilities catalog (vers
+- [2026-10-21](https://php.oct.2026.newsroom.sgit.ai/exploitation/): 'CISA has not observed exploitation of these vulnerabilities as of the time of publication.' Neither CVE is in the Known Exploited Vulnerabilities catalog (vers
 
 ## The bytes
 
@@ -42,4 +42,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/cisa-kev-catalog/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/cisa-kev-catalog/index.html

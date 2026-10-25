@@ -22,7 +22,7 @@ Published on 21 October 2026 (the home page teaser shows 20 October 2026). 'If a
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | A web application firewall may provide some protection until systems are patchedSwiss BACS: 'Even a web application firewall alone is not sufficient.' Cloudflare says its rules blocked the traffic it saw and that attackers mutated payloads to get past them. [fact timeline →](../../facts/waf/index.html) | CISA | disputed | **A6** Established●●●●●● | 3/3 | [CISA](../../sources/cisa-alert-php-20261021/index.html) [BACS](../../sources/ch-bacs-warnung-php/index.html) [Cloudflare](../../sources/cloudflare-blog-php2shell-waf/index.html) |
 
@@ -33,7 +33,7 @@ Published on 21 October 2026 (the home page teaser shows 20 October 2026). 'If a
 | 2026-10-20 | Swiss BACS posts a warning (home-page teaser dated 20 October; the page itself now says 21 October). | inferred |
 
 ### Agency rows from this source
-- [BACS (NCSC)](../../agencies/index.html): offline consider
+- [BACS (NCSC)](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline consider
 
 ## The bytes
 capture 20261022T081700Z · HTTP 200 · https://www.bacs.admin.ch/en/warnung-php-en- `headers.json` 603765d5dfe2bc360d0d8becb67c71a6a5810ad02fbe68f5d677488189ac7317 6,406 bytes
@@ -47,4 +47,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/ch-bacs-warnung-php/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/ch-bacs-warnung-php/index.html

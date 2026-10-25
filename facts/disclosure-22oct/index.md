@@ -29,9 +29,9 @@ The primary records date the disclosure to 21 October UTC: GHSA published 13:34:
 | [acsc-alert-php](../../sources/acsc-alert-php/index.html) | partial | *with full details publicly announced on Thursday 22 October 2026 at 0100 AEDT.* | 9370af142ded6de9 |
 | [x-wiz-io-php2shell](../../sources/x-wiz-io-php2shell/index.html) | partial | *Apply the Oct 22 security release immediately* | 6c17977662815b0c |
 
-Open tickets: [Finding-38](../../factcheck/index.html#Finding-38), [Finding-66](../../factcheck/index.html#Finding-66).
+Open tickets: [Finding-38](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-38), [Finding-66](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-66).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:16 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:16 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21php.net publishes [Security advisory: Critical remote code execution vulnerabilities, update now](../../sources/php-net-advisory/index.html)
@@ -50,7 +50,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 TTaylorProject or programme managerRRowanJournalistBBlakeAnalyst or policy advisorAAveryCTO
-And on [every claim](../../claims/index.html#disclosure-22oct).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#disclosure-22oct).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · contradicted
@@ -64,4 +64,4 @@ Sources: bbc-live-ckgel5xp2xv9t, php-net-advisory, github-php-src-tag-php-8.5.12
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/disclosure-22oct/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/disclosure-22oct/index.html

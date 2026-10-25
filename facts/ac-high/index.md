@@ -25,9 +25,9 @@ The CVSS half is a record (AC:H in the CVE record, A6). The 'much easier' half i
 | [fastly-blog-php2shell](../../sources/fastly-blog-php2shell/index.html) | partial | *most deployments may be “safe” from RCE. Do not assume this holds true for you.* | bacf27615fe1180a |
 | [cve-cve-2026-109618](../../sources/cve-cve-2026-109618/index.html) | carries | *CVSS:4.0/AV:N/AC:H/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N* | f8705d8e0aa2a248 |
 
-Open tickets: [Finding-53](../../factcheck/index.html#Finding-53), [Finding-56](../../factcheck/index.html#Finding-56).
+Open tickets: [Finding-53](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-53), [Finding-56](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-56).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:19 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:19 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21Imperva Threat Research publishes [PHP2Shell: When PHP Runs Out of Memory at the Wrong Moment | Imperva](../../sources/imperva-blog-php2shell/index.html)
@@ -46,7 +46,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerSSamSecurity leadDDrewPHP or platform engineerAAshSecurity researcherRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecLLeeDeveloper
-And on [every claim](../../claims/index.html#ac-high).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#ac-high).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · confirmed
@@ -60,4 +60,4 @@ Sources: imperva-blog-php2shell, fastly-blog-php2shell, cve-cve-2026-109618
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/ac-high/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/ac-high/index.html

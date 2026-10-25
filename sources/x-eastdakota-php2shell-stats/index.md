@@ -24,7 +24,7 @@ Captured by claude-story-site. Status: captured. Attempt counts: thousands befor
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | Exploit attempts across Cloudflare's network: thousands in the ten hours before announcement, tens of thousands within 45 minutes after, hundreds of thousands within two hours, millions by 22 October 01:25 UTCPrimary party. Attempts, not compromises; no blocked count; 1.4 million views at capture. [fact timeline →](../../facts/cf-millions/index.html) | Matthew Prince, Cloudflare CEO, on X | reported | **A2** Reported●●○○○○ measures differently | 1/1 | [Matthew Prince, Cloudflare CEO on…](../../sources/x-eastdakota-php2shell-stats/index.html) |
 
@@ -41,7 +41,7 @@ Captured by claude-story-site. Status: captured. Attempt counts: thousands befor
 | millions | exploit attempts seen across Cloudflare's network by 22 October 01:25 UTC | reported |
 
 ### Exploitation signals from this source
-- [2026-10-22 01:25 UTC](../../exploitation/index.html): Thousands of attempts in the ten hours before announcement; tens of thousands within 45 minutes after; hundreds of thousands within two hours; millions now.
+- [2026-10-22 01:25 UTC](https://php.oct.2026.newsroom.sgit.ai/exploitation/): Thousands of attempts in the ten hours before announcement; tens of thousands within 45 minutes after; hundreds of thousands within two hours; millions now.
 
 ## The bytes
 capture 20261022T111808Z · HTTP 200 · https://x.com/eastdakota/status/2113079352682570051- `headers.json` d77dc66c0c59c96e2e54ddfecf08d3b1bd24635a9d74435e5e11a42df31beefb 9,023 bytes
@@ -55,4 +55,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/x-eastdakota-php2shell-stats/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/x-eastdakota-php2shell-stats/index.html

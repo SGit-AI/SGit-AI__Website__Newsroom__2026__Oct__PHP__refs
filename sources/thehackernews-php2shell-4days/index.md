@@ -32,7 +32,7 @@ Dated Oct 22, 2026. Quotes Amazon CISO CJ Moses ('post shared with The Hacker Ne
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | VulnCheck counts about 2.6 million internet-facing hosts exposing PHP; Censys, of the 2.58 million hosts it saw, could read a version on 1.58 million, and 1.57 million of those were unpatched on 21 OctoberCensys: 2.58 million hosts seen, 1.58 million reporting a version, 1.57 million not patched; nearly 3 million by 22 October. VirusTotal: 5.1 million IPs running PHP, 1.1 million announcing a version. Unit 42: 22.6 million systems that 'could be vulnerable' (via Insurance Business). Censys's own post was not found. [fact timeline →](../../facts/scale-2.6m-hosts/index.html) | VulnCheck and Censys, via The Hacker News and SecurityWeek | reported | **A2** Reported●●○○○○ | 0/2 | [THN](../../sources/thehackernews-php2shell-4days/index.html) [SecurityWeek](../../sources/securityweek-exploitation-days-before/index.html) |
 | Frontier AI found the flaw ahead of attackers, giving defenders time to prepareAmazon reports an exploit attempt against a honeypot on 17 October, four days before disclosure, from an actor whose source of exploit information is unknown. [fact timeline →](../../facts/ahead-of-attackers/index.html) | OpenAI | disputed | **A2** Reported●●○○○○ opinion disputed | 1/2 | [OpenAI on X](../../sources/x-openai-php2shell/index.html) [THN](../../sources/thehackernews-php2shell-4days/index.html) |
@@ -55,10 +55,10 @@ Dated Oct 22, 2026. Quotes Amazon CISO CJ Moses ('post shared with The Hacker Ne
 | 4 days | before disclosure, an exploit attempt hit an Amazon honeypot | reported |
 
 ### Exploitation signals from this source
-- [2026-10-17](../../exploitation/index.html): One exploit attempt against a MadPot honeypot from an IP on a commercial anonymisation network, geolocated to Australia, four days before disclosure. 'It remain
-- [2026-10-21 02:00 UTC](../../exploitation/index.html): Proof-of-concept attempts begin, then six hours of attempts from anonymised infrastructure; 'multiple threat actors'.
-- [2026-10-21 08:36 UTC](../../exploitation/index.html): First sensor hit, about 55 minutes after Chainguard's images.
-- [2026-10-22](../../exploitation/index.html): Amazon and Cloudflare saw sites being probed for the flaw.
+- [2026-10-17](https://php.oct.2026.newsroom.sgit.ai/exploitation/): One exploit attempt against a MadPot honeypot from an IP on a commercial anonymisation network, geolocated to Australia, four days before disclosure. 'It remain
+- [2026-10-21 02:00 UTC](https://php.oct.2026.newsroom.sgit.ai/exploitation/): Proof-of-concept attempts begin, then six hours of attempts from anonymised infrastructure; 'multiple threat actors'.
+- [2026-10-21 08:36 UTC](https://php.oct.2026.newsroom.sgit.ai/exploitation/): First sensor hit, about 55 minutes after Chainguard's images.
+- [2026-10-22](https://php.oct.2026.newsroom.sgit.ai/exploitation/): Amazon and Cloudflare saw sites being probed for the flaw.
 
 ## The bytes
 capture 20261022T081320Z · HTTP 200 · https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html- `headers.json` 54c094189f50f4afa3962d0e484ef93cf0f92bd1fefb71ae2fec7e63b71b3b14 783 bytes
@@ -78,4 +78,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/thehackernews-php2shell-4days/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/thehackernews-php2shell-4days/index.html

@@ -30,7 +30,7 @@ Latvia restricted access from abroad to several state digital resources (geo-blo
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | About 6,000 potentially affected resources in Latvia, a few hundred in the public sectorPrimary source, one country, says 'potentially'. [fact timeline →](../../facts/scale-latvia/index.html) | CERT.LV | reported | **A2** Reported●●○○○○ | 1/1 | [CERT.LV](../../sources/certlv-php-preventive/index.html) |
 | Automated exploitation attempts were seen in Latvia; none succeededPrimary source. [fact timeline →](../../facts/latvia-attempts/index.html) | CERT.LV | reported | **A2** Reported●●○○○○ | 1/1 | [CERT.LV](../../sources/certlv-php-preventive/index.html) |
@@ -50,10 +50,10 @@ Latvia restricted access from abroad to several state digital resources (geo-blo
 | about 6,000 | potentially affected resources in Latvia, a few hundred in the public sector | reported |
 
 ### Agency rows from this source
-- [CERT.LV](../../agencies/index.html): offline restrict from abroad
+- [CERT.LV](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline restrict from abroad
 
 ### Exploitation signals from this source
-- [2026-10-21 20:00 UTC](../../exploitation/index.html): Automated exploitation attempts seen in Latvia; no reports of successful attacks.
+- [2026-10-21 20:00 UTC](https://php.oct.2026.newsroom.sgit.ai/exploitation/): Automated exploitation attempts seen in Latvia; no reports of successful attacks.
 
 ## The bytes
 capture 20261022T081354Z · HTTP 200 · https://cert.lv/lv/2026/10/saistiba-ar-globali-atklatam-php-ievainojamibam-latvija-ievies-preventivus-pasakumus- `headers.json` b75279eb611beef16c83a6ab4d307db8ec59d18614d4d21ea1c78320a4346166 737 bytes
@@ -67,4 +67,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/certlv-php-preventive/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/certlv-php-preventive/index.html

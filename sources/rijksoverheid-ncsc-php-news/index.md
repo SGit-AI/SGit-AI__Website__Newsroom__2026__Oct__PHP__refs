@@ -22,7 +22,7 @@ Captured by claude-story-site. Status: captured. Primary: NCSC.NL taken offline 
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | The Dutch government took NCSC.nl offline as a precaution, with no active misuse seen yet; Dutch press reported DigiD, MijnOverheid and Overheid.nl offline tooThe government's notice names only NCSC.nl; DigiD and MijnOverheid rest on the press (fact-check desk, run 1: holds in part, overstated). [fact timeline →](../../facts/nl-offline/index.html) | the Dutch government | reported | **A4** Corroborated●●●●○○ | 1/2 | [Rijksoverheid / NCSC-NL](../../sources/rijksoverheid-ncsc-php-news/index.html) [TPO.nl](../../sources/tpo-nl-digid-offline/index.html) |
 
@@ -44,4 +44,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/rijksoverheid-ncsc-php-news/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/rijksoverheid-ncsc-php-news/index.html

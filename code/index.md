@@ -74,8 +74,8 @@ Branch `PHP-7.4-CVE-2026-109618-109619`, commit `712e60f9e`, same title, same au
 - The 2024 trail: the Foundation says a core developer saw the first signs of the OOM problem while fixing a 2024 audit finding. That developer, that fix and that issue are not named in any captured source, and this site's shallow clone does not reach 2024 history.
 - Whether the Fediverse report of an incomplete fix in 8.5.12 concerns one of these paths.
 
-How the bug is reached from a request is on [the two flaws](../flaws/index.html); what to watch for on a host is on [detection and defence](../defence/index.html).
+How the bug is reached from a request is on [the two flaws](https://php.oct.2026.newsroom.sgit.ai/flaws/); what to watch for on a host is on [detection and defence](https://php.oct.2026.newsroom.sgit.ai/defence/).
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/code/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/code/index.html

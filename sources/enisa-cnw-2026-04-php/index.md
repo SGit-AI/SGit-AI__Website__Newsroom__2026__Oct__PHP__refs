@@ -35,7 +35,7 @@ No claim cites this source yet.
 No timeline event cites this source yet.
 
 ### Agency rows from this source
-- [ENISA CSIRTs Network](../../agencies/index.html): offline none
+- [ENISA CSIRTs Network](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline none
 
 ## The bytes
 capture 20261022T081329Z · HTTP 200 · https://github.com/enisaeu/CNW/blob/main/advisories/2026/CNW-2026-04_php.md- `headers.json` 4fddd3b1827235c9608b8a4c92566f15c7fde3ea496d7a74061d64b18fdd4072 5,637 bytes
@@ -49,4 +49,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/enisa-cnw-2026-04-php/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/enisa-cnw-2026-04-php/index.html

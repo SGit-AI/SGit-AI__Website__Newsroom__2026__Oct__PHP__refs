@@ -24,9 +24,9 @@ Counted from the captured Quarkslab page: 2 high, 6 medium, 9 low and 10 informa
 | [substack-lopezkurtz-patch-is-the-exploit](../../sources/substack-lopezkurtz-patch-is-the-exploit/index.html) | carries | *lists 27 findings, two of them redacted because their fixes were “complex and in progress”; it does not describe an out-of-memory finding.* | cb3714dc12f96c96 |
 | [php-foundation-blog-security-release](../../sources/php-foundation-blog-security-release/index.html) | carries | *While fixing one of the issues Quarkslab reported, a PHP core developer contracted by the PHP Foundation found the first signs of the OOM problem* | a1be057adc1c5bfa |
 
-Open tickets: [Finding-95](../../factcheck/index.html#Finding-95).
+Open tickets: [Finding-95](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-95).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:31 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:31 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2025-04-10Quarkslab publishes [Security audit of PHP-SRC - Quarkslab's blog](../../sources/quarkslab-blog-php-src-audit/index.html)
@@ -42,7 +42,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 RRowanJournalistAAshSecurity researcherBBlakeAnalyst or policy advisorRRileyCommunications team
-And on [every claim](../../claims/index.html#quarkslab-redacted).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#quarkslab-redacted).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · reported
@@ -56,4 +56,4 @@ Sources: quarkslab-blog-php-src-audit, substack-lopezkurtz-patch-is-the-exploit
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/quarkslab-redacted/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/quarkslab-redacted/index.html

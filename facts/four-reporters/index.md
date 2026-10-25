@@ -26,9 +26,9 @@ Both captured GitHub advisories list exactly these four handles as 'Reporter' (A
 | [cve-cve-2026-109618](../../sources/cve-cve-2026-109618/index.html) | partial | *Ryan at Calif.io reporter Wiz reporter OpenAI finder* | f8705d8e0aa2a248 |
 | [cve-cve-2026-109619](../../sources/cve-cve-2026-109619/index.html) | partial | *Wiz reporter Ryan at Calif.io reporter OpenAI reporter* | 3162135e82a9edd4 |
 
-Open tickets: [Finding-73](../../factcheck/index.html#Finding-73).
+Open tickets: [Finding-73](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-73).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:12 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:12 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21Daubois publishes [What the PHP2Shell rumors got wrong, from inside the PHP security team](../../sources/daubois-blog-php2shell-rumors/index.html)
@@ -47,7 +47,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 RRowanJournalistAAshSecurity researcherBBlakeAnalyst or policy advisorRRileyCommunications team
-And on [every claim](../../claims/index.html#four-reporters).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#four-reporters).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · confirmed
@@ -61,4 +61,4 @@ Sources: github-ghsa-w8hw-w9fx-j79w, github-ghsa-6wmf-4rv5-p3rp, daubois-blog-ph
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/four-reporters/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/four-reporters/index.html

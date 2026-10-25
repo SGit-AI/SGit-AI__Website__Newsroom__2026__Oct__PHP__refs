@@ -30,7 +30,7 @@ First NSA post (pinned). Time from tweet snowflake ID = 2026-10-21T13:45:58Z; th
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | If an immediate update is not feasible, take the system offline until it can be fully mitigatedX post 13:45:58Z 21 October (10.1 million views at capture) and the press release. [fact timeline →](../../facts/offline-nsa/index.html) | NSA Cybersecurity | confirmed | **A6** Established●●●●●● | 2/2 | [NSA Cyber on X](../../sources/nsa-x-2112903220209098897/index.html) [NSA](../../sources/nsa-press-php-4630238/index.html) |
 
@@ -47,7 +47,7 @@ First NSA post (pinned). Time from tweet snowflake ID = 2026-10-21T13:45:58Z; th
 | 10.1 million | views of the NSA Cyber post, at capture | confirmed |
 
 ### Agency rows from this source
-- [NSA Cybersecurity](../../agencies/index.html): offline yes
+- [NSA Cybersecurity](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline yes
 
 ## The bytes
 capture 20261022T080954Z · HTTP 200 · https://x.com/NSACyber/status/2112903220209098897- `headers.json` 2b72f04731267bb06c6ed80fb9fab697c55697ef2b83303924c315720ed63729 9,020 bytes
@@ -61,4 +61,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/nsa-x-2112903220209098897/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/nsa-x-2112903220209098897/index.html

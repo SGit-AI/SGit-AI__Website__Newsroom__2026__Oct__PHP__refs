@@ -25,9 +25,9 @@ The KEV dates are counted from the captured catalog; 'exploited in the wild one 
 | [akamai-blog-cve-2024-4577-one-day](../../sources/akamai-blog-cve-2024-4577-one-day/index.html) | carries | *As early as one day after disclosure, the SIRT observed numerous exploit attempts to abuse this vulnerability* | f7a58be0ecaaa8db |
 | [akamai-blog-cve-2024-4577-one-day](../../sources/akamai-blog-cve-2024-4577-one-day/index.html) | partial | *we observed exploit attempts targeting this PHP flaw on our honeypot network within 24 hours of its disclosure.* | f7a58be0ecaaa8db |
 
-Open tickets: [Evidence-1](../../factcheck/index.html#Evidence-1), [Finding-20](../../factcheck/index.html#Finding-20), [Finding-21](../../factcheck/index.html#Finding-21), [Finding-76](../../factcheck/index.html#Finding-76).
+Open tickets: [Evidence-1](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-1), [Finding-20](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-20), [Finding-21](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-21), [Finding-76](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-76).
 
-Graded in Run-3, resting on captures up to 2026-10-22 11:25 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-3, resting on captures up to 2026-10-22 11:25 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2024Akamai Security Research publishes [CVE-2024-4577 Exploits in the Wild One Day After Disclosure](../../sources/akamai-blog-cve-2024-4577-one-day/index.html)
@@ -45,7 +45,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerCCaseyWebsite ownerJJordanBoard member or executiveSSamSecurity leadBBlakeAnalyst or policy advisorRRobinCISOQQuinnCFOMMorganData protection officerJJamieHead of AppSec
-And on [every claim](../../claims/index.html#kev-precedent).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#kev-precedent).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · confirmed
@@ -60,4 +60,4 @@ v2 · site v0.12.1 · 24 October 2026 · reportedThe last PHP core RCE, CVE-2024
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/kev-precedent/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/kev-precedent/index.html

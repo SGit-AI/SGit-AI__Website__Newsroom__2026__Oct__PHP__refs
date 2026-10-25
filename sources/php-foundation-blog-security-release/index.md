@@ -54,7 +54,7 @@ Foundation's account of discovery, 2024 audit origin, leak timeline (20 Oct 15:0
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | The flaws are CVSS 10.0The PHP Foundation: 'a wrong CVSS score of 10.0 (the actual score is 9.2)'. Daubois traces it to a social post relayed by Phoenix Security and to watchTowr via Cyber Daily. [fact timeline →](../../facts/cvss-10/index.html) | social posts on 20 October, relayed by a vendor and a news site | contradicted | refuted contradicted | 1/2 | [PHP Foundation](../../sources/php-foundation-blog-security-release/index.html) [Daubois](../../sources/daubois-blog-php2shell-rumors/index.html) |
 | Remote code execution is confirmed on PHP-FPMGHSA-w8hw (CVE-2026-109618): 'no complete FPM exploit has been demonstrated for this SAPI'. The Foundation blog: RCE 'was also confirmed on PHP-FPM through application-level code paths'. GHSA-6wmf (CVE-2026-109619): session lifecycle RCE 'validated against mod_php and FPM'. The accounts may refer to different CVEs. [fact timeline →](../../facts/rce-fpm/index.html) | PHP Foundation blog; GHSA-6wmf for the session path | disputed | **A6** Established●●●●●● | 4/4 | [PHP Foundation](../../sources/php-foundation-blog-security-release/index.html) [PHP](../../sources/github-ghsa-6wmf-4rv5-p3rp/index.html) [PHP](../../sources/github-ghsa-w8hw-w9fx-j79w/index.html) [oss-security](../../sources/openwall-oss-security-2026-10-21-6/index.html) |
@@ -92,7 +92,7 @@ Foundation's account of discovery, 2024 audit origin, leak timeline (20 Oct 15:0
 | more than 6 hours | before the coordinated release, Chainguard published built images with the fix | reported |
 
 ### Exploitation signals from this source
-- [2026-10-21](../../exploitation/index.html): 'did not identify any functional exploits at the time of release/public disclosure.'
+- [2026-10-21](https://php.oct.2026.newsroom.sgit.ai/exploitation/): 'did not identify any functional exploits at the time of release/public disclosure.'
 
 ## The bytes
 capture 20261022T080901Z · HTTP 200 · https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/- `headers.json` c18914982a4c07d0a15b76e052d18c5f77f345016e356ea5cb65e766f0096b0f 857 bytes
@@ -106,4 +106,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/php-foundation-blog-security-release/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/php-foundation-blog-security-release/index.html

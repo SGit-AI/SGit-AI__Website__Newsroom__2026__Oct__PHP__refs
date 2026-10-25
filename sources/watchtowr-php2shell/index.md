@@ -22,7 +22,7 @@ Captured by claude-story-site. Status: captured. BLOCKED: HTTP 403 to the captur
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | watchTowr sees active exploitation attempts and lists the flaws as exploited in the wildwatchtowr.com returns HTTP 403 to this site's capture tool; known only from search summaries. [fact timeline →](../../facts/watchtowr-itw/index.html) | watchTowr | unverified | **A6** Established●●●●●● | 2/2 | [watchTowr](../../sources/watchtowr-php2shell/index.html) [watchTowr](../../sources/watchtowr-php2shell-faq/index.html) |
 
@@ -31,7 +31,7 @@ Captured by claude-story-site. Status: captured. BLOCKED: HTTP 403 to the captur
 No timeline event cites this source yet.
 
 ### Exploitation signals from this source
-- [2026-10-21](../../exploitation/index.html): Active exploitation attempts; the flaws listed as exploited in the wild.
+- [2026-10-21](https://php.oct.2026.newsroom.sgit.ai/exploitation/): Active exploitation attempts; the flaws listed as exploited in the wild.
 
 ## The bytes
 capture 20261022T111839Z · HTTP 200 · chrome-error://chromewebdata/- `headers.json` ff01331edab1c463627b7d97ebbf6c6089f2893fb06dcf8f589c2d11416bf603 2,911 bytes
@@ -51,4 +51,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/watchtowr-php2shell/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/watchtowr-php2shell/index.html

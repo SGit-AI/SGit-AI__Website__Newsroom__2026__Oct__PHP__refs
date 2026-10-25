@@ -446,8 +446,8 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 |---|---|---|---|---|
 | This site (php.oct.2026.newsroom.sgit.ai) | 1 | 0 | 0 | [no-confirmed-compromise](../../facts/no-confirmed-compromise/index.html) |
 
-The file is [data/entities.json](../../data/entities.json), with who states each row in [data/attribution.json](../../data/attribution.json). A party with a page of its own links to it.
+The file is [data/entities.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.7/entities.json), with who states each row in [data/attribution.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.7/attribution.json). A party with a page of its own links to it.
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/graph/parties/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/graph/parties/index.html

@@ -24,9 +24,9 @@ The Scotsman carries the outage, the council's "essential maintenance" and that 
 | [lbc-uk-websites-offline](../../sources/lbc-uk-websites-offline/index.html) | partial | *Edinburgh and Oxford Council as well as the online home for The Traitors were taken down as was The Met Police website.* | 125176f10b5494a6 |
 | [uk-edinburgh-council](../../sources/uk-edinburgh-council/index.html) | absent | *nothing that carries it* | eef60737c49dfded |
 
-Open tickets: [Finding-67](../../factcheck/index.html#Finding-67).
+Open tickets: [Finding-67](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-67).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:21 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:21 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21 18:09 UTCThe Scotsman publishes [Edinburgh council website offline amid global cyber security alert](../../sources/scotsman-edinburgh-council-offline/index.html)
@@ -41,7 +41,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerTTaylorProject or programme managerJJordanBoard member or executiveRRobinCISOQQuinnCFOMMorganData protection officerRRileyCommunications team
-And on [every claim](../../claims/index.html#edinburgh).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#edinburgh).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · reported
@@ -55,4 +55,4 @@ Sources: scotsman-edinburgh-council-offline
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/edinburgh/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/edinburgh/index.html

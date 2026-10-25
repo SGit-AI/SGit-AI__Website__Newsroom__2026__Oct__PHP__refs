@@ -27,9 +27,9 @@ The Foundation's page says this word for word (one named primary party, the reci
 | [cybernews-php2shell-millions](../../sources/cybernews-php2shell-millions/index.html) | partial | *According to OpenAI, Calif used GPT-5.6 Sol to investigate the flaw. OpenAI’s own researcher subsequently identified additional flaws* | a5ebfc60c25fe8b2 |
 | [openai-blog-coordinated-disclosure](../../sources/openai-blog-coordinated-disclosure/index.html) | blocked | *nothing that carries it* | e3b0c44298fc1c14 |
 
-Open tickets: [Finding-3](../../factcheck/index.html#Finding-3), [Finding-90](../../factcheck/index.html#Finding-90).
+Open tickets: [Finding-3](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-3), [Finding-90](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-90).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:27 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:27 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21PHP Foundation publishes [Today's PHP Security Release, and How We're Strengthening PHP Security](../../sources/php-foundation-blog-security-release/index.html)
@@ -46,7 +46,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 RRowanJournalistAAshSecurity researcherBBlakeAnalyst or policy advisorRRileyCommunications team
-And on [every claim](../../claims/index.html#openai-same-day).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#openai-same-day).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -60,4 +60,4 @@ Sources: php-foundation-blog-security-release, github-ghsa-w8hw-w9fx-j79w
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/openai-same-day/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/openai-same-day/index.html

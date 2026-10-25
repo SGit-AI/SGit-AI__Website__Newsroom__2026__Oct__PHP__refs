@@ -27,7 +27,7 @@ No claim cites this source yet.
 No timeline event cites this source yet.
 
 ### Agency rows from this source
-- [ASD's ACSC](../../agencies/index.html): offline none
+- [ASD's ACSC](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline none
 
 ## The bytes
 capture 20261022T081604Z · HTTP 200 · https://www.cyber.gov.au/- `headers.json` 3d448cbb053930039edd6bcb6779264beb2fa8c4c073bc5084ca3a5b0c369a5f 1,937 bytes
@@ -41,4 +41,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/acsc-home/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/acsc-home/index.html

@@ -25,9 +25,9 @@ Both CVE records (CNA PHP Group) carry CVSS 4.0 9.2 CRITICAL and the four fixed-
 | [php-net-advisory](../../sources/php-net-advisory/index.html) | carries | *PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution.* | df0b1bba3deae282 |
 | [openwall-oss-security-2026-10-21-6](../../sources/openwall-oss-security-2026-10-21-6/index.html) | carries | *Severity: Critical (CVSS v4.0: 9.2)* | 2f2d3ff13f3a32b7 |
 
-Open tickets: [Contradiction-3](../../factcheck/index.html#Contradiction-3), [Contradiction-7](../../factcheck/index.html#Contradiction-7), [Evidence-10](../../factcheck/index.html#Evidence-10), [Evidence-17](../../factcheck/index.html#Evidence-17), [Evidence-6](../../factcheck/index.html#Evidence-6).
+Open tickets: [Contradiction-3](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-3), [Contradiction-7](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-7), [Evidence-10](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-10), [Evidence-17](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-17), [Evidence-6](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-6).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:14 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:14 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21php.net publishes [Security advisory: Critical remote code execution vulnerabilities, update now](../../sources/php-net-advisory/index.html)
@@ -50,7 +50,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerSSamSecurity leadDDrewPHP or platform engineerAAshSecurity researcherRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecLLeeDeveloper
-And on [every claim](../../claims/index.html#two-cves-9.2).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#two-cves-9.2).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · confirmed
@@ -64,4 +64,4 @@ Sources: cve-cve-2026-109618, cve-cve-2026-109619, github-ghsa-w8hw-w9fx-j79w, g
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/two-cves-9.2/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/two-cves-9.2/index.html

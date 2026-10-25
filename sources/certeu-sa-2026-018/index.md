@@ -44,7 +44,7 @@ v1.0 and v1.1 both 21/10/2026. States the PHP fixes were released '21 October 20
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | watchTowr confirmed in public that the bugs were real and posted both CVE numbers before the release [fact timeline →](../../facts/leak-watchtowr/index.html) | Daubois; CERT-EU lists a watchTowr X post among public reports | reported | **A4** Corroborated●●●●○○ | 1/2 | [Daubois](../../sources/daubois-blog-php2shell-rumors/index.html) [CERT-EU](../../sources/certeu-sa-2026-018/index.html) |
 | The fixes were released at 14:00 UTC on 21 OctoberCERT-EU says 13:30 UTC; the tags and advisories are stamped 13:34 to 13:35 UTC; the GitHub release 14:06 UTC; the php.net feed entries carry 00:05 to 00:35 UTC, which are authoring times, not publication times. [fact timeline →](../../facts/release-time/index.html) | php.net pre-announcement; Daubois; CERT-FR (16:00 Paris) | disputed | **A2** Reported●●○○○○ disputed | 7/8 | [oss-security](../../sources/openwall-oss-security-2026-10-20-34/index.html) [Daubois](../../sources/daubois-blog-php2shell-rumors/index.html) [CERT-FR](../../sources/certfr-2026-ale-014/index.html) [CERT-EU](../../sources/certeu-sa-2026-018/index.html) [php-src](../../sources/github-php-src-tags/index.html) [PHP](../../sources/github-ghsa-w8hw-w9fx-j79w/index.html) [php-src](../../sources/github-php-src-tag-php-8.5.12/index.html) [php.net](../../sources/php-net-advisory/index.html) |
@@ -64,7 +64,7 @@ v1.0 and v1.1 both 21/10/2026. States the PHP fixes were released '21 October 20
 | 9.2 | CVSS v4.0, each CVE | confirmed |
 
 ### Agency rows from this source
-- [CERT-EU](../../agencies/index.html): offline isolate
+- [CERT-EU](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline isolate
 
 ## The bytes
 capture 20261022T081329Z · HTTP 200 · https://cert.europa.eu/publications/security-advisories/2026-018/- `headers.json` 035d980d7924b86c61cd912c5ae8e55b5adbdf20e9f99f9c780d7b37e830e596 1,370 bytes
@@ -78,4 +78,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/certeu-sa-2026-018/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/certeu-sa-2026-018/index.html

@@ -28,7 +28,7 @@ Hash-only tweet shown as '15:54 · 5 Aug 2026' (capture browser in UTC). Cited b
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | Calif found the flaws first: discovery 1 August, hash commitment 5 August, report to PHP 11 AugustThe hash tweet is dated 5 August 2026 on X; its pre-image has not been published, so what it commits to cannot be checked. [fact timeline →](../../facts/who-first/index.html) | Calif; PHP Foundation (report date) | confirmed | **A3** Echoed●●●○○○ opinion measures differently status overstated | 3/3 | [Calif](../../sources/calif-php2shell/index.html) [Ryan Austin, Calif on X](../../sources/x-lcfr-hax-hash-tweet/index.html) [PHP Foundation](../../sources/php-foundation-blog-security-release/index.html) |
 
@@ -50,4 +50,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/x-lcfr-hax-hash-tweet/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/x-lcfr-hax-hash-tweet/index.html

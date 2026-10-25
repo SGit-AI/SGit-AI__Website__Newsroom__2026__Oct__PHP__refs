@@ -20,9 +20,9 @@ CISA's alert says organisations that cannot update immediately, or that use PHP 
 |---|---|---|---|
 | [cisa-alert-php-20261021](../../sources/cisa-alert-php-20261021/index.html) | carries | *Organizations that cannot update immediately, or that continue to use PHP 8.1 or earlier unsupported versions, should take PHP-based systems offline* | 7bf853872a073bde |
 
-Open tickets: [Finding-88](../../factcheck/index.html#Finding-88).
+Open tickets: [Finding-88](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-88).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:13 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:13 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21CISA publishes [Critical Vulnerabilities in PHP Require Immediate Patching](../../sources/cisa-alert-php-20261021/index.html)
@@ -37,7 +37,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerTTaylorProject or programme managerJJordanBoard member or executiveSSamSecurity leadRRowanJournalistRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecRRileyCommunications team
-And on [every claim](../../claims/index.html#offline-cisa).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#offline-cisa).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · confirmed
@@ -51,4 +51,4 @@ Sources: cisa-alert-php-20261021
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/offline-cisa/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/offline-cisa/index.html

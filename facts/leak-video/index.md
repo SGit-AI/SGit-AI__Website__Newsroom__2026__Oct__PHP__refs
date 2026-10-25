@@ -26,9 +26,9 @@ The Foundation states it and the quoted phrase is verbatim; BBC, The Register, T
 | [calif-php2shell](../../sources/calif-php2shell/index.html) | absent | *nothing that carries it* | 23afef81971778f9 |
 | [daubois-blog-php2shell-rumors](../../sources/daubois-blog-php2shell-rumors/index.html) | partial | *a short exploitation video went up and came down the same way.* | 5ef17f9886aa93f7 |
 
-Open tickets: [Contradiction-9](../../factcheck/index.html#Contradiction-9), [Finding-80](../../factcheck/index.html#Finding-80), [Finding-9](../../factcheck/index.html#Finding-9).
+Open tickets: [Contradiction-9](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-9), [Finding-80](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-80), [Finding-9](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-9).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:32 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:32 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21PHP Foundation publishes [Today's PHP Security Release, and How We're Strengthening PHP Security](../../sources/php-foundation-blog-security-release/index.html)
@@ -49,7 +49,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 RRowanJournalistAAshSecurity researcherBBlakeAnalyst or policy advisor
-And on [every claim](../../claims/index.html#leak-video).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#leak-video).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -63,4 +63,4 @@ Sources: php-foundation-blog-security-release, phpfoundation-blog-security-relea
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/leak-video/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/leak-video/index.html

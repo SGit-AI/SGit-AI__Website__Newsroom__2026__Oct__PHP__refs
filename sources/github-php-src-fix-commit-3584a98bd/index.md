@@ -34,7 +34,7 @@ git show output of the fix commit (stat, file list, engine/main/session hunks), 
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | The fix was authored on 18 October at 15:26 UTC and entered the public branches at 14:06 UTC on 21 October, with merges into 8.3, 8.4 and 8.5 between 14:12 and 14:30 UTCCounted from the repository, not from a page. Five authors; 389 files; 10,689 insertions. [fact timeline →](../../facts/fix-authored/index.html) | php/php-src commit 3584a98bd, read from a clone | confirmed | **A6** Established●●●●●● | 2/2 | [php/php-src, read from a clone](../../sources/github-php-src-fix-commit-3584a98bd/index.html) [php-src](../../sources/github-php-src-tag-php-8.5.12/index.html) |
 | Both bugs are in the C engine, not in PHP code: the allocator's longjmp-based bailout on out-of-memory, and request globals that survive a failed requestThe fix replaces bailout with a delayed error and an UnwindExit at a safe point, adds a hard limit that _exits, and resets the globals. See the code page. [fact timeline →](../../facts/fix-engine/index.html) | php/php-src fix commit; the GitHub advisories | confirmed | **A6** Established●●●●●● | 3/3 | [php/php-src, read from a clone](../../sources/github-php-src-fix-commit-3584a98bd/index.html) [PHP](../../sources/github-ghsa-w8hw-w9fx-j79w/index.html) [PHP](../../sources/github-ghsa-6wmf-4rv5-p3rp/index.html) |
@@ -67,4 +67,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/github-php-src-fix-commit-3584a98bd/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/github-php-src-fix-commit-3584a98bd/index.html

@@ -26,9 +26,9 @@ The Hacker News post, its removal and the screenshots spreading are carried by D
 | [equixly-php2shell-what-we-know](../../sources/equixly-php2shell-what-we-know/index.html) | partial | *Sansec cites a leaked screenshot of an exploit tool named PHP2Shell, whose banner claims the tool works against PHP 5.4.0 and later.* | 34bf72d02f14deb9 |
 | [thehackernews-php2shell-4days](../../sources/thehackernews-php2shell-4days/index.html) | partial | *details about the CVE identifiers and a proof-of-concept (PoC) exploit leaked ahead of time* | c1cb63141287484c |
 
-Open tickets: [Contradiction-9](../../factcheck/index.html#Contradiction-9), [Finding-79](../../factcheck/index.html#Finding-79).
+Open tickets: [Contradiction-9](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-9), [Finding-79](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-79).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:28 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:28 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21Daubois publishes [What the PHP2Shell rumors got wrong, from inside the PHP security team](../../sources/daubois-blog-php2shell-rumors/index.html)
@@ -43,7 +43,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 RRowanJournalistAAshSecurity researcherBBlakeAnalyst or policy advisor
-And on [every claim](../../claims/index.html#leak-hn).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#leak-hn).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -57,4 +57,4 @@ Sources: daubois-blog-php2shell-rumors
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/leak-hn/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/leak-hn/index.html

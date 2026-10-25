@@ -29,9 +29,9 @@ Now carries the population, 'websites whose server-side language is known' (Find
 | [rte-reuters-websites-go-dark](../../sources/rte-reuters-websites-go-dark/index.html) | partial | *PHP runs roughly 75% of websites whose programming language can be identified, according to web technology tracker W3Techs* | 99bb92662561bd29 |
 | [abc-au-gov-sites-exposed](../../sources/abc-au-gov-sites-exposed/index.html) | partial | *PHP runs about 75 per cent of websites whose programming language can be identified, according to web technology tracker W3Techs.* | 84937c7c5b87e7c9 |
 
-Open tickets: [Contradiction-1](../../factcheck/index.html#Contradiction-1), [Contradiction-12](../../factcheck/index.html#Contradiction-12), [Evidence-15](../../factcheck/index.html#Evidence-15), [Finding-103](../../factcheck/index.html#Finding-103), [Finding-32](../../factcheck/index.html#Finding-32), [Finding-33](../../factcheck/index.html#Finding-33).
+Open tickets: [Contradiction-1](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-1), [Contradiction-12](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-12), [Evidence-15](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-15), [Finding-103](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-103), [Finding-32](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-32), [Finding-33](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-33).
 
-Graded in Run-3, resting on captures up to 2026-10-22 11:23 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-3, resting on captures up to 2026-10-22 11:23 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21Cloudflare publishes [Cloudflare deploys protections against php2shell vulnerability](../../sources/cloudflare-blog-php2shell-waf/index.html)
@@ -51,7 +51,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerJJordanBoard member or executiveSSamSecurity leadRRowanJournalistBBlakeAnalyst or policy advisorRRobinCISOQQuinnCFORRileyCommunications team
-And on [every claim](../../claims/index.html#scale-70pc-websites).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#scale-70pc-websites).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -66,4 +66,4 @@ v2 · site v0.12.1 · 24 October 2026 · reportedPHP is used by almost 70% of we
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/scale-70pc-websites/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-70pc-websites/index.html

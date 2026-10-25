@@ -23,7 +23,7 @@ Both of NSA's own pages carry the advice in nearly the claim's words: the press 
 | [nsa-x-2112903220209098897](../../sources/nsa-x-2112903220209098897/index.html) | carries | *If an immediate update is not feasible, it is recommend that organizations take the system offline until it can be fully mitigated.* | 92ebce791a7b3542 |
 | [nsa-press-php-4630238](../../sources/nsa-press-php-4630238/index.html) | carries | *If an immediate update is not feasible, it is recommended that organizations take the system offline until it can be fully mitigated.* | 8a8553ea1ffcd794 |
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:09 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:09 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21NSA publishes [NSA Advisory: Critical Patches Recommended for PHP Vulnerabilities](../../sources/nsa-press-php-4630238/index.html)
@@ -40,7 +40,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerTTaylorProject or programme managerJJordanBoard member or executiveSSamSecurity leadRRowanJournalistRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecRRileyCommunications team
-And on [every claim](../../claims/index.html#offline-nsa).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#offline-nsa).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · confirmed
@@ -54,4 +54,4 @@ Sources: nsa-x-2112903220209098897, nsa-press-php-4630238
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/offline-nsa/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/offline-nsa/index.html

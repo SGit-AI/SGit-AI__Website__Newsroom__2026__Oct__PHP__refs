@@ -24,9 +24,9 @@ Helsinki Times carries Valtori restricting incoming public traffic from 12:45 lo
 | [yle-finland-government-sites-shut](../../sources/yle-finland-government-sites-shut/index.html) | partial | *According to Valtori, services began being shut down in the early afternoon.* | 720785d651f827be |
 | [reuters-factbox-websites-offline](../../sources/reuters-factbox-websites-offline/index.html) | partial | *State IT centre Valtori shut down the government's public web services on Wednesday as "a precautionary measure."* | d562e28995b00a19 |
 
-Open tickets: [Finding-68](../../factcheck/index.html#Finding-68).
+Open tickets: [Finding-68](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-68).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:32 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:32 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21Yle publishes [Finland temporarily shuts down government websites as a precaution for critical vulnerabilities | Yle News | Y](../../sources/yle-finland-government-sites-shut/index.html)
@@ -43,7 +43,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerTTaylorProject or programme managerJJordanBoard member or executiveRRobinCISOQQuinnCFOMMorganData protection officerRRileyCommunications team
-And on [every claim](../../claims/index.html#fi-offline).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#fi-offline).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · reported
@@ -57,4 +57,4 @@ Sources: yle-finland-government-sites-shut, helsinkitimes-finland-shutdown
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/fi-offline/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/fi-offline/index.html

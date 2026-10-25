@@ -50,7 +50,7 @@ Live page; bbc.co.uk redirects to bbc.com. raw/ holds a curl copy at 07:55Z and 
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | 70% of the Internet is affectedThe BBC was 'unable to independently verify that figure'. Wiz's body text says 70% of websites and cites no measurement. [fact timeline →](../../facts/scale-70pc-internet/index.html) | Wiz (headline, X post); the BBC, which reports it as Wiz's 'roughly 70%' | unverified | **A1** Weak signal●○○○○○ measures differently | 2/3 | [Wiz](../../sources/wiz-blog-php2shell/index.html) [Wiz on X](../../sources/x-wiz-io-php2shell/index.html) [BBC News](../../sources/bbc-live-ckgel5xp2xv9t/index.html) |
 | Something like 30 million websites could be affectedNo basis given. [fact timeline →](../../facts/scale-30m/index.html) | Alan Woodward, via the BBC | reported | **A2** Reported●●○○○○ | 0/1 | [BBC News](../../sources/bbc-live-ckgel5xp2xv9t/index.html) |
@@ -82,9 +82,9 @@ Live page; bbc.co.uk redirects to bbc.com. raw/ holds a curl copy at 07:55Z and 
 | about 30 million | websites | reported |
 
 ### Exploitation signals from this source
-- [2026-10-22 07:00 UTC](../../exploitation/index.html): No evidence of exploitation yet: 'Not at the moment'.
-- [2026-10-22](../../exploitation/index.html): Amazon and Cloudflare saw sites being probed for the flaw.
-- [2026-10-22](../../exploitation/index.html): Criminals are using AI to 'vibe code' an attack method.
+- [2026-10-22 07:00 UTC](https://php.oct.2026.newsroom.sgit.ai/exploitation/): No evidence of exploitation yet: 'Not at the moment'.
+- [2026-10-22](https://php.oct.2026.newsroom.sgit.ai/exploitation/): Amazon and Cloudflare saw sites being probed for the flaw.
+- [2026-10-22](https://php.oct.2026.newsroom.sgit.ai/exploitation/): Criminals are using AI to 'vibe code' an attack method.
 
 ## The bytes
 capture 20261022T080453Z · HTTP 200 · https://www.bbc.com/news/live/ckgel5xp2xv9t- `headers.json` 6f92f9cc2df7e178c6a5480cde0a0d07eaa057374c17573ed0539cd2ec5e4f76 5,640 bytes
@@ -112,4 +112,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/bbc-live-ckgel5xp2xv9t/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/bbc-live-ckgel5xp2xv9t/index.html

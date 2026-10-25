@@ -27,7 +27,7 @@ No claim cites this source yet.
 No timeline event cites this source yet.
 
 ### Agency rows from this source
-- [CCCS](../../agencies/index.html): offline isolate
+- [CCCS](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline isolate
 
 ## The bytes
 capture 20261022T081604Z · HTTP 200 · https://www.cyber.gc.ca/en/alerts-advisories- `headers.json` 43f213e29f0be568c8c4a231d0404fc7c33db33ea4b6d75c538f505a2a139b88 586 bytes
@@ -41,4 +41,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/cccs-alerts/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/cccs-alerts/index.html

@@ -23,7 +23,7 @@ One graph for the whole story. At the bottom, the 359 changed hunks of the php2s
 | **Functions** | 193 | the C functions the fix changed, from the diff |
 | **Lines** | 359 | every changed hunk, with its line range in php-src |
 
-The top three layers and the joins from a claim to a flaw or a part of the fix are written by the librarian in [data/arcs.json](../data/arcs.json); everything else is derived by the build from files the site already publishes. The assembled graph is [data/fractal.json](../data/fractal.json).
+The top three layers and the joins from a claim to a flaw or a part of the fix are written by the librarian in [data/arcs.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.7/arcs.json); everything else is derived by the build from files the site already publishes. The assembled graph is [data/fractal.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.7/fractal.json).
 
 ## What is joined, and what is not
 
@@ -42,10 +42,10 @@ The top three layers and the joins from a claim to a flaw or a part of the fix a
 Each is the shortest path down the ladder from one reader to a changed line, computed by the build. Click any rung.
 
 ### Website owner, down to a line
-- Stakeholders [Website owner](../briefings/site-owner/index.html)
+- Stakeholders [Website owner](https://php.oct.2026.newsroom.sgit.ai/briefings/site-owner/)
 - Risks Your version gets no fix
-- Story arcs [The bug is in the engine, not in your code](../flaws/index.html)
-- Claims and events [Updating is the only complete mitigation; the configuration measures reduce exposure to specific paths and do not make an installation safe](../claims/index.html#only-update) confirmed
+- Story arcs [The bug is in the engine, not in your code](https://php.oct.2026.newsroom.sgit.ai/flaws/)
+- Claims and events [Updating is the only complete mitigation; the configuration measures reduce exposure to specific paths and do not make an installation safe](https://php.oct.2026.newsroom.sgit.ai/claims/#only-update) confirmed
 - The flaws [CVE-2026-109619: RCE via stale global state](../review/ui/index.html#cve-109619)
 - The fix [Bounded, deduplicated request parsing](../review/ui/index.html#fix-bounded-parsing)
 - Areas and files [main/rfc1867.c](https://github.com/php/php-src/blob/3584a98bda0f2c0d367255b046798b0d3a221a19/main/rfc1867.c)
@@ -54,10 +54,10 @@ Each is the shortest path down the ladder from one reader to a changed line, com
 [Walk it from the top](ui/index.html#who:site-owner) · [walk it up from the line](ui/index.html#line:main/rfc1867.c:54)
 
 ### Board member or executive, down to a line
-- Stakeholders [Board member or executive](../briefings/board/index.html)
+- Stakeholders [Board member or executive](https://php.oct.2026.newsroom.sgit.ai/briefings/board/)
 - Risks What the server holds is taken
-- Story arcs [The bug is in the engine, not in your code](../flaws/index.html)
-- Claims and events [In researchers' own tests, pre-authentication RCE was confirmed against WordPress, Drupal, Joomla, MediaWiki, Roundcube, Magento, phpMyAdmin, Nextcloud, Laravel, Symfony and WHMCS](../claims/index.html#wordpress-drupal) reported
+- Story arcs [The bug is in the engine, not in your code](https://php.oct.2026.newsroom.sgit.ai/flaws/)
+- Claims and events [In researchers' own tests, pre-authentication RCE was confirmed against WordPress, Drupal, Joomla, MediaWiki, Roundcube, Magento, phpMyAdmin, Nextcloud, Laravel, Symfony and WHMCS](https://php.oct.2026.newsroom.sgit.ai/claims/#wordpress-drupal) reported
 - The flaws [CVE-2026-109618: RCE via OOM corruption](../review/ui/index.html#cve-109618)
 - The fix [A soft memory limit that no longer jumps](../review/ui/index.html#fix-soft-limit)
 - Areas and files [Zend/zend_alloc.c](https://github.com/php/php-src/blob/3584a98bda0f2c0d367255b046798b0d3a221a19/Zend/zend_alloc.c)
@@ -66,10 +66,10 @@ Each is the shortest path down the ladder from one reader to a changed line, com
 [Walk it from the top](ui/index.html#who:board) · [walk it up from the line](ui/index.html#line:Zend/zend_alloc.c:1149)
 
 ### Journalist, down to a line
-- Stakeholders [Journalist](../briefings/journalist/index.html)
+- Stakeholders [Journalist](https://php.oct.2026.newsroom.sgit.ai/briefings/journalist/)
 - Risks Deciding on the wrong numbers
-- Story arcs [The numbers do not measure the same thing](../numbers/index.html)
-- Claims and events [The flaws are CVSS 10.0](../claims/index.html#cvss-10) contradicted
+- Story arcs [The numbers do not measure the same thing](https://php.oct.2026.newsroom.sgit.ai/numbers/)
+- Claims and events [The flaws are CVSS 10.0](https://php.oct.2026.newsroom.sgit.ai/claims/#cvss-10) contradicted
 - The flaws [CVE-2026-109618: RCE via OOM corruption](../review/ui/index.html#cve-109618)
 - The fix [Allocations that may fail instead of abort](../review/ui/index.html#fix-fallible)
 - Areas and files [Zend/zend_hash.c](https://github.com/php/php-src/blob/3584a98bda0f2c0d367255b046798b0d3a221a19/Zend/zend_hash.c)
@@ -78,10 +78,10 @@ Each is the shortest path down the ladder from one reader to a changed line, com
 [Walk it from the top](ui/index.html#who:journalist) · [walk it up from the line](ui/index.html#line:Zend/zend_hash.c:1095)
 
 ### Developer, down to a line
-- Stakeholders [Developer](../briefings/developer/index.html)
+- Stakeholders [Developer](https://php.oct.2026.newsroom.sgit.ai/briefings/developer/)
 - Risks Your version gets no fix
-- Story arcs [The bug is in the engine, not in your code](../flaws/index.html)
-- Claims and events [Updating is the only complete mitigation; the configuration measures reduce exposure to specific paths and do not make an installation safe](../claims/index.html#only-update) confirmed
+- Story arcs [The bug is in the engine, not in your code](https://php.oct.2026.newsroom.sgit.ai/flaws/)
+- Claims and events [Updating is the only complete mitigation; the configuration measures reduce exposure to specific paths and do not make an installation safe](https://php.oct.2026.newsroom.sgit.ai/claims/#only-update) confirmed
 - The flaws [CVE-2026-109619: RCE via stale global state](../review/ui/index.html#cve-109619)
 - The fix [Bounded, deduplicated request parsing](../review/ui/index.html#fix-bounded-parsing)
 - Areas and files [ext/session/session.c](https://github.com/php/php-src/blob/3584a98bda0f2c0d367255b046798b0d3a221a19/ext/session/session.c)
@@ -91,10 +91,10 @@ Each is the shortest path down the ladder from one reader to a changed line, com
 [Walk it from the top](ui/index.html#who:developer) · [walk it up from the line](ui/index.html#line:ext/session/session.c:2804)
 
 ### Curious reader, down to a line
-- Stakeholders [Curious reader](../briefings/everyone/index.html)
+- Stakeholders [Curious reader](https://php.oct.2026.newsroom.sgit.ai/briefings/everyone/)
 - Risks What the server holds is taken
-- Story arcs [The bug is in the engine, not in your code](../flaws/index.html)
-- Claims and events [In researchers' own tests, pre-authentication RCE was confirmed against WordPress, Drupal, Joomla, MediaWiki, Roundcube, Magento, phpMyAdmin, Nextcloud, Laravel, Symfony and WHMCS](../claims/index.html#wordpress-drupal) reported
+- Story arcs [The bug is in the engine, not in your code](https://php.oct.2026.newsroom.sgit.ai/flaws/)
+- Claims and events [In researchers' own tests, pre-authentication RCE was confirmed against WordPress, Drupal, Joomla, MediaWiki, Roundcube, Magento, phpMyAdmin, Nextcloud, Laravel, Symfony and WHMCS](https://php.oct.2026.newsroom.sgit.ai/claims/#wordpress-drupal) reported
 - The flaws [CVE-2026-109618: RCE via OOM corruption](../review/ui/index.html#cve-109618)
 - The fix [Allocations that may fail instead of abort](../review/ui/index.html#fix-fallible)
 - Areas and files [Zend/zend_hash.c](https://github.com/php/php-src/blob/3584a98bda0f2c0d367255b046798b0d3a221a19/Zend/zend_hash.c)
@@ -122,8 +122,8 @@ Each is the shortest path down the ladder from one reader to a changed line, com
 
 Edges are read top down: a stakeholder *faces* a risk, a risk is *told in* an arc and *rests on* claims, a claim *cites* sources and is *about* a flaw or a part of the fix, a flaw is *closed by* the fix, which is *realised in* files, which *change* functions, which are *changed at* lines. The navigator walks them both ways.
 
-The fix-only version of this graph is [the fix mapped to the code](../review/index.html); the citation graph alone is [as a graph](../graph/index.html). This answers the second memo's ask for the semantic fractal graph; what it still lacks is on [corrections](../corrections/index.html).
+The fix-only version of this graph is [the fix mapped to the code](../review/index.html); the citation graph alone is [as a graph](../graph/index.html). This answers the second memo's ask for the semantic fractal graph; what it still lacks is on [corrections](https://php.oct.2026.newsroom.sgit.ai/corrections/).
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/fractal/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/fractal/index.html

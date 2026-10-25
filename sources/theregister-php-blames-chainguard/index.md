@@ -22,7 +22,7 @@ Captured by claude-story-site. Status: captured. Carries Dan Lorenc's reply: 'I 
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | Chainguard unilaterally broke the embargo on 21 October at 07:41 UTC by publishing built images containing the fixDan Lorenc (via The Register): 'I made the call to get these out early when exploits hit in the wild'; several unnamed vendors had reported exploits; Chainguard's honeypots trapped IPs; a researcher warned the company on the Friday and its team then found the bugs independently with an AI harness. No evidence published. The PHP security team found no functional exploit by release time. [fact timeline →](../../facts/chainguard/index.html) | PHP Foundation; Chainguard's CEO accepts the time and denies leaking | disputed | **A2** Reported●●○○○○ opinion disputed | 1/3 | [PHP Foundation](../../sources/php-foundation-blog-security-release/index.html) [The Register](../../sources/theregister-php-blames-chainguard/index.html) [Feross Aboukhadijeh on X on X](../../sources/x-feross-chainguard/index.html) |
 | Chainguard's team found the same bugs independently with an AI harness and a frontier model after a researcher warned them on the Friday beforeUnverified by anyone else. [fact timeline →](../../facts/lorenc-ai-found/index.html) | Dan Lorenc, via The Register | reported | **A2** Reported●●○○○○ | 0/1 | [The Register](../../sources/theregister-php-blames-chainguard/index.html) |
@@ -34,7 +34,7 @@ Captured by claude-story-site. Status: captured. Carries Dan Lorenc's reply: 'I 
 | 2026-10-22 | The Register carries Dan Lorenc's reply to the PHP Foundation; Fortinet publishes FortiWeb signatures; The Record carries the Foundation's account of the 2024 signs. | stated |
 
 ### Exploitation signals from this source
-- [2026-10-22](../../exploitation/index.html): Chainguard's honeypots trapped IPs from China and Russia; several unnamed vendors reported exploits in the wild.
+- [2026-10-22](https://php.oct.2026.newsroom.sgit.ai/exploitation/): Chainguard's honeypots trapped IPs from China and Russia; several unnamed vendors reported exploits in the wild.
 
 ## The bytes
 capture 20261022T113204Z · HTTP 200 · https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611- `headers.json` f037ca6b2e792623b19de3cc87220576a70faf147d1140a31fe0f0a22fa34d1e 610 bytes
@@ -54,4 +54,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/theregister-php-blames-chainguard/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/theregister-php-blames-chainguard/index.html

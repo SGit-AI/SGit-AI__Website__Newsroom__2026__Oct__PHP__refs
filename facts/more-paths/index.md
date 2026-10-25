@@ -25,9 +25,9 @@ Fastly's post says nearly these words; it is one vendor's position (a reading), 
 | [openwall-oss-security-109619-thread](../../sources/openwall-oss-security-109619-thread/index.html) | absent | *While not yet fully confirmed, the Fediverse is reporting that the fix to at least PHP 8.5.12 may be incomplete:* | 6a76141ae5a06584 |
 | [github-php-src-fix-commit-3584a98bd](../../sources/github-php-src-fix-commit-3584a98bd/index.html) | partial | *- Replace bailout on OOM with UnwindExit* | 26bed812bcc7c89e |
 
-Open tickets: [Contradiction-11](../../factcheck/index.html#Contradiction-11), [Evidence-7](../../factcheck/index.html#Evidence-7), [Finding-54](../../factcheck/index.html#Finding-54), [Finding-55](../../factcheck/index.html#Finding-55).
+Open tickets: [Contradiction-11](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-11), [Evidence-7](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-7), [Finding-54](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-54), [Finding-55](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-55).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:19 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:19 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21Fastly publishes [Fastly’s Proactive Protection for PHP2Shell, Critical PHP RCE CVE-2026-109618 and CVE-2026-109619 | Fastly](../../sources/fastly-blog-php2shell/index.html)
@@ -43,7 +43,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerSSamSecurity leadDDrewPHP or platform engineerAAshSecurity researcherRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecLLeeDeveloper
-And on [every claim](../../claims/index.html#more-paths).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#more-paths).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · reported
@@ -57,4 +57,4 @@ Sources: fastly-blog-php2shell, openwall-oss-security-109619-thread
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/more-paths/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/more-paths/index.html

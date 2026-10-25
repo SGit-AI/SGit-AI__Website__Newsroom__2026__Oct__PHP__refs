@@ -24,9 +24,9 @@ The first half is carried exactly (4:30pm ET = 20:30 UTC). The second half comes
 | [cccs-al26-026](../../sources/cccs-al26-026/index.html) | absent | *a Proof of Concept (PoC) is available, with no active exploitation being identified at this time* | 9e7f44cc73e21ad5 |
 | [securityweek-exploitation-days-before](../../sources/securityweek-exploitation-days-before/index.html) | absent | *WatchTowr Intel is seeing broad exploitation attempts and sloppy proof-of-concept exploit code tweeted and thrown onto GitHub.* | ac663f2d9dbd0197 |
 
-Open tickets: [Finding-17](../../factcheck/index.html#Finding-17).
+Open tickets: [Finding-17](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-17).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:28 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:28 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21Huntress publishes [Rapid Response: php2shell, Leaked Critical PHP Vulnerabilities (CVE-2026-109618 & CVE-2026-109619) | Huntress](../../sources/huntress-php2shell-rapid-response/index.html)
@@ -41,7 +41,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerCCaseyWebsite ownerJJordanBoard member or executiveSSamSecurity leadBBlakeAnalyst or policy advisorRRobinCISOQQuinnCFOMMorganData protection officerJJamieHead of AppSec
-And on [every claim](../../claims/index.html#huntress-none).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#huntress-none).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · reported
@@ -55,4 +55,4 @@ Sources: huntress-php2shell-rapid-response
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/huntress-none/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/huntress-none/index.html

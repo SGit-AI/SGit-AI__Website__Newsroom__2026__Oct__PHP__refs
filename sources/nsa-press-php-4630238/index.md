@@ -42,7 +42,7 @@ Press release dated Oct. 21, 2026 (no time given). Nicknames the bugs 'PHP2Shell
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | If an immediate update is not feasible, take the system offline until it can be fully mitigatedX post 13:45:58Z 21 October (10.1 million views at capture) and the press release. [fact timeline →](../../facts/offline-nsa/index.html) | NSA Cybersecurity | confirmed | **A6** Established●●●●●● | 2/2 | [NSA Cyber on X](../../sources/nsa-x-2112903220209098897/index.html) [NSA](../../sources/nsa-press-php-4630238/index.html) |
 | The risks require immediate patching across United States Government departments and agenciesNo CISA emergency directive was visible on the CISA home page at capture. [fact timeline →](../../facts/gov-patch-required/index.html) | NSA | reported | **A6** Established●●●●●● | 1/2 | [NSA](../../sources/nsa-press-php-4630238/index.html) [CISA](../../sources/cisa-home/index.html) |
@@ -55,7 +55,7 @@ Press release dated Oct. 21, 2026 (no time given). Nicknames the bugs 'PHP2Shell
 | 2026-10-22 00:43:58 UTC | NSA Cybersecurity posts 'UPDATE: Specific mitigation guidance ... is now available', linking the press release. | stated |
 
 ### Agency rows from this source
-- [NSA Cybersecurity](../../agencies/index.html): offline yes
+- [NSA Cybersecurity](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline yes
 
 ## The bytes
 capture 20261022T080954Z · HTTP 200 · https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/4630238/nsa-advisory-critical-patches-recommended-for-php-vulnerabilities/- `headers.json` 97a8c93336e9eaf70c80dd55bf2a30afda4f796323bb1e628388046b2d71ff58 671 bytes
@@ -69,4 +69,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/nsa-press-php-4630238/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/nsa-press-php-4630238/index.html

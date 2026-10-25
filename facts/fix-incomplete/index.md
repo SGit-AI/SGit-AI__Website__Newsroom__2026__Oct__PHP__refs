@@ -24,9 +24,9 @@ The only carrier is a relay on oss-security of unnamed Fediverse posts ('While n
 | [openwall-oss-security-109619-thread](../../sources/openwall-oss-security-109619-thread/index.html) | partial | *ok thinking more about this, there's no way this is the same vuln, this is > another one.* | 059317aa4a1f458e |
 | [openwall-oss-security-109619-thread](../../sources/openwall-oss-security-109619-thread/index.html) | partial | *was told that it's "unrelated and not a real issue".* | 39555f34a419becc |
 
-Open tickets: [Contradiction-11](../../factcheck/index.html#Contradiction-11), [Evidence-5](../../factcheck/index.html#Evidence-5), [Evidence-7](../../factcheck/index.html#Evidence-7), [Evidence-8](../../factcheck/index.html#Evidence-8), [Finding-125](../../factcheck/index.html#Finding-125), [Finding-72](../../factcheck/index.html#Finding-72), [Gap-2](../../factcheck/index.html#Gap-2).
+Open tickets: [Contradiction-11](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-11), [Evidence-5](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-5), [Evidence-7](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-7), [Evidence-8](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-8), [Finding-125](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-125), [Finding-72](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-72), [Gap-2](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Gap-2).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:14 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:14 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21 15:24 UTCoss-security publishes [Re: CVE-2026-109619 thread (21/16, 21/17, 21/23, 22/2)](../../sources/openwall-oss-security-109619-thread/index.html)
@@ -40,7 +40,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerSSamSecurity leadDDrewPHP or platform engineerAAshSecurity researcherRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecLLeeDeveloper
-And on [every claim](../../claims/index.html#fix-incomplete).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#fix-incomplete).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · unverified
@@ -54,4 +54,4 @@ Sources: openwall-oss-security-109619-thread
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/fix-incomplete/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/fix-incomplete/index.html

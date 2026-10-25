@@ -20,7 +20,7 @@ Captured 08:16Z. The PHP banner is still the pre-patch version: "Ernstige kwetsb
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | All PHP versions from 5 onwards are affected by at least one of the flawsThe CVE records list only 8.2 to 8.5 with defaultStatus 'unaffected'. php.net published source backports for 7.4, 8.0 and 8.1, which implies they are affected. A scanner that trusts the CVE record will miss 7.4 to 8.1. [fact timeline →](../../facts/versions-old/index.html) | NCSC-NL; Wiz ('>= 5.4'); CERT-FR (5.x, 6.x, 7.x, 8.0, 8.1) | disputed | **A3** Echoed●●●○○○ disputed | 3/4 | [NCSC-NL](../../sources/ncsc-nl-advisories/index.html) [Wiz on X](../../sources/x-wiz-io-php2shell/index.html) [CERT-FR](../../sources/certfr-2026-ale-014/index.html) [oss-security](../../sources/openwall-oss-security-109619-thread/index.html) |
 
@@ -29,7 +29,7 @@ Captured 08:16Z. The PHP banner is still the pre-patch version: "Ernstige kwetsb
 No timeline event cites this source yet.
 
 ### Agency rows from this source
-- [NCSC-NL](../../agencies/index.html): offline none
+- [NCSC-NL](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline none
 
 ## The bytes
 capture 20261022T081605Z · HTTP 200 · https://advisories.ncsc.nl/- `headers.json` 3e389f62cb8a1de496ebc873bbcfb98ccf729f22e1ec56c94d0893bba1bef324 884 bytes
@@ -43,4 +43,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/ncsc-nl-advisories/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/ncsc-nl-advisories/index.html

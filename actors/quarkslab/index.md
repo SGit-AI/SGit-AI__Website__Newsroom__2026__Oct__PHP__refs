@@ -12,7 +12,7 @@ Party
 
 ## Claims this site attributes to this party
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | Quarkslab's published audit summary lists 27 findings, two redacted because their fixes were complex and in progress; it does not describe an out-of-memory findingThe Foundation says the OOM signs were found while fixing one of the audit's findings, not in the audit report itself. [fact timeline →](../../facts/quarkslab-redacted/index.html) | Quarkslab's blog; a Substack analysis | reported | **A6** Established●●●●●● | 1/2 | [Quarkslab](../../sources/quarkslab-blog-php-src-audit/index.html) [David Lopez-Kurtz](../../sources/substack-lopezkurtz-patch-is-the-exploit/index.html) |
 
@@ -24,4 +24,4 @@ Party
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/actors/quarkslab/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/actors/quarkslab/index.html

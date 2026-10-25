@@ -26,9 +26,9 @@ Only Cloudflare gives a pre-disclosure go-live time (03:02 UTC on 21 Oct, its ow
 | [fastly-blog-php2shell](../../sources/fastly-blog-php2shell/index.html) | partial | *To mitigate risk for your applications protected by NGWAF, Fastly customers may enable the signal covering both CVE-2026-109618 & CVE-2026-109619.* | bacf27615fe1180a |
 | [fortinet-fortiweb-php2shell](../../sources/fortinet-fortiweb-php2shell/index.html) | partial | *10/22/2026 \| 07:55 AM* | 66beb7cb9c50e017 |
 
-Open tickets: [Finding-110](../../factcheck/index.html#Finding-110), [Finding-46](../../factcheck/index.html#Finding-46), [Finding-47](../../factcheck/index.html#Finding-47).
+Open tickets: [Finding-110](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-110), [Finding-46](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-46), [Finding-47](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-47).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:25 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:25 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21Cloudflare publishes [Cloudflare deploys protections against php2shell vulnerability](../../sources/cloudflare-blog-php2shell-waf/index.html)
@@ -51,7 +51,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerTTaylorProject or programme managerJJordanBoard member or executiveSSamSecurity leadRRowanJournalistRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecRRileyCommunications team
-And on [every claim](../../claims/index.html#waf-nine-hours).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#waf-nine-hours).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · confirmed
@@ -65,4 +65,4 @@ Sources: cloudflare-blog-php2shell-waf, imperva-blog-php2shell, akamai-blog-php-
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/waf-nine-hours/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/waf-nine-hours/index.html

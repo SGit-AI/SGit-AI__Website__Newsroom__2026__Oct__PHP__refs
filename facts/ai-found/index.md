@@ -26,9 +26,9 @@ That AI was used is said by each research party in its own capture (Calif, Wiz, 
 | [bbc-live-ckgel5xp2xv9t](../../sources/bbc-live-ckgel5xp2xv9t/index.html) | partial | *The vulnerabilities were found by researchers at the security firms Calif and Wiz.* | c88b8c5f4c6bc07d |
 | [php-foundation-blog-security-release](../../sources/php-foundation-blog-security-release/index.html) | partial | *While fixing one of the issues Quarkslab reported, a PHP core developer contracted by the PHP Foundation found the first signs of the OOM problem* | a1be057adc1c5bfa |
 
-Open tickets: [Finding-1](../../factcheck/index.html#Finding-1), [Finding-59](../../factcheck/index.html#Finding-59).
+Open tickets: [Finding-1](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-1), [Finding-59](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-59).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:16 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:16 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21Calif publishes [php2shell by Calif Research — A tale of two PHP remote vulnerabilities](../../sources/calif-php2shell/index.html)
@@ -49,7 +49,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 RRowanJournalistAAshSecurity researcherBBlakeAnalyst or policy advisorRRileyCommunications team
-And on [every claim](../../claims/index.html#ai-found).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#ai-found).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -63,4 +63,4 @@ Sources: bbc-live-ckgel5xp2xv9t, x-openai-php2shell, calif-php2shell, wiz-blog-p
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/ai-found/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/ai-found/index.html

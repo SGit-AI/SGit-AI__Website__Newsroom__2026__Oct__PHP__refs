@@ -23,7 +23,7 @@ php.net's advisory carries the claim almost word for word, and both GHSAs and th
 | [github-ghsa-6wmf-4rv5-p3rp](../../sources/github-ghsa-6wmf-4rv5-p3rp/index.html) | carries | *Updating to a release containing the complete state reset patch is the only reliable mitigation.* | 99d85c973c41c024 |
 | [github-ghsa-w8hw-w9fx-j79w](../../sources/github-ghsa-w8hw-w9fx-j79w/index.html) | carries | *Updating to a PHP release containing the patch to this vulnerability is the only complete mitigation.* | 84ab95d3b1d538ba |
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:14 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:14 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21php.net publishes [Security advisory: Critical remote code execution vulnerabilities, update now](../../sources/php-net-advisory/index.html)
@@ -42,7 +42,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerSSamSecurity leadDDrewPHP or platform engineerAAshSecurity researcherRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecLLeeDeveloper
-And on [every claim](../../claims/index.html#only-update).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#only-update).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · confirmed
@@ -56,4 +56,4 @@ Sources: php-net-advisory, openwall-oss-security-2026-10-21-7, github-ghsa-6wmf-
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/only-update/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/only-update/index.html

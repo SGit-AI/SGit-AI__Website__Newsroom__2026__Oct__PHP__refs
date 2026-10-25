@@ -25,9 +25,9 @@ Rewritten to keep the counters apart: VulnCheck's 2.6 million hosts, and Censys'
 | [securityweek-exploitation-days-before](../../sources/securityweek-exploitation-days-before/index.html) | carries | *VulnCheck was seeing more than 2.6 million internet-facing hosts running PHP, nearly all of which were vulnerable.* | ac663f2d9dbd0197 |
 | [insurancebusiness-uk-councils-met](../../sources/insurancebusiness-uk-councils-met/index.html) | carries | *Palo Alto Networks’ Unit 42 has counted more than 22.6 million internet-facing systems that could be vulnerable.* | 89357150e0bc8363 |
 
-Open tickets: [Contradiction-4](../../factcheck/index.html#Contradiction-4), [Finding-100](../../factcheck/index.html#Finding-100), [Finding-34](../../factcheck/index.html#Finding-34).
+Open tickets: [Contradiction-4](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-4), [Finding-100](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-100), [Finding-34](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-34).
 
-Graded in Run-3, resting on captures up to 2026-10-22 11:23 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-3, resting on captures up to 2026-10-22 11:23 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-22THN publishes [Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed](../../sources/thehackernews-php2shell-4days/index.html)
@@ -46,7 +46,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerJJordanBoard member or executiveSSamSecurity leadRRowanJournalistBBlakeAnalyst or policy advisorRRobinCISOQQuinnCFORRileyCommunications team
-And on [every claim](../../claims/index.html#scale-2.6m-hosts).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#scale-2.6m-hosts).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -61,4 +61,4 @@ v2 · site v0.2.0 · 22 October 2026 · reportedPHP is exposed on 2,608,039about
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/scale-2.6m-hosts/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-2.6m-hosts/index.html

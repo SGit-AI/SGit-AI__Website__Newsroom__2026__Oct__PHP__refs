@@ -27,7 +27,7 @@ No claim cites this source yet.
 No timeline event cites this source yet.
 
 ### Agency rows from this source
-- [CCN-CERT](../../agencies/index.html): offline unknown
+- [CCN-CERT](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline unknown
 
 ## The bytes
 capture 20261022T081353Z · HTTP 403 · https://www.ccn-cert.cni.es/es/seguridad-al-dia/alertas-ccn-cert/13200-ccn-cert-al-11-26-actualizacion-inmediata-de-vulnerabilidad-critica-en-php.html error: page.title: Execution context was destroyed, most likely because of a navigation- `provenance.json` 3499d3985dcda97902ce1e89dd5edffba4a20b56ba01cab266db1e9fc7f50c36 780 bytes
@@ -38,4 +38,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/ccn-cert-al-11-26/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/ccn-cert-al-11-26/index.html

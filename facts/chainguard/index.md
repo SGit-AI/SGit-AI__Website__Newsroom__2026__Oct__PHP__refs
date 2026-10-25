@@ -25,9 +25,9 @@ The act and time (built images with the fix at 07:41 UTC on 21 October) are the 
 | [x-feross-chainguard](../../sources/x-feross-chainguard/index.html) | partial | *Dan Lorenc says several vendors in the disclosure had reported exploits in the wild, and that he notified the group right after making the call.* | de7648491d664137 |
 | [therecord-php-foundation-statement](../../sources/therecord-php-foundation-statement/index.html) | partial | *Dan Lorenc told Recorded Future News that he began to see exploitation attempts last night and made the judgement call to release the information.* | 28c72344e03a5a79 |
 
-Open tickets: [Finding-10](../../factcheck/index.html#Finding-10), [Finding-62](../../factcheck/index.html#Finding-62).
+Open tickets: [Finding-10](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-10), [Finding-62](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-62).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:32 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:32 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21PHP Foundation publishes [Today's PHP Security Release, and How We're Strengthening PHP Security](../../sources/php-foundation-blog-security-release/index.html)
@@ -47,7 +47,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 RRowanJournalistAAshSecurity researcherBBlakeAnalyst or policy advisor
-And on [every claim](../../claims/index.html#chainguard).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#chainguard).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · disputed
@@ -62,4 +62,4 @@ v2 · site v0.2.0 · 22 October 2026 · disputedChainguard unilaterally broke th
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/chainguard/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/chainguard/index.html

@@ -26,9 +26,9 @@ The CVE records (the authoritative record for the score) give 9.2 under CVSS 4.0
 | [cve-cve-2026-109619](../../sources/cve-cve-2026-109619/index.html) | carries | *9.2 CRITICAL 4.0* | 3162135e82a9edd4 |
 | [thehackernews-php2shell-unpatched-alert](../../sources/thehackernews-php2shell-unpatched-alert/index.html) | carries | *The CVSS 10.0 figure is the leak's. PHP's rating is 9.2 on version 4.0 of the scale.* | 33ba8292e26406d7 |
 
-Open tickets: [Contradiction-7](../../factcheck/index.html#Contradiction-7), [Finding-65](../../factcheck/index.html#Finding-65).
+Open tickets: [Contradiction-7](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-7), [Finding-65](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-65).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:12 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:12 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21PHP Foundation publishes [Today's PHP Security Release, and How We're Strengthening PHP Security](../../sources/php-foundation-blog-security-release/index.html)
@@ -45,7 +45,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerSSamSecurity leadDDrewPHP or platform engineerAAshSecurity researcherRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecLLeeDeveloper
-And on [every claim](../../claims/index.html#cvss-10).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#cvss-10).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · contradicted
@@ -59,4 +59,4 @@ Sources: php-foundation-blog-security-release, daubois-blog-php2shell-rumors
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/cvss-10/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/cvss-10/index.html

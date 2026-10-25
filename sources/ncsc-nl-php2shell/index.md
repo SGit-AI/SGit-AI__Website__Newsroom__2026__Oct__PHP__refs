@@ -44,7 +44,7 @@ README: 'Readme last significant change: 21 October 2026 17:25 CEST TLP:CLEAR' (
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | The UK's NCSC, the NSA and their counterparts in the EU and Australia advise taking systems offline where patching is not feasibleAustralia's ACSC gives no offline advice. CERT-EU says isolate. The Netherlands, Italy, Japan and New Zealand give no offline advice. [fact timeline →](../../facts/offline-allies/index.html) | BBC | contradicted | **A1** Weak signal●○○○○○ | 4/6 | [BBC News](../../sources/bbc-live-ckgel5xp2xv9t/index.html) [ACSC](../../sources/acsc-alert-php/index.html) [CERT-EU](../../sources/certeu-sa-2026-018/index.html) [NCSC-NL](../../sources/ncsc-nl-php2shell/index.html) [ACN / CSIRT Italia](../../sources/acn-it-php2shell/index.html) [JPCERT/CC](../../sources/jpcert-at260033/index.html) |
 
@@ -62,7 +62,7 @@ README: 'Readme last significant change: 21 October 2026 17:25 CEST TLP:CLEAR' (
 | 674 | software entries in the NCSC-NL php2shell inventory | confirmed |
 
 ### Agency rows from this source
-- [NCSC-NL](../../agencies/index.html): offline none
+- [NCSC-NL](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline none
 
 ## The bytes
 capture 20261022T080925Z · HTTP 200 · https://github.com/NCSC-NL/php2shell- `headers.json` dbef75c6f088a0a21eeac77ab2178aead9e625d6ed750dd4894fc7fb9537f297 5,443 bytes
@@ -85,4 +85,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/ncsc-nl-php2shell/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/ncsc-nl-php2shell/index.html

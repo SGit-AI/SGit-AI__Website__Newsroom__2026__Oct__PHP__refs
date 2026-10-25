@@ -25,9 +25,9 @@ NCSC NZ's own alert carries the sentence verbatim; one named party, unsourced re
 | [acsc-alert-php](../../sources/acsc-alert-php/index.html) | absent | *ASD’s ACSC is not aware of successful active exploitation within Australia, related to these vulnerabilities.* | 9370af142ded6de9 |
 | [certlv-php-preventive](../../sources/certlv-php-preventive/index.html) | partial | *Latvijā jau ir konstatēti automatizēti mēģinājumi izmantot PHP ievainojamības* | e37a6582c4e6c685 |
 
-Open tickets: [Finding-86](../../factcheck/index.html#Finding-86).
+Open tickets: [Finding-86](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-86).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:17 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:17 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-22 08:17 UTCSaved into the evidence vault: NCSC New Zealand
@@ -42,7 +42,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerCCaseyWebsite ownerJJordanBoard member or executiveSSamSecurity leadBBlakeAnalyst or policy advisorRRobinCISOQQuinnCFOMMorganData protection officerJJamieHead of AppSec
-And on [every claim](../../claims/index.html#nz-active).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#nz-active).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -56,4 +56,4 @@ Sources: ncsc-nz-alert-php
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/nz-active/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/nz-active/index.html

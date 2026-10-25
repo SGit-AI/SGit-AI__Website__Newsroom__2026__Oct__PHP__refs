@@ -24,9 +24,9 @@ Now framed as the researchers' own tests, which is what the captures carry: Wiz 
 | [wiz-blog-php2shell](../../sources/wiz-blog-php2shell/index.html) | partial | *demonstrated that it could execute code remotely without authentication on deployments of WordPress (wordpress:latest), Drupal (drupal:latest), and Joomla (joomla:latest)* | e3568b6f88c93f6b |
 | [huntress-php2shell-rapid-response](../../sources/huntress-php2shell-rapid-response/index.html) | absent | *We have not built or reproduced a proof of concept for these vulnerabilities* | a83d744768109a61 |
 
-Open tickets: [Finding-116](../../factcheck/index.html#Finding-116).
+Open tickets: [Finding-116](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-116).
 
-Graded in Run-3, resting on captures up to 2026-10-22 08:10 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-3, resting on captures up to 2026-10-22 08:10 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21Calif publishes [php2shell by Calif Research — A tale of two PHP remote vulnerabilities](../../sources/calif-php2shell/index.html)
@@ -44,7 +44,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerSSamSecurity leadDDrewPHP or platform engineerAAshSecurity researcherRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecLLeeDeveloper
-And on [every claim](../../claims/index.html#wordpress-drupal).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#wordpress-drupal).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -59,4 +59,4 @@ v2 · site v0.12.1 · 24 October 2026 · reportedPre-authenticationIn researcher
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/wordpress-drupal/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/wordpress-drupal/index.html

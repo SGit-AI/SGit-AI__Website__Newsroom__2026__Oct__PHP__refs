@@ -25,9 +25,9 @@ The dates under it are well carried: the hash tweet date is on X and the snowfla
 | [php-foundation-blog-security-release](../../sources/php-foundation-blog-security-release/index.html) | partial | *On August 11th researcher Ryan A at Calif reported an unconditional remote code execution with the same root cause as the OOM problem* | a1be057adc1c5bfa |
 | [cve-cve-2026-109618](../../sources/cve-cve-2026-109618/index.html) | partial | *Ryan at Calif.io reporter Wiz reporter OpenAI finder* | f8705d8e0aa2a248 |
 
-Open tickets: [Finding-113](../../factcheck/index.html#Finding-113), [Finding-2](../../factcheck/index.html#Finding-2).
+Open tickets: [Finding-113](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-113), [Finding-2](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-2).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:16 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:16 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-08-05 15:54 UTCRyan Austin, Calif on X publishes [LCFR on X: hash commitment d935be02…](../../sources/x-lcfr-hax-hash-tweet/index.html)
@@ -46,7 +46,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 RRowanJournalistAAshSecurity researcherBBlakeAnalyst or policy advisorRRileyCommunications team
-And on [every claim](../../claims/index.html#who-first).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#who-first).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · confirmed
@@ -60,4 +60,4 @@ Sources: calif-php2shell, x-lcfr-hax-hash-tweet, php-foundation-blog-security-re
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/who-first/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/who-first/index.html

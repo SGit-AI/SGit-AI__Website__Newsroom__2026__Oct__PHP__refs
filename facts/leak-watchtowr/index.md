@@ -23,9 +23,9 @@ Daubois says watchTowr confirmed the bugs and posted both CVE numbers; CybelAnge
 | [cybelangel-php2shell](../../sources/cybelangel-php2shell/index.html) | carries | *watchTowr confirms the leaked vulnerabilities are real and names CVE-2026-109618 and CVE-2026-109619* | 4ffc5347bfe22fb4 |
 | [huntress-php2shell-rapid-response](../../sources/huntress-php2shell-rapid-response/index.html) | partial | *Within a few hours, our good friends over at watchTowr confirmed the leak, writing that the vulnerabilities were real* | a83d744768109a61 |
 
-Open tickets: [Finding-81](../../factcheck/index.html#Finding-81).
+Open tickets: [Finding-81](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-81).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:28 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:28 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21Daubois publishes [What the PHP2Shell rumors got wrong, from inside the PHP security team](../../sources/daubois-blog-php2shell-rumors/index.html)
@@ -42,7 +42,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 RRowanJournalistAAshSecurity researcherBBlakeAnalyst or policy advisor
-And on [every claim](../../claims/index.html#leak-watchtowr).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#leak-watchtowr).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -56,4 +56,4 @@ Sources: daubois-blog-php2shell-rumors, certeu-sa-2026-018
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/leak-watchtowr/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/leak-watchtowr/index.html

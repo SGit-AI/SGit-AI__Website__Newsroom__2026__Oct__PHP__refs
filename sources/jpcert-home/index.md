@@ -29,7 +29,7 @@ No claim cites this source yet.
 | 2026-10-22 05:20 UTC | JVN publishes its note (14:20 JST); JPCERT/CC alert JPCERT-AT-2026-0033 is dated 22 October. | stated |
 
 ### Agency rows from this source
-- [JPCERT/CC](../../agencies/index.html): offline none
+- [JPCERT/CC](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline none
 
 ## The bytes
 capture 20261022T081606Z · HTTP 200 · https://www.jpcert.or.jp/- `headers.json` ffa0d53fc7fd1c2d4339dd045991caa54d31c4515face33fcad2b50bfbfdb00f 605 bytes
@@ -43,4 +43,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/jpcert-home/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/jpcert-home/index.html

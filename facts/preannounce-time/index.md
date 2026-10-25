@@ -24,9 +24,9 @@ Only the PHP Foundation states 19:30 UTC, and the same post later says 'pre-anno
 | [php-foundation-blog-security-release](../../sources/php-foundation-blog-security-release/index.html) | partial | *As a result of the leak and pre-announcement around 20:00 UTC, Calif, one of the security firms* | a1be057adc1c5bfa |
 | [openwall-oss-security-2026-10-20-34](../../sources/openwall-oss-security-2026-10-20-34/index.html) | partial | *Date: Tue, 20 Oct 2026 13:22:51 -0700* | 57b273733e7d5fe6 |
 | [php-net-advisory](../../sources/php-net-advisory/index.html) | partial | *
-2026-10-20T20:32:00+00:00* | 79c12996a433f66b | | [php-net-advisory](../../sources/php-net-advisory/index.html) | absent | *nothing that carries it* | df0b1bba3deae282 | Open tickets: [Finding-40](../../factcheck/index.html#Finding-40), [Finding-92](../../factcheck/index.html#Finding-92).
+2026-10-20T20:32:00+00:00* | 79c12996a433f66b | | [php-net-advisory](../../sources/php-net-advisory/index.html) | absent | *nothing that carries it* | df0b1bba3deae282 | Open tickets: [Finding-40](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-40), [Finding-92](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-92).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:14 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:14 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-20 20:22 UTCoss-security publishes [Upcoming Critical PHP Security Release](../../sources/openwall-oss-security-2026-10-20-34/index.html)
@@ -45,7 +45,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 TTaylorProject or programme managerRRowanJournalistBBlakeAnalyst or policy advisorAAveryCTO
-And on [every claim](../../claims/index.html#preannounce-time).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#preannounce-time).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · disputed
@@ -59,4 +59,4 @@ Sources: php-foundation-blog-security-release, openwall-oss-security-2026-10-20-
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/preannounce-time/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/preannounce-time/index.html

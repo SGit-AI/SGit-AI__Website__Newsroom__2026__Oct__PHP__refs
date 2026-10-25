@@ -22,9 +22,9 @@ GHSA-w8hw's Mitigation section states the mechanism in nearly these words, the p
 | [php-net-changelog-8](../../sources/php-net-changelog-8/index.html) | carries | *Fixed GHSA-w8hw-w9fx-j79w, GHSA-6wmf-4rv5-p3rp (Avoid state corruption via bailout).* | e39f8d2cb60ee8a5 |
 | [github-php-src-branch-7.4-backport](../../sources/github-php-src-branch-7.4-backport/index.html) | carries | *Avoid state corruption via bailout* | bd71e98ee89b7c6c |
 
-Open tickets: [Finding-70](../../factcheck/index.html#Finding-70).
+Open tickets: [Finding-70](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-70).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:15 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:15 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-18 18:10 UTCphp-src publishes [Branch PHP-7.4-CVE-2026-109618-109619](../../sources/github-php-src-branch-7.4-backport/index.html)
@@ -42,7 +42,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerSSamSecurity leadDDrewPHP or platform engineerAAshSecurity researcherRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecLLeeDeveloper
-And on [every claim](../../claims/index.html#fix-bailout).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#fix-bailout).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · confirmed
@@ -56,4 +56,4 @@ Sources: github-ghsa-w8hw-w9fx-j79w, php-net-changelog-8, github-php-src-branch-
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/fix-bailout/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/fix-bailout/index.html

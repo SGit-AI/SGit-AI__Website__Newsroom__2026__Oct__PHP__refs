@@ -25,9 +25,9 @@ The CISA alert itself carries the dated negative and the captured KEV JSON (cata
 | [cve-cve-2026-109618](../../sources/cve-cve-2026-109618/index.html) | carries | *nothing that carries it* | f856138e139c216e |
 | [cve-cve-2026-109618](../../sources/cve-cve-2026-109618/index.html) | absent | *nothing that carries it* | f8705d8e0aa2a248 |
 
-Open tickets: [Contradiction-2](../../factcheck/index.html#Contradiction-2), [Evidence-1](../../factcheck/index.html#Evidence-1), [Evidence-10](../../factcheck/index.html#Evidence-10), [Evidence-18](../../factcheck/index.html#Evidence-18), [Evidence-6](../../factcheck/index.html#Evidence-6), [Finding-13](../../factcheck/index.html#Finding-13), [Finding-63](../../factcheck/index.html#Finding-63).
+Open tickets: [Contradiction-2](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-2), [Evidence-1](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-1), [Evidence-10](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-10), [Evidence-18](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-18), [Evidence-6](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-6), [Finding-13](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-13), [Finding-63](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-63).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:16 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:16 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21CISA publishes [Critical Vulnerabilities in PHP Require Immediate Patching](../../sources/cisa-alert-php-20261021/index.html)
@@ -45,7 +45,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerCCaseyWebsite ownerJJordanBoard member or executiveSSamSecurity leadBBlakeAnalyst or policy advisorRRobinCISOQQuinnCFOMMorganData protection officerJJamieHead of AppSec
-And on [every claim](../../claims/index.html#cisa-none).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#cisa-none).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · confirmed
@@ -59,4 +59,4 @@ Sources: cisa-alert-php-20261021, cisa-kev-json, cve-cve-2026-109618
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/cisa-none/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/cisa-none/index.html

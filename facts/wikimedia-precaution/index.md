@@ -27,9 +27,9 @@ The quoted words are verbatim in The Cyber Express and, outside this claim's cit
 | [insiderpaper-archive-wikipedia](../../sources/insiderpaper-archive-wikipedia/index.html) | partial | *It said several systems had been taken offline as a precaution while security patches were being applied.* | dba4741ae1b287de |
 | [wikimediastatus-page](../../sources/wikimediastatus-page/index.html) | absent | *All Systems Operational* | 13e068d2c2b3665d |
 
-Open tickets: [Finding-114](../../factcheck/index.html#Finding-114), [Finding-29](../../factcheck/index.html#Finding-29).
+Open tickets: [Finding-114](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-114), [Finding-29](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-29).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:30 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:30 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21CNN publishes [Websites shut down globally after AI finds a critical flaw affecting 70% of the internet | CNN Business](../../sources/cnn-php2shell-websites-shut/index.html)
@@ -46,7 +46,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerTTaylorProject or programme managerJJordanBoard member or executiveRRobinCISOQQuinnCFOMMorganData protection officerRRileyCommunications team
-And on [every claim](../../claims/index.html#wikimedia-precaution).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#wikimedia-precaution).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · reported
@@ -60,4 +60,4 @@ Sources: cnn-php2shell-websites-shut, cyberexpress-php2shell-gov-sites
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/wikimedia-precaution/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/wikimedia-precaution/index.html

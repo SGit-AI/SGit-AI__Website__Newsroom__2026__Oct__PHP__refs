@@ -24,9 +24,9 @@ The operator's own blog carries both parts verbatim: webservers off for all wiki
 | [weirdgloop-blog-php2shell](../../sources/weirdgloop-blog-php2shell/index.html) | carries | *This 13-hour downtime was the longest outage we’ve ever had.* | 6bd492a6220e8eea |
 | [weirdgloop-blog-php2shell](../../sources/weirdgloop-blog-php2shell/index.html) | carries | *we were able to keep about 94% of wiki pageviews serving correctly, even with no database or PHP running.* | 6bd492a6220e8eea |
 
-Open tickets: [Finding-112](../../factcheck/index.html#Finding-112).
+Open tickets: [Finding-112](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-112).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:18 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:18 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21Weird Gloop publishes [Recent wiki downtime (PHP2Shell mitigation) | Weird Gloop](../../sources/weirdgloop-blog-php2shell/index.html)
@@ -41,7 +41,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerTTaylorProject or programme managerJJordanBoard member or executiveRRobinCISOQQuinnCFOMMorganData protection officerRRileyCommunications team
-And on [every claim](../../claims/index.html#weirdgloop-13h).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#weirdgloop-13h).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · confirmed
@@ -55,4 +55,4 @@ Sources: weirdgloop-blog-php2shell
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/weirdgloop-13h/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/weirdgloop-13h/index.html

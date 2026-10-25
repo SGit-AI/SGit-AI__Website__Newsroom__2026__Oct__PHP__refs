@@ -22,9 +22,9 @@ CERT.LV's own page (update of 21 Oct, 23:00 local) says about 6,000 potentially 
 |---|---|---|---|
 | [certlv-php-preventive](../../sources/certlv-php-preventive/index.html) | carries | *Kopumā Latvijā identificēti aptuveni 6000 potenciāli ietekmētu resursu, no kuriem tikai daži simti ir valsts sektorā.* | e37a6582c4e6c685 |
 
-Open tickets: [Finding-104](../../factcheck/index.html#Finding-104).
+Open tickets: [Finding-104](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-104).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:13 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:13 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21 18:25 UTCCERT.LV publishes [Saistībā ar globāli atklātām PHP ievainojamībām Latvijā ievieš preventīvus pasākumus](../../sources/certlv-php-preventive/index.html)
@@ -39,7 +39,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerJJordanBoard member or executiveSSamSecurity leadRRowanJournalistBBlakeAnalyst or policy advisorRRobinCISOQQuinnCFORRileyCommunications team
-And on [every claim](../../claims/index.html#scale-latvia).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#scale-latvia).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -53,4 +53,4 @@ Sources: certlv-php-preventive
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/scale-latvia/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-latvia/index.html

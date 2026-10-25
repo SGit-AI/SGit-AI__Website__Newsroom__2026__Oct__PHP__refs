@@ -27,7 +27,7 @@ No claim cites this source yet.
 No timeline event cites this source yet.
 
 ### Agency rows from this source
-- [CNCS](../../agencies/index.html): offline unknown
+- [CNCS](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline unknown
 
 ## The bytes
 capture 20261022T081354Z · HTTP 513 · https://dyn.cncs.gov.pt/pt/alerta-detalhe/art/136114/alerta-de-vulnerabilidade-php- `headers.json` 5c140f9296dcaee3311e6857332cd02f3ecef21ddea2f8e064632238f0723a07 411 bytes
@@ -43,4 +43,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/cncs-pt-alerta-136114/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/cncs-pt-alerta-136114/index.html

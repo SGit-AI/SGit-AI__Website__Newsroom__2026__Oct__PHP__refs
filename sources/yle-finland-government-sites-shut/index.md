@@ -22,7 +22,7 @@ Captured by claude-story-site. Status: captured. Finland temporarily shuts gover
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | Finland's state IT provider Valtori restricted public traffic to government web services from 12:45 local time on 21 October as a precaution [fact timeline →](../../facts/fi-offline/index.html) | Yle; Helsinki Times, quoting Valtori | reported | **A2** Reported●●○○○○ | 0/2 | [Yle](../../sources/yle-finland-government-sites-shut/index.html) [Helsinki Times](../../sources/helsinkitimes-finland-shutdown/index.html) |
 
@@ -44,4 +44,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/yle-finland-government-sites-shut/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/yle-finland-government-sites-shut/index.html

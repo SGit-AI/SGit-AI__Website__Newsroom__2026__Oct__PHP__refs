@@ -32,7 +32,7 @@ Dated OCTOBER 21, 2026. Says the vulnerability 'was leaked before the official r
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | A web application firewall may provide some protection until systems are patchedSwiss BACS: 'Even a web application firewall alone is not sufficient.' Cloudflare says its rules blocked the traffic it saw and that attackers mutated payloads to get past them. [fact timeline →](../../facts/waf/index.html) | CISA | disputed | **A6** Established●●●●●● | 3/3 | [CISA](../../sources/cisa-alert-php-20261021/index.html) [BACS](../../sources/ch-bacs-warnung-php/index.html) [Cloudflare](../../sources/cloudflare-blog-php2shell-waf/index.html) |
 | PHP is used by almost 70% of websites whose server-side language is knownNone of the three cites the survey it comes from. A share of websites using PHP is an upper bound on exposure, not a count of vulnerable systems. [fact timeline →](../../facts/scale-70pc-websites/index.html) | Cloudflare; OpenAI ('an estimated 70%'); Wiz body text | reported | **A2** Reported●●○○○○ measures differently | 3/3 | [Cloudflare](../../sources/cloudflare-blog-php2shell-waf/index.html) [OpenAI on X](../../sources/x-openai-php2shell/index.html) [Wiz](../../sources/wiz-blog-php2shell/index.html) |
@@ -56,8 +56,8 @@ Dated OCTOBER 21, 2026. Says the vulnerability 'was leaked before the official r
 | about 9 hours | before disclosure, Cloudflare's WAF rules went live for all customers | confirmed |
 
 ### Exploitation signals from this source
-- [2026-10-20 to 21](../../exploitation/index.html): 'We observed attack traffic targeting our customers' after the leak, and attackers 'mutating the attack payload to try to bypass our protections'. No volumes gi
-- [2026-10-22](../../exploitation/index.html): Amazon and Cloudflare saw sites being probed for the flaw.
+- [2026-10-20 to 21](https://php.oct.2026.newsroom.sgit.ai/exploitation/): 'We observed attack traffic targeting our customers' after the leak, and attackers 'mutating the attack payload to try to bypass our protections'. No volumes gi
+- [2026-10-22](https://php.oct.2026.newsroom.sgit.ai/exploitation/): Amazon and Cloudflare saw sites being probed for the flaw.
 
 ## The bytes
 capture 20261022T081216Z · HTTP 200 · https://blog.cloudflare.com/php-vulnerabilities-waf-protection/- `headers.json` 904849b322ddad92fccc55d4ce8527d9c4138d07d61937ce1da5602ea2bef244 7,260 bytes
@@ -77,4 +77,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/cloudflare-blog-php2shell-waf/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/cloudflare-blog-php2shell-waf/index.html

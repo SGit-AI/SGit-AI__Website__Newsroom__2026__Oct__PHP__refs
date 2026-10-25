@@ -28,9 +28,9 @@ The new time (21 October 14:00 UTC) is in the php.net pre-announcement relayed t
 | [cybelangel-php2shell](../../sources/cybelangel-php2shell/index.html) | partial | *The disclosure was originally under embargo until Thursday 22 October at 11:00 ET; after the leak, PHP scheduled its release for 21 October* | 4ffc5347bfe22fb4 |
 | [thehackernews-php2shell-4days](../../sources/thehackernews-php2shell-4days/index.html) | partial | *Originally scheduled for coordinated disclosure on October 22, 2026, at 2:00 p.m. UTC* | c1cb63141287484c |
 
-Open tickets: [Contradiction-10](../../factcheck/index.html#Contradiction-10), [Finding-98](../../factcheck/index.html#Finding-98).
+Open tickets: [Contradiction-10](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-10), [Finding-98](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-98).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:28 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:28 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-20 20:22 UTCoss-security publishes [Upcoming Critical PHP Security Release](../../sources/openwall-oss-security-2026-10-20-34/index.html)
@@ -50,7 +50,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 RRowanJournalistAAshSecurity researcherBBlakeAnalyst or policy advisor
-And on [every claim](../../claims/index.html#release-moved).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#release-moved).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · confirmed
@@ -64,4 +64,4 @@ Sources: php-foundation-blog-security-release, openwall-oss-security-2026-10-20-
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/release-moved/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/release-moved/index.html

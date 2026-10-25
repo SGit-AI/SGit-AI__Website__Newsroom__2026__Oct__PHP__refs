@@ -25,9 +25,9 @@ Prince's own post carries all four figures and the 01:25 UTC time (UTC browser);
 | [x-eastdakota-php2shell-stats](../../sources/x-eastdakota-php2shell-stats/index.html) | carries | *1:25 · 22 Oct 2026* | 4069805bcb164ff1 |
 | [imperva-blog-php2shell](../../sources/imperva-blog-php2shell/index.html) | absent | *During this pre-disclosure monitoring period, Imperva observed no traffic matching the monitored PHP2Shell exploit patterns.* | 3da873bdb21219a6 |
 
-Open tickets: [Finding-61](../../factcheck/index.html#Finding-61).
+Open tickets: [Finding-61](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-61).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:18 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:18 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-22 01:25 UTCMatthew Prince, Cloudflare CEO on… publishes [Matthew Prince 🌥 on X: "Some stats on #php2shell. In the 10 hours before it was publicly announced, across the](../../sources/x-eastdakota-php2shell-stats/index.html)
@@ -42,7 +42,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerCCaseyWebsite ownerJJordanBoard member or executiveSSamSecurity leadBBlakeAnalyst or policy advisorRRobinCISOQQuinnCFOMMorganData protection officerJJamieHead of AppSec
-And on [every claim](../../claims/index.html#cf-millions).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#cf-millions).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · reported
@@ -56,4 +56,4 @@ Sources: x-eastdakota-php2shell-stats
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/cf-millions/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/cf-millions/index.html

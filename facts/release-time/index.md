@@ -30,9 +30,9 @@ CERT-EU says 13:30 UTC; the tags and advisories are stamped 13:34 to 13:35 UTC; 
 | [php-net-advisory](../../sources/php-net-advisory/index.html) | partial | *It is scheduled for Wednesday, 21 October 2026 at 14:00 UTC.* | df0b1bba3deae282 |
 | [php-foundation-blog-security-release](../../sources/php-foundation-blog-security-release/index.html) | partial | *It also moved the release from October 22nd, 14:00 UTC, to October 21st, 14:00 UTC.* | a1be057adc1c5bfa |
 
-Open tickets: [Contradiction-10](../../factcheck/index.html#Contradiction-10), [Finding-39](../../factcheck/index.html#Finding-39), [Finding-99](../../factcheck/index.html#Finding-99).
+Open tickets: [Contradiction-10](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-10), [Finding-39](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-39), [Finding-99](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-99).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:15 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:15 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-20 20:22 UTCoss-security publishes [Upcoming Critical PHP Security Release](../../sources/openwall-oss-security-2026-10-20-34/index.html)
@@ -60,7 +60,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 TTaylorProject or programme managerRRowanJournalistBBlakeAnalyst or policy advisorAAveryCTO
-And on [every claim](../../claims/index.html#release-time).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#release-time).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · disputed
@@ -74,4 +74,4 @@ Sources: openwall-oss-security-2026-10-20-34, daubois-blog-php2shell-rumors, cer
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/release-time/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/release-time/index.html

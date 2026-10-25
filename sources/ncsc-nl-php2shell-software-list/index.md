@@ -18,7 +18,7 @@ No note has been written for this source yet; the row above is what the collecto
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | 674 products in the NCSC-NL inventory: 206 vulnerable, 46 fixed, 418 under investigation, 3 not vulnerableCounted, not quoted. NCSC-NL calls unbacked entries 'investigation leads'. [fact timeline →](../../facts/scale-ncsc-nl/index.html) | NCSC-NL, counted by this site from the file at commit cca173c64ec5 | confirmed | **A1** Weak signal●○○○○○ contradicted status overstated | 1/1 | [NCSC-NL](../../sources/ncsc-nl-php2shell-software-list/index.html) |
 
@@ -35,7 +35,7 @@ No note has been written for this source yet; the row above is what the collecto
 | 674 | software entries in the NCSC-NL php2shell inventory | confirmed |
 
 ### Agency rows from this source
-- [NCSC-NL](../../agencies/index.html): offline none
+- [NCSC-NL](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline none
 
 ## The bytes
 capture 20261022T084807Z · HTTP 200 · https://github.com/NCSC-NL/php2shell/blob/main/software/software_list.md- `headers.json` ced0e6933669176a62c459545b9b58df2ecd44f502200c04ac548e8bf513cf2d 5,624 bytes
@@ -49,4 +49,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/ncsc-nl-php2shell-software-list/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/ncsc-nl-php2shell-software-list/index.html

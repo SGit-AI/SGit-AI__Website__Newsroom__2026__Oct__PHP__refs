@@ -24,7 +24,7 @@ TLP:CLEAR. 'The NCSC is aware of reports of active exploitation.' The only agenc
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | Reports of active exploitation existThe only agency saying so, and it does not say whose reports. [fact timeline →](../../facts/nz-active/index.html) | NCSC New Zealand | reported | **A2** Reported●●○○○○ disputed | 1/1 | [NCSC New Zealand](../../sources/ncsc-nz-alert-php/index.html) |
 
@@ -35,10 +35,10 @@ TLP:CLEAR. 'The NCSC is aware of reports of active exploitation.' The only agenc
 | 2026-10-21 20:15 UTC | NCSC New Zealand: 'aware of reports of active exploitation' (09:15 NZDT 22 October; updated 21:20Z). | stated |
 
 ### Agency rows from this source
-- [NCSC](../../agencies/index.html): offline none
+- [NCSC](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline none
 
 ### Exploitation signals from this source
-- [2026-10-21 20:15 UTC](../../exploitation/index.html): 'The NCSC is aware of reports of active exploitation.' Whose reports is not said.
+- [2026-10-21 20:15 UTC](https://php.oct.2026.newsroom.sgit.ai/exploitation/): 'The NCSC is aware of reports of active exploitation.' Whose reports is not said.
 
 ## The bytes
 capture 20261022T081700Z · HTTP 200 · https://www.ncsc.govt.nz/alerts/cve-2026-109618-and-cve-2026-109619-affecting-php/- `headers.json` 5e5b7ef0258116f0d6925dab7f8189e2223e414a58521729043ca4f399ceabcc 1,992 bytes
@@ -52,4 +52,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/ncsc-nz-alert-php/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/ncsc-nz-alert-php/index.html

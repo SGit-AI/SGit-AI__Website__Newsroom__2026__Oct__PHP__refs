@@ -23,9 +23,9 @@ NSA's own press release says 'These risks are serious enough to require immediat
 | [nsa-press-php-4630238](../../sources/nsa-press-php-4630238/index.html) | carries | *These risks are serious enough to require immediate patching across United States Government departments and agencies.* | 8a8553ea1ffcd794 |
 | [cisa-home](../../sources/cisa-home/index.html) | absent | *Critical Vulnerabilities in PHP Require Immediate Patching* | ab2aa07bb46ba14c |
 
-Open tickets: [Finding-74](../../factcheck/index.html#Finding-74).
+Open tickets: [Finding-74](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-74).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:13 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:13 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21NSA publishes [NSA Advisory: Critical Patches Recommended for PHP Vulnerabilities](../../sources/nsa-press-php-4630238/index.html)
@@ -41,7 +41,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerTTaylorProject or programme managerJJordanBoard member or executiveSSamSecurity leadRRowanJournalistRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecRRileyCommunications team
-And on [every claim](../../claims/index.html#gov-patch-required).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#gov-patch-required).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -55,4 +55,4 @@ Sources: nsa-press-php-4630238, cisa-home
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/gov-patch-required/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/gov-patch-required/index.html

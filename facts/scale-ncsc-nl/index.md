@@ -26,9 +26,9 @@ The inventory files at commit cca173c64ec5 are in the vault (tree and git bundle
 | [ncsc-nl-php2shell](../../sources/ncsc-nl-php2shell/index.html) | carries | *Product entries should still be treated as investigation leads until they are backed by an upstream or vendor source* | f651662623352976 |
 | [ncsc-nl-php2shell](../../sources/ncsc-nl-php2shell/index.html) | carries | *nothing that carries it* | 4a72bcc9bbc58e88 |
 
-Open tickets: [Finding-105](../../factcheck/index.html#Finding-105), [Finding-120](../../factcheck/index.html#Finding-120), [Finding-35](../../factcheck/index.html#Finding-35), [Finding-36](../../factcheck/index.html#Finding-36), [Finding-37](../../factcheck/index.html#Finding-37).
+Open tickets: [Finding-105](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-105), [Finding-120](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-120), [Finding-35](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-35), [Finding-36](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-36), [Finding-37](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-37).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:48 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:48 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-22 08:48 UTCSaved into the evidence vault: NCSC-NL
@@ -42,7 +42,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerJJordanBoard member or executiveSSamSecurity leadRRowanJournalistBBlakeAnalyst or policy advisorRRobinCISOQQuinnCFORRileyCommunications team
-And on [every claim](../../claims/index.html#scale-ncsc-nl).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#scale-ncsc-nl).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · confirmed
@@ -56,4 +56,4 @@ Sources: ncsc-nl-php2shell-software-list
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/scale-ncsc-nl/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-ncsc-nl/index.html

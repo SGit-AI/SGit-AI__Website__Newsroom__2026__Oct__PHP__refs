@@ -26,7 +26,7 @@ Date: October 21, 2026; Date modified 2026-10-21. 'Where immediate remediation i
 
 ## Claims that cite it
 
-| Claim | Who says it | Status | [Fact-check](../../factcheck/index.html) | Primary | Sources |
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
 |---|---|---|---|---|---|
 | 'Where immediate remediation is not feasible, organisations should consider taking the system offline until it can be fully mitigated'That sentence is not on the NCSC page as captured at 08:09Z on 22 October. The page's offline advice is step 4 of 6 and is worded differently. The page was modified at 07:30Z that morning. The sentence's opening matches the Canadian CCCS text. [fact timeline →](../../facts/offline-ncsc/index.html) | UK NCSC, as quoted by the BBC | disputed | **A2** Reported●●○○○○ disputed | 2/3 | [BBC News](../../sources/bbc-live-ckgel5xp2xv9t/index.html) [NCSC UK](../../sources/ncsc-news-php/index.html) [CCCS](../../sources/cccs-al26-026/index.html) |
 
@@ -37,10 +37,10 @@ Date: October 21, 2026; Date modified 2026-10-21. 'Where immediate remediation i
 | 2026-10-21 | CISA alert 'Critical Vulnerabilities in PHP Require Immediate Patching': take systems offline if you cannot update. NSA press release 'PHP2Shell'. UK NCSC alert. CCCS AL26-026. CERT-FR ALE-014. ACN AL07/261021. Cloudflare, Wiz, Calif, the PHP Foundation and Daubois publish their accounts. | stated |
 
 ### Agency rows from this source
-- [CCCS](../../agencies/index.html): offline isolate
+- [CCCS](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline isolate
 
 ### Exploitation signals from this source
-- [2026-10-21](../../exploitation/index.html): 'a Proof of Concept (PoC) is available, with no active exploitation being identified at this time, but that can change quickly.'
+- [2026-10-21](https://php.oct.2026.newsroom.sgit.ai/exploitation/): 'a Proof of Concept (PoC) is available, with no active exploitation being identified at this time, but that can change quickly.'
 
 ## The bytes
 capture 20261022T081700Z · HTTP 200 · https://www.cyber.gc.ca/en/alerts-advisories/al26-026-critical-vulnerabilities-impacting-php-cve-2026-109618-cve-2026-109619- `headers.json` 0db6dd151e1887553a32a56de4d1f6a133645e87d6dbee931f362e8a21a370f3 583 bytes
@@ -54,4 +54,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/cccs-al26-026/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/cccs-al26-026/index.html

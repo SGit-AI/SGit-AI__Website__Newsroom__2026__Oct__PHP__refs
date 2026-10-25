@@ -33,7 +33,7 @@ No claim cites this source yet.
 | 2026-10-22 00:43:58 UTC | NSA Cybersecurity posts 'UPDATE: Specific mitigation guidance ... is now available', linking the press release. | stated |
 
 ### Agency rows from this source
-- [NSA Cybersecurity](../../agencies/index.html): offline yes
+- [NSA Cybersecurity](https://php.oct.2026.newsroom.sgit.ai/agencies/): offline yes
 
 ## The bytes
 capture 20261022T080954Z · HTTP 200 · https://x.com/NSACyber/status/2113068811058622971- `headers.json` 9292b5863f63684cb58479f72ed4579062a1ff66108183ddfd21a51a34f25f60 9,022 bytes
@@ -47,4 +47,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/sources/nsa-x-2113068811058622971/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/nsa-x-2113068811058622971/index.html

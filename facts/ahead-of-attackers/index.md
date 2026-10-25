@@ -23,9 +23,9 @@ OpenAI's post carries the sentence, but with the qualifier 'to our knowledge' th
 | [x-openai-php2shell](../../sources/x-openai-php2shell/index.html) | carries | *to our knowledge, frontier AI was able to find this vulnerability ahead of attackers, giving defenders time to prepare.* | 785b7cae55e3748b |
 | [thehackernews-php2shell-4days](../../sources/thehackernews-php2shell-4days/index.html) | partial | *it remains unclear how the actor acquired exploit information prior to disclosure.* | c1cb63141287484c |
 
-Open tickets: [Finding-58](../../factcheck/index.html#Finding-58), [Finding-7](../../factcheck/index.html#Finding-7).
+Open tickets: [Finding-58](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-58), [Finding-7](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-7).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:16 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:16 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21 14:04 UTCOpenAI on X publishes [OpenAI on X: OpenAI models helped researchers ... discover critical security flaws in PHP](../../sources/x-openai-php2shell/index.html)
@@ -42,7 +42,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 RRowanJournalistAAshSecurity researcherBBlakeAnalyst or policy advisorRRileyCommunications team
-And on [every claim](../../claims/index.html#ahead-of-attackers).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#ahead-of-attackers).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · disputed
@@ -56,4 +56,4 @@ Sources: x-openai-php2shell, thehackernews-php2shell-4days
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/ahead-of-attackers/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/ahead-of-attackers/index.html

@@ -10,7 +10,7 @@ The source-watch vault: 913 pages from 597 publishers in 59 countries, re-read o
 
 A vault that does one thing. It watches every outside source on the story, 913 pages from 597 publishers in 59 countries, and on each run records what access it had and keeps a new snapshot whenever the content changed: the text, a screenshot, the HTML as served and as rendered, the headers and the sha256 of each, and a graph of what the page says and what changed since the last look. A small, focused Wayback Machine whose diffs are graphs. Run by **researcher@php.newsroom**.
 
-**Vault `7r83qic5`, in pack mode.** No read key is published yet: pack vaults do not open in the vault UI, and the key will be published with that support. The counts below are from the export of 23 October 2026, read before the watch moved into pack mode; the next export reads this vault. [Pack mode, measured](../../admin/pack-mode/index.html).
+**Vault `7r83qic5`, in pack mode.** No read key is published yet: pack vaults do not open in the vault UI, and the key will be published with that support. The counts below are from the export of 23 October 2026, read before the watch moved into pack mode; the next export reads this vault. [Pack mode, measured](https://team.php.oct.2026.newsroom.sgit.ai/admin/pack-mode/).
 
 ## What is in it
 
@@ -152,8 +152,8 @@ Their browser extension, php2shell-checker, was just approved on the Chrome Web 
 
 The watcher is in the vault, next to what it wrote: `analyse.py`, `capture_batch.mjs`, `collectors.py`, `discover.py`, `extract.py`, `foreign.py`, `import_evidence.py`, `lib.py`, `migrate_impact_cc.py`, `probe.py`, `publishers_seed.py`, `seed_impact.py`, `seed_world.py`, `series.py`, `watch.py`.
 
-python3 tools/watch.py run [--all] [--only ] [--limit N] [--commit] [--push] python3 tools/discover.py scan # feeds to candidate publishers python3 tools/discover.py promote --limit 30 python3 tools/watch.py add  --cc gb --sector news --publisher bbc The other vaults behind this site are on [the vaults](../index.html). The evidence vault, where the story was assembled by hand on the morning of 22 October, is [opened here](../../admin/vault/index.html).
+python3 tools/watch.py run [--all] [--only ] [--limit N] [--commit] [--push] python3 tools/discover.py scan # feeds to candidate publishers python3 tools/discover.py promote --limit 30 python3 tools/watch.py add  --cc gb --sector news --publisher bbc The other vaults behind this site are on [the vaults](../index.html). The evidence vault, where the story was assembled by hand on the morning of 22 October, is [opened here](https://team.php.oct.2026.newsroom.sgit.ai/admin/vault/).
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/vaults/source-watch/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/vaults/source-watch/index.html

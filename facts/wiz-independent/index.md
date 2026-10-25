@@ -24,9 +24,9 @@ Wiz's timeline carries 'discovers the first PHP vulnerability' on 19 August and 
 | [php-foundation-blog-security-release](../../sources/php-foundation-blog-security-release/index.html) | partial | *followed by further attack vectors from OpenAI on September 18th and from Wiz on August 24th.* | a1be057adc1c5bfa |
 | [x-wiz-io-php2shell](../../sources/x-wiz-io-php2shell/index.html) | partial | *BREAKING: @wiz_io Research uncovers #PHP2SHELL, a decade-old PHP Core vulnerability reaching CVSS 9.2 severity impacting 70% of the Internet.* | 6c17977662815b0c |
 
-Open tickets: [Finding-115](../../factcheck/index.html#Finding-115), [Finding-4](../../factcheck/index.html#Finding-4).
+Open tickets: [Finding-115](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-115), [Finding-4](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-4).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:16 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:16 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21Wiz publishes [PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet](../../sources/wiz-blog-php2shell/index.html)
@@ -43,7 +43,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 RRowanJournalistAAshSecurity researcherBBlakeAnalyst or policy advisorRRileyCommunications team
-And on [every claim](../../claims/index.html#wiz-independent).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#wiz-independent).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · reported
@@ -57,4 +57,4 @@ Sources: wiz-blog-php2shell, php-foundation-blog-security-release
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/wiz-independent/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/wiz-independent/index.html

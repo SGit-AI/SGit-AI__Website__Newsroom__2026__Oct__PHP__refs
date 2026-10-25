@@ -24,9 +24,9 @@ The fix commit itself (read from a clone, raw patch hashed in the vault) says 'R
 | [github-ghsa-w8hw-w9fx-j79w](../../sources/github-ghsa-w8hw-w9fx-j79w/index.html) | carries | *PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request.* | 84ab95d3b1d538ba |
 | [github-ghsa-6wmf-4rv5-p3rp](../../sources/github-ghsa-6wmf-4rv5-p3rp/index.html) | carries | *global state, such as error, session, object and extension state that is retained by a worker but points to memory owned by one request.* | 99d85c973c41c024 |
 
-Open tickets: [Finding-71](../../factcheck/index.html#Finding-71).
+Open tickets: [Finding-71](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-71).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:15 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 08:15 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-18 15:26 UTCphp/php-src, read from a clone publishes [Commit 3584a98bd: Avoid state corruption via bailout (the php2shell fix) and the PHP-7.4 backport 712e60f9e](../../sources/github-php-src-fix-commit-3584a98bd/index.html)
@@ -44,7 +44,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 CCaseyWebsite ownerSSamSecurity leadDDrewPHP or platform engineerAAshSecurity researcherRRobinCISOAAveryCTOMMorganData protection officerJJamieHead of AppSecLLeeDeveloper
-And on [every claim](../../claims/index.html#fix-engine).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#fix-engine).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · confirmed
@@ -58,4 +58,4 @@ Sources: github-php-src-fix-commit-3584a98bd, github-ghsa-w8hw-w9fx-j79w, github
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/fix-engine/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/fix-engine/index.html

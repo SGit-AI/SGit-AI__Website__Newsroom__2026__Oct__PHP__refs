@@ -43,9 +43,9 @@ Refreshed to 16:05 UTC on 24 October, still time-bounded and 'reported', which f
 | [haber-teknoloji-siber-guvenlik-baskanligi-ndan](../../sources/haber-teknoloji-siber-guvenlik-baskanligi-ndan/index.html) | supports | *e-Devlet Kapısı Güvende, Hizmetler Kesintisiz Sürüyor* | 2825ea23dc0ee99d |
 | [telesurenglish-php2shell-vulnerabilities](../../sources/telesurenglish-php2shell-vulnerabilities/index.html) | supports | *no massive successful intrusion had been publicly confirmed as of Thursday* | 6efd752b24f54073 |
 
-Open tickets: [Contradiction-2](../../factcheck/index.html#Contradiction-2), [Evidence-1](../../factcheck/index.html#Evidence-1), [Evidence-10](../../factcheck/index.html#Evidence-10), [Evidence-12](../../factcheck/index.html#Evidence-12), [Evidence-18](../../factcheck/index.html#Evidence-18), [Evidence-3](../../factcheck/index.html#Evidence-3), [Finding-26](../../factcheck/index.html#Finding-26), [Finding-85](../../factcheck/index.html#Finding-85).
+Open tickets: [Contradiction-2](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-2), [Evidence-1](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-1), [Evidence-10](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-10), [Evidence-12](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-12), [Evidence-18](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-18), [Evidence-3](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-3), [Finding-26](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-26), [Finding-85](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-85).
 
-Graded in Run-7, resting on captures up to 2026-10-25 09:35 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-7, resting on captures up to 2026-10-25 09:35 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21CISA publishes [Critical Vulnerabilities in PHP Require Immediate Patching](../../sources/cisa-alert-php-20261021/index.html)
@@ -105,7 +105,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 AAlexCurious readerTTaylorProject or programme managerJJordanBoard member or executiveRRobinCISOQQuinnCFOMMorganData protection officerRRileyCommunications team
-And on [every claim](../../claims/index.html#no-confirmed-compromise).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#no-confirmed-compromise).
 
 ## Every version of this fact
 v1 · site v0.2.0 · 22 October 2026 · confirmed
@@ -120,4 +120,4 @@ v2 · site v0.5.8 · 22 October 2026 · reportedNoAs of 20:50 UTC on 22 October,
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/index.html

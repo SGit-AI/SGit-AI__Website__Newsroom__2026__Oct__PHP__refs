@@ -27,9 +27,9 @@ Calif says Quarkslab's audit 'rediscovered the same OOM issue' and 'exploitation
 | [cloudflare-blog-php2shell-waf](../../sources/cloudflare-blog-php2shell-waf/index.html) | partial | *Today, Calif.io, Wiz, OpenAI and Quarkslab disclosed two* | 302408765abf45e3 |
 | [cloudflare-blog-php2shell-waf](../../sources/cloudflare-blog-php2shell-waf/index.html) | carries | *October 21, Calif.io, Wiz, OpenAI and Quarkslab disclosed two vulnerabilities in PHP* | 94476de6ec0b31e0 |
 
-Open tickets: [Finding-5](../../factcheck/index.html#Finding-5), [Finding-6](../../factcheck/index.html#Finding-6), [Finding-94](../../factcheck/index.html#Finding-94).
+Open tickets: [Finding-5](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-5), [Finding-6](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-6), [Finding-94](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-94).
 
-Graded in Run-1, resting on captures up to 2026-10-22 11:30 UTC. The scale is on [the fact-check page](../../factcheck/index.html#ladder).
+Graded in Run-1, resting on captures up to 2026-10-22 11:30 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21PHP Foundation publishes [Today's PHP Security Release, and How We're Strengthening PHP Security](../../sources/php-foundation-blog-security-release/index.html)
@@ -46,7 +46,7 @@ Published: when the source says it was published. Saved: the first capture into 
 
 In the briefings for:
 RRowanJournalistAAshSecurity researcherBBlakeAnalyst or policy advisorRRileyCommunications team
-And on [every claim](../../claims/index.html#quarkslab-2024).
+And on [every claim](https://php.oct.2026.newsroom.sgit.ai/claims/#quarkslab-2024).
 
 ## Every version of this fact
 v1 · site v0.1.0 · 22 October 2026 · confirmed
@@ -60,4 +60,4 @@ Sources: php-foundation-blog-security-release, calif-php2shell
 
 
 ---
-site v0.22.7 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://php.oct.2026.newsroom.sgit.ai/facts/quarkslab-2024/index.html
+site v0.22.10 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/quarkslab-2024/index.html
