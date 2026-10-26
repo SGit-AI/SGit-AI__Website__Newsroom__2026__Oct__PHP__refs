@@ -49,9 +49,15 @@ capture 20261024T083755Z · HTTP 200 · https://thenextweb.com/news/php2shell-mi
 - `page.html` c51dfb0561b1bdb2cd0a5691a16ffc394908928d2deab03e90047ca1b6311bdb 187,527 bytes
 - `provenance.json` a0b248b887c69f899d2340dd7db5144b7abcc3350ea0ea1e7b86f45cd08ee9a0 1,561 bytes
 - `text.txt` 75d67773b979aa86ec9f32e1690fa2d13b8d5905d6cfac239cfcd9331d8c17dc 5,405 bytes
+capture 20261026T144241Z · HTTP 200 · https://thenextweb.com/news/php2shell-millions-exploit-attempts-no-confirmed-breaches- `headers.json` d25dd24f8d29924470539e32aaa05c6719f75b8570a04b0f9c9647aaddfbc0c2 6,345 bytes
+- `page.html` ef3ae17b691a80753192168b50d6366320e28372b2e63c4233944b20360a3486 189,404 bytes
+- `provenance.json` 17f4ffeeba9bd7c94cd3660105456fc8affebf6d0efc0092bf6ebf17e57f1677 1,894 bytes
+- `rendered.html` 19f486164f9d5b7f0db6674db8f8763c2fab35121fda2a664ac8fd587fd05c1c 190,051 bytes
+- `screenshot.jpg` e7abf2251964d740c5ded80439f4870a8e58b088aa3449880b15236a9a0aa824 413,869 bytes
+- `text.txt` b496a4c63a57ddc8b4b3dcf43b9ce24f16d349b6160ddff80c2d1ac4fb63c252 5,407 bytes
 
 The captured files are held privately in the evidence vault and are not republished; the hashes above are what the vault recorded at capture time. [Every source →](../index.html)
 
 
 ---
-site v0.22.29 · data as of 2026-10-26T12:14Z · vault commit 22a0c2920b88 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/the-next-web-php2shell-no-confirmed-breaches/index.html
+site v0.22.32 · data as of 2026-10-26T14:42Z · vault commit 2fc7e432584b · https://refs.php.oct.2026.newsroom.sgit.ai/sources/the-next-web-php2shell-no-confirmed-breaches/index.html

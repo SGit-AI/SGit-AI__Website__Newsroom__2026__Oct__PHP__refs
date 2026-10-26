@@ -93,7 +93,7 @@ Graded in Run-9, resting on captures up to 2026-10-26 09:40 UTC. The scale is on
 - 2026-10-23 17:15 UTCLa Razón publishes [PHP descubre otro fallo de seguridad sin parche apenas dos días después de una actualización urgente: Cloudfla](../../sources/larazon-tecnologia-consumo-php-nuevo-fallo-segur/index.html)
 - 2026-10-23 23:25 UTCSaved into the evidence vault: Cyber Security News
 - 2026-10-24 08:37 UTCSaved into the evidence vault: American Banker
-- 2026-10-24 08:37 UTCSaved into the evidence vault: The Next Web
+- 2026-10-24 08:37 UTCSaved into the evidence vault: The Next Web, then 1 more capture
 - 2026-10-24 08:37 UTCSaved into the evidence vault: La Razón
 - 2026-10-24 16:05 UTCSaved into the evidence vault: voix
 - 2026-10-24Reworded or re-sourced in v0.12.1
@@ -127,4 +127,4 @@ v2 · site v0.5.8 · 22 October 2026 · reportedNoAs of 20:50 UTC on 22 October,
 
 
 ---
-site v0.22.29 · data as of 2026-10-26T12:14Z · vault commit 22a0c2920b88 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/index.html
+site v0.22.32 · data as of 2026-10-26T14:42Z · vault commit 2fc7e432584b · https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/index.html

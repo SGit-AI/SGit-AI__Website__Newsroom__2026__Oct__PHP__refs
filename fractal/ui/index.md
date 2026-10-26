@@ -6,10 +6,10 @@ A navigator over the php2shell fractal graph: stakeholders, risks, story arcs, c
 
 # Walk the whole graph
 
-The fractal graph in the navigator: the node in focus and its neighbours, every node a link, from a stakeholder at the top to a changed line at the bottom. Start at a reader and walk down, or at a line and walk up. The data is [data/fractal.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.33/fractal.json); the ladder and the threads are on [from a line of code to a stakeholder](../index.html).
+The fractal graph in the navigator: the node in focus and its neighbours, every node a link, from a stakeholder at the top to a changed line at the bottom. Start at a reader and walk down, or at a line and walk up. The data is [data/fractal.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.39/fractal.json); the ladder and the threads are on [from a line of code to a stakeholder](../index.html).
 
 The navigator needs JavaScript. The threads are on from a line of code to a stakeholder.
 
 
 ---
-site v0.22.29 · data as of 2026-10-26T12:14Z · vault commit 22a0c2920b88 · https://refs.php.oct.2026.newsroom.sgit.ai/fractal/ui/index.html
+site v0.22.32 · data as of 2026-10-26T14:42Z · vault commit 2fc7e432584b · https://refs.php.oct.2026.newsroom.sgit.ai/fractal/ui/index.html

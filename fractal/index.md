@@ -23,7 +23,7 @@ One graph for the whole story. At the bottom, the 359 changed hunks of the php2s
 | **Functions** | 193 | the C functions the fix changed, from the diff |
 | **Lines** | 359 | every changed hunk, with its line range in php-src |
 
-The top three layers and the joins from a claim to a flaw or a part of the fix are written by the librarian in [data/arcs.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.33/arcs.json); everything else is derived by the build from files the site already publishes. The assembled graph is [data/fractal.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.33/fractal.json).
+The top three layers and the joins from a claim to a flaw or a part of the fix are written by the librarian in [data/arcs.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.39/arcs.json); everything else is derived by the build from files the site already publishes. The assembled graph is [data/fractal.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.39/fractal.json).
 
 ## What is joined, and what is not
 
@@ -126,4 +126,4 @@ The fix-only version of this graph is [the fix mapped to the code](../review/ind
 
 
 ---
-site v0.22.29 · data as of 2026-10-26T12:14Z · vault commit 22a0c2920b88 · https://refs.php.oct.2026.newsroom.sgit.ai/fractal/index.html
+site v0.22.32 · data as of 2026-10-26T14:42Z · vault commit 2fc7e432584b · https://refs.php.oct.2026.newsroom.sgit.ai/fractal/index.html

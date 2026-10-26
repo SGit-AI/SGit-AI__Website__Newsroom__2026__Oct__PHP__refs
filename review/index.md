@@ -104,7 +104,7 @@ The patch is 389 files because the new allocation contract touched every place i
 | ext/simplexml | 4 | 134 | 26 |
 | ext/opcache | 7 | 113 | 11 |
 
-The full per-file data, with the functions each hunk changed, is [data/review.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.33/review.json) and [review/code/files.json](../review/code/files.json), derived from `git show` of the commit.
+The full per-file data, with the functions each hunk changed, is [data/review.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.39/review.json) and [review/code/files.json](../review/code/files.json), derived from `git show` of the commit.
 
 ## How this was built
 - **The code layer** is derived by a parser from `git show -U0` of the fix commit: files, the functions each hunk falls in, the symbols the patch adds. Never a model, so it cannot invent a function that is not in the diff.
@@ -114,4 +114,4 @@ The full per-file data, with the functions each hunk changed, is [data/review.js
 
 
 ---
-site v0.22.29 · data as of 2026-10-26T12:14Z · vault commit 22a0c2920b88 · https://refs.php.oct.2026.newsroom.sgit.ai/review/index.html
+site v0.22.32 · data as of 2026-10-26T14:42Z · vault commit 2fc7e432584b · https://refs.php.oct.2026.newsroom.sgit.ai/review/index.html
