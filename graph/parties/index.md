@@ -346,7 +346,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | Sankei Shimbun | 0 | 0 | 2 |  |
 | Search Engine Roundtable | 0 | 0 | 1 |  |
 | Security Affairs | 0 | 0 | 1 |  |
-| Security.NL | 0 | 0 | 3 |  |
+| Security.NL | 0 | 0 | 4 |  |
 | Shinailbo (신아일보) | 0 | 0 | 1 |  |
 | SiliconANGLE | 0 | 0 | 1 |  |
 | Sina Finance | 0 | 0 | 1 |  |
@@ -446,8 +446,8 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 |---|---|---|---|---|
 | This site (php.oct.2026.newsroom.sgit.ai) | 1 | 0 | 0 | [no-confirmed-compromise](../../facts/no-confirmed-compromise/index.html) |
 
-The file is [data/entities.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.26/entities.json), with who states each row in [data/attribution.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.26/attribution.json). A party with a page of its own links to it.
+The file is [data/entities.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.33/entities.json), with who states each row in [data/attribution.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.33/attribution.json). A party with a page of its own links to it.
 
 
 ---
-site v0.22.28 · data as of 2026-10-26T09:40Z · vault commit a7ab84771dfc · https://refs.php.oct.2026.newsroom.sgit.ai/graph/parties/index.html
+site v0.22.29 · data as of 2026-10-26T12:14Z · vault commit 22a0c2920b88 · https://refs.php.oct.2026.newsroom.sgit.ai/graph/parties/index.html

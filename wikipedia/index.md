@@ -10,18 +10,18 @@ Wikipedia is one of the largest bodies of checked fact there is, and one of the 
 
 | Article | Statements | Cited | References captured here | Shared with our claims | Revisions | Editors | Reverts | Latest revision |
 |---|---|---|---|---|---|---|---|---|
-| [PHP2Shell](php2shell/index.html) | 40 | 37 (92%) | 23 of 44 | 13 | 370 | 178 | 41 | 2026-10-25 11:39:32 UTC |
+| [PHP2Shell](php2shell/index.html) | 40 | 37 (92%) | 23 of 44 | 14 | 370 | 178 | 41 | 2026-10-25 11:39:32 UTC |
 
 ## How it is made
 - **Fetch.** Every revision of the article, with its wikitext, time, editor and edit summary; the Wikidata item; the articles that link in. Anonymous editors are recorded as anonymous, never by address.
 - **Parse.** A parser (`admin/build/wikitext.py`, no model) lifts the references out, turns the markup into text, and splits it into sentences. One sentence is one statement; its id is a hash of its words, so the same sentence keeps its id across revisions and an edit is a set difference.
 - **Class.** By wording only: a *record* (a number, a date, an identifier), a plain *stated* fact, an *attributed* statement (a named party said, reported or estimated it), a *quote*, or *hedged* wording. The class says how the article speaks, not whether it is right.
 - **Join.** A reference is matched to this site's sources by its address and to a party by its host. A statement there and a claim here that cite the same captured page meet at that page.
-- **Keep.** The data is `data/wikipedia/`; the graph of each article is in the ontology's `wikipedia` scope ([data/ontology.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.26/ontology.json)), with its own kinds and verbs, joined to the story graph by `captured_as`.
+- **Keep.** The data is `data/wikipedia/`; the graph of each article is in the ontology's `wikipedia` scope ([data/ontology.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.33/ontology.json)), with its own kinds and verbs, joined to the story graph by `captured_as`.
 
 ## Wikidata and DBpedia
 
-Wikidata is the structured sister of Wikipedia: one item per thing, with typed claims, edited in the open with the same history as an article. DBpedia is the older extraction of the same facts from Wikipedia's infoboxes, built from periodic dumps. This site reads both for the articles it watches, keeps the item's own history (on each article's [evolution page](php2shell/evolution/index.html#item)), and looks the parties of its own graph up on Wikidata so that a party here can carry the item that is already there, rather than a new identifier: 95 parties looked up, 25 items confirmed by hand, 2 proposed and waiting. The lookups are in [wikidata-links.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.26/wikidata-links.json); the build shows only confirmed items.
+Wikidata is the structured sister of Wikipedia: one item per thing, with typed claims, edited in the open with the same history as an article. DBpedia is the older extraction of the same facts from Wikipedia's infoboxes, built from periodic dumps. This site reads both for the articles it watches, keeps the item's own history (on each article's [evolution page](php2shell/evolution/index.html#item)), and looks the parties of its own graph up on Wikidata so that a party here can carry the item that is already there, rather than a new identifier: 95 parties looked up, 25 items confirmed by hand, 2 proposed and waiting. The lookups are in [wikidata-links.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.33/wikidata-links.json); the build shows only confirmed items.
 
 | Article | Wikidata item | Claims | Item history | DBpedia |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ The text of each article is Wikipedia's, [CC BY-SA 4.0](https://creativecommons.
 
 
 ---
-site v0.22.28 · data as of 2026-10-26T09:40Z · vault commit a7ab84771dfc · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/index.html
+site v0.22.29 · data as of 2026-10-26T12:14Z · vault commit 22a0c2920b88 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/index.html

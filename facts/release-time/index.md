@@ -1,22 +1,22 @@
-# Fact: The fixes were released at 14:00 UTC on 21 October
+# Fact: The fixes were scheduled for 14:00 UTC on 21 October and were published between 
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
-The fixes were released at 14:00 UTC on 21 October Who says it, its status (disputed), its sources, and its timeline from publication to this site.
+The fixes were scheduled for 14:00 UTC on 21 October and were published between 13:31 and 13:35 UTC Who says it, its status (confirmed), its sources, and its timeline from publication to this site.
 
-Fact · timing · disputed
+Fact · timing · confirmed
 
-# The fixes were released at 14:00 UTC on 21 October
+# The fixes were scheduled for 14:00 UTC on 21 October and were published between 13:31 and 13:35 UTC
 
-**Who says it:** php.net pre-announcement; Daubois; CERT-FR (16:00 Paris) · **Sources:** [oss-security](../../sources/openwall-oss-security-2026-10-20-34/index.html) [Daubois](../../sources/daubois-blog-php2shell-rumors/index.html) [CERT-FR](../../sources/certfr-2026-ale-014/index.html) [CERT-EU](../../sources/certeu-sa-2026-018/index.html) [php-src](../../sources/github-php-src-tags/index.html) [PHP](../../sources/github-ghsa-w8hw-w9fx-j79w/index.html) [php-src](../../sources/github-php-src-tag-php-8.5.12/index.html) [php.net](../../sources/php-net-advisory/index.html)
+**Who says it:** PHP 8.5's release manager, Daniel Scherzer, from the repositories' history; the GitHub tags and advisories (13:34 to 13:35 UTC); php.net pre-announcement (scheduled 14:00 UTC); CERT-EU (13:30 UTC) · **Sources:** [oss-security](../../sources/openwall-oss-security-2026-10-20-34/index.html) [Daubois](../../sources/daubois-blog-php2shell-rumors/index.html) [CERT-FR](../../sources/certfr-2026-ale-014/index.html) [CERT-EU](../../sources/certeu-sa-2026-018/index.html) [php-src](../../sources/github-php-src-tags/index.html) [PHP](../../sources/github-ghsa-w8hw-w9fx-j79w/index.html) [php-src](../../sources/github-php-src-tag-php-8.5.12/index.html) [php.net](../../sources/php-net-advisory/index.html) [scherzer.dev](../../sources/scherzer-dev-wikipedia-ref-15-blog-20261022-php2shell/index.html)
 
-CERT-EU says 13:30 UTC; the tags and advisories are stamped 13:34 to 13:35 UTC; the GitHub release 14:06 UTC; the php.net feed entries carry 00:05 to 00:35 UTC, which are authoring times, not publication times.
+CERT-EU says 13:30 UTC; the tags and advisories are stamped 13:34 to 13:35 UTC; the GitHub release 14:06 UTC; the php.net feed entries carry 00:05 to 00:35 UTC, which are authoring times, not publication times. Revised by the correspondent on 26 October 2026: the release manager's own timeline (22 October) gives 13:31 (tarballs), 13:33 (announcements), 13:34 (GitHub advisories) and 13:35 (php-src), matching the tags' stamps; 14:00 UTC was the scheduled time, which BleepingComputer and others repeat. Status from disputed to confirmed, the claim reworded to say both.
 
 ## Fact-check
 
-**A2** Reported●●○○○○ disputed · Event · verdict: **holds in part**
+**A5** Confirmed●●●●●○ measures differently · Event · verdict: **holds**
 
-21 October is carried by every primary record. 14:00 UTC was the scheduled time (php.net pre-announcement, oss-security relay, CERT-FR, ACSC 0100 AEDT); only Daubois states it after the event ('Published: 2026-10-21, 14:00 UTC'). The artifacts are stamped earlier and later: GHSA 13:34Z, tags 13:35:38 UTC, CVE records 13:48Z and 13:54Z, GitHub release 14:06:46Z; CERT-EU says 13:30 UTC. 'Disputed' fits.
+The correspondent reworded the claim on 26 October to what the records show: scheduled for 14:00 UTC on 21 October (php.net pre-announcement, the oss-security relay, the PHP Foundation), published between 13:31 and 13:35 UTC. The release manager's own timeline, from the repositories' history, gives 13:31 (tarballs), 13:33 (announcements), 13:34 (GitHub advisories) and 13:35 (php-src); the GitHub advisory is stamped 13:34:25Z and the tags 13:35:38 UTC, and CERT-EU says 13:30 UTC: independent primary records inside five minutes. Different artifacts carry other times (the GitHub release 14:06:46Z, the CVE records 13:48Z and 13:54Z, php.net feed authoring times), which is why the tension is 'measures-differently', not 'disputed'. K-010 stays open on the original embargo time, not on this claim.
 
 | Capture checked | Result | What it says | sha256 of the text read |
 |---|---|---|---|
@@ -29,10 +29,11 @@ CERT-EU says 13:30 UTC; the tags and advisories are stamped 13:34 to 13:35 UTC; 
 | [github-php-src-tag-php-8.5.12](../../sources/github-php-src-tag-php-8.5.12/index.html) | partial | *datetime="2026-10-21T14:06:46Z"* | 330630ed887249f6 |
 | [php-net-advisory](../../sources/php-net-advisory/index.html) | partial | *It is scheduled for Wednesday, 21 October 2026 at 14:00 UTC.* | df0b1bba3deae282 |
 | [php-foundation-blog-security-release](../../sources/php-foundation-blog-security-release/index.html) | partial | *It also moved the release from October 22nd, 14:00 UTC, to October 21st, 14:00 UTC.* | a1be057adc1c5bfa |
+| [scherzer-dev-wikipedia-ref-15-blog-20261022-php2shell](../../sources/scherzer-dev-wikipedia-ref-15-blog-20261022-php2shell/index.html) | carries | *13:31: the php/web-php-distributions repository* | ddee9f1e0bb29259 |
 
 Open tickets: [Contradiction-10](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-10), [Finding-39](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-39), [Finding-99](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-99).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:15 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
+Graded in Run-9, resting on captures up to 2026-10-26 09:40 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-20 20:22 UTCoss-security publishes [Upcoming Critical PHP Security Release](../../sources/openwall-oss-security-2026-10-20-34/index.html)
@@ -42,6 +43,7 @@ Graded in Run-1, resting on captures up to 2026-10-22 08:15 UTC. The scale is on
 - 2026-10-21 13:34 UTCPHP publishes [RCE via OOM corruption (CVE-2026-109618)](../../sources/github-ghsa-w8hw-w9fx-j79w/index.html)
 - 2026-10-21 14:06 UTCphp-src publishes [Release PHP 8.5.12](../../sources/github-php-src-tag-php-8.5.12/index.html)
 - 2026-10-21 15:20 UTCCERT-EU publishes [Security Advisory 2026-018: Critical Vulnerabilities in PHP](../../sources/certeu-sa-2026-018/index.html)
+- 2026-10-22scherzer.dev publishes [Blog: PHP2Shell: a Timeline](../../sources/scherzer-dev-wikipedia-ref-15-blog-20261022-php2shell/index.html)
 - 2026-10-22 08:09 UTCSaved into the evidence vault: PHP
 - 2026-10-22 08:09 UTCSaved into the evidence vault: php.net
 - 2026-10-22 08:12 UTCSaved into the evidence vault: Daubois, then 1 more capture
@@ -51,6 +53,8 @@ Graded in Run-1, resting on captures up to 2026-10-22 08:15 UTC. The scale is on
 - 2026-10-22 08:15 UTCSaved into the evidence vault: php-src
 - 2026-10-22 08:15 UTCSaved into the evidence vault: php-src
 - 2026-10-22Enters this site as disputed in v0.1.0 (reconstructed from git)
+- 2026-10-25 11:45 UTCSaved into the evidence vault: scherzer.dev
+- 2026-10-26Status changes from disputed to confirmed in v0.22.29
 
 Published: when the source says it was published. Saved: the first capture into the evidence vault. The rest are this site: the release in which the fact first appeared and every release that changed its wording, sources or status.
 
@@ -71,7 +75,8 @@ Status: disputed
 Topic: timing
 Sources: openwall-oss-security-2026-10-20-34, daubois-blog-php2shell-rumors, certfr-2026-ale-014, certeu-sa-2026-018, github-php-src-tags, github-ghsa-w8hw-w9fx-j79w, github-php-src-tag-php-8.5.12, php-net-advisory
 ```
+v2 · site v0.22.29 · 26 October 2026 · confirmedThe fixes were releasedscheduled atfor 14:00 UTC on 21 October and were published between 13:31 and 13:35 UTCWho says it: PHP 8.5's release manager, Daniel Scherzer, from the repositories' history; the GitHub tags and advisories (13:34 to 13:35 UTC); php.net pre-announcement;pre-announcement Daubois;(scheduled CERT-FR14:00 (16:00UTC); Paris)CERT-EU (13:30 UTC)Status: disputedconfirmedTopic: timingSources: openwall-oss-security-2026-10-20-34, daubois-blog-php2shell-rumors, certfr-2026-ale-014, certeu-sa-2026-018, github-php-src-tags, github-ghsa-w8hw-w9fx-j79w, github-php-src-tag-php-8.5.12, php-net-advisoryphp-net-advisory, scherzer-dev-wikipedia-ref-15-blog-20261022-php2shell
 
 
 ---
-site v0.22.28 · data as of 2026-10-26T09:40Z · vault commit a7ab84771dfc · https://refs.php.oct.2026.newsroom.sgit.ai/facts/release-time/index.html
+site v0.22.29 · data as of 2026-10-26T12:14Z · vault commit 22a0c2920b88 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/release-time/index.html

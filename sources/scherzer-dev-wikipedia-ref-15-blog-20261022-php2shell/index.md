@@ -36,7 +36,9 @@ Language `en`. Nothing in the page addresses an AI or hides text from a reader.
 
 ## Claims that cite it
 
-No claim cites this source yet.
+| Claim | Who says it | Status | [Fact-check](https://php.oct.2026.newsroom.sgit.ai/factcheck/) | Primary | Sources |
+|---|---|---|---|---|---|
+| The fixes were scheduled for 14:00 UTC on 21 October and were published between 13:31 and 13:35 UTCCERT-EU says 13:30 UTC; the tags and advisories are stamped 13:34 to 13:35 UTC; the GitHub release 14:06 UTC; the php.net feed entries carry 00:05 to 00:35 UTC, which are authoring times, not publication times. Revised by the correspondent on 26 October 2026: the release manager's own timeline (22 October) gives 13:31 (tarballs), 13:33 (announcements), 13:34 (GitHub advisories) and 13:35 (php-src), matching the tags' stamps; 14:00 UTC was the scheduled time, which BleepingComputer and others repeat. Status from disputed to confirmed, the claim reworded to say both. [fact timeline →](../../facts/release-time/index.html) | PHP 8.5's release manager, Daniel Scherzer, from the repositories' history; the GitHub tags and advisories (13:34 to 13:35 UTC); php.net pre-announcement (scheduled 14:00 UTC); CERT-EU (13:30 UTC) | confirmed | **A5** Confirmed●●●●●○ measures differently | 7/9 | [oss-security](../../sources/openwall-oss-security-2026-10-20-34/index.html) [Daubois](../../sources/daubois-blog-php2shell-rumors/index.html) [CERT-FR](../../sources/certfr-2026-ale-014/index.html) [CERT-EU](../../sources/certeu-sa-2026-018/index.html) [php-src](../../sources/github-php-src-tags/index.html) [PHP](../../sources/github-ghsa-w8hw-w9fx-j79w/index.html) [php-src](../../sources/github-php-src-tag-php-8.5.12/index.html) [php.net](../../sources/php-net-advisory/index.html) [scherzer.dev](../../sources/scherzer-dev-wikipedia-ref-15-blog-20261022-php2shell/index.html) |
 
 ## Events that cite it
 
@@ -54,4 +56,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.28 · data as of 2026-10-26T09:40Z · vault commit a7ab84771dfc · https://refs.php.oct.2026.newsroom.sgit.ai/sources/scherzer-dev-wikipedia-ref-15-blog-20261022-php2shell/index.html
+site v0.22.29 · data as of 2026-10-26T12:14Z · vault commit 22a0c2920b88 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/scherzer-dev-wikipedia-ref-15-blog-20261022-php2shell/index.html
