@@ -14,8 +14,8 @@ Every page here is written by the press (SGit-AI/sgit-ai__website__newsroom__202
 partition, and the gate refuses it. Change the page at its source in v1, release v1, then partition again:
 
 ```
-python3 ../sgit-ai__website__newsroom__2026__oct__php__press/tools/partition.py --site refs --v1 ../sgit-ai__website__newsroom__2026__oct__php \
-    --data ../sgit-ai__website__newsroom__2026__oct__php__data --into .
+python3 ../sgit-ai__website__newsroom__2026__oct__php__press/tools/partition.py --site refs --v1 ../sgit-ai__website__newsroom__2026__oct__php__box \
+    --data ../sgit-ai__website__newsroom__2026__oct__php__data --into .   # dev's chain does this; nothing depends on v1's repository since step B
 RELEASE_TRAILER="Agent: <you>" tools/pages_release.sh "what changed and why"
 ```
 
