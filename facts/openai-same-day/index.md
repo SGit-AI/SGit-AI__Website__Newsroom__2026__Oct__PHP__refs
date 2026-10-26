@@ -60,4 +60,4 @@ Sources: php-foundation-blog-security-release, github-ghsa-w8hw-w9fx-j79w
 
 
 ---
-site v0.22.22 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/openai-same-day/index.html
+site v0.22.23 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/openai-same-day/index.html
