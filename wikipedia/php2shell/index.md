@@ -8,11 +8,11 @@ The English Wikipedia article on PHP2Shell read as a fractal semantic graph: 40 
 
 # Wikipedia's PHP2Shell article, as a graph
 
-The English Wikipedia article [PHP2Shell](https://en.wikipedia.org/wiki/PHP2Shell), read as a fractal semantic graph: 40 statements in 5 sections, 45 references, 370 revisions by 178 named editors since 2026-10-21 07:50:01 UTC, and its Wikidata item. 21 of its 44 references are captured in this site's evidence vault, where 13 of them are also cited by this site's claims: that is where the article's facts and this site's meet. Latest revision read: `1381884195`, 2026-10-25 11:39:32 UTC.
+The English Wikipedia article [PHP2Shell](https://en.wikipedia.org/wiki/PHP2Shell), read as a fractal semantic graph: 40 statements in 5 sections, 45 references, 370 revisions by 178 named editors since 2026-10-21 07:50:01 UTC, and its Wikidata item. 23 of its 44 references are captured in this site's evidence vault, where 13 of them are also cited by this site's claims: that is where the article's facts and this site's meet. Latest revision read: `1381884195`, 2026-10-25 11:39:32 UTC.
 
-40statements 37cited 45references 21captured here 370revisions 178editors 27languages
+40statements 37cited 45references 23captured here 370revisions 178editors 27languages
 
-The interactive graph needs JavaScript. The same nodes are on [every statement](statements/index.html), [every reference](references/index.html) and [every edit](history/index.html); the graph is [graph.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.19/wikipedia/php2shell/graph.json).
+The interactive graph needs JavaScript. The same nodes are on [every statement](statements/index.html), [every reference](references/index.html) and [every edit](history/index.html); the graph is [graph.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.26/wikipedia/php2shell/graph.json).
 
 ## Facts and the words around them
 
@@ -89,14 +89,14 @@ Wikidata, the structured sister of Wikipedia, holds item [Q141801185](https://ww
 
 ## What links here
 
-198 other articles link to this one, which is how a reader of Wikipedia arrives: from *PHP*, *2026*, the lists of security incidents, the pages of the companies named. The list is in [links-in.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.19/wikipedia/php2shell/links-in.json).
+198 other articles link to this one, which is how a reader of Wikipedia arrives: from *PHP*, *2026*, the lists of security incidents, the pages of the companies named. The list is in [links-in.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.26/wikipedia/php2shell/links-in.json).
 
 ## Towards a measure of trust
 
-The editor's working view is that Wikipedia is a trusted source, and that this should be shown rather than assumed: by how often its statements are later corrected, against how often other publications are. This page does not compute a score; it keeps the counts a proof would start from, and the fact-check desk grades statements, not pages. For this article: 37 of 40 statements cited (92%); 21 of 44 references captured here, 12 of those primary sources; 41 reverts in 370 revisions; 8 of this site's contradictions touch evidence the article also cites.
+The editor's working view is that Wikipedia is a trusted source, and that this should be shown rather than assumed: by how often its statements are later corrected, against how often other publications are. This page does not compute a score; it keeps the counts a proof would start from, and the fact-check desk grades statements, not pages. For this article: 37 of 40 statements cited (92%); 23 of 44 references captured here, 12 of those primary sources; 41 reverts in 370 revisions; 8 of this site's contradictions touch evidence the article also cites.
 
 The text is Wikipedia's, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), by its contributors; the revision ids are the attribution, and this site's pages and data that carry it are under the same licence: this page uses material from the Wikipedia article “PHP2Shell” ([link](https://en.wikipedia.org/wiki/PHP2Shell)), released under the [Creative Commons Attribution-Share-Alike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/). It is republished so it can be read as a graph, diffed and followed to its evidence; nothing here is Wikipedia's view, and nothing on Wikipedia is this site's.
 
 
 ---
-site v0.22.26 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/index.html
+site v0.22.28 · data as of 2026-10-26T09:40Z · vault commit a7ab84771dfc · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/index.html

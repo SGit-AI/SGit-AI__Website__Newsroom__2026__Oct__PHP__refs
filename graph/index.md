@@ -2,15 +2,15 @@
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
-1554 nodes and 1900 typed edges: every claim, number, event, signal, advice, party, source and capture on the PHP flaws story, walkable, with the independent origins of each claim.
+1661 nodes and 1959 typed edges: every claim, number, event, signal, advice, party, source and capture on the PHP flaws story, walkable, with the independent origins of each claim.
 
 # The story as a graph
 
 In plain English Who said each thing first, who passed it on, and which saved pages it rests on. Click anything to walk from it to what it is connected to.
 
-1554 nodes and 1900 edges in 15 verbs: 515 captures, 454 sources, 363 parties, 70 claims, 68 events, 20 exploitation signals, 17 numbers, 16 advice, 12 tensions, 8 topics, 8 phases, 3 CVEs. Each is drawn from the same rows as the pages, so the picture cannot disagree with the text. Start anywhere, follow a link, and the graph re-centres on it; a node with a thick ring opens a graph of its own.
+1661 nodes and 1959 edges in 15 verbs: 568 captures, 507 sources, 364 parties, 70 claims, 68 events, 20 exploitation signals, 17 numbers, 16 advice, 12 tensions, 8 topics, 8 phases, 3 CVEs. Each is drawn from the same rows as the pages, so the picture cannot disagree with the text. Start anywhere, follow a link, and the graph re-centres on it; a node with a thick ring opens a graph of its own.
 
-The interactive graph needs JavaScript. Every node is also on a page: [the claims](https://php.oct.2026.newsroom.sgit.ai/claims/), [the sources](../sources/index.html), [the parties](../graph/parties/index.html), [the timeline](https://php.oct.2026.newsroom.sgit.ai/timeline/), [the tensions](https://php.oct.2026.newsroom.sgit.ai/factcheck/); the whole graph is [data/graph.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.19/graph.json).
+The interactive graph needs JavaScript. Every node is also on a page: [the claims](https://php.oct.2026.newsroom.sgit.ai/claims/), [the sources](../sources/index.html), [the parties](../graph/parties/index.html), [the timeline](https://php.oct.2026.newsroom.sgit.ai/timeline/), [the tensions](https://php.oct.2026.newsroom.sgit.ai/factcheck/); the whole graph is [data/graph.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.26/graph.json).
 
 ## Read it as sentences
 
@@ -22,9 +22,9 @@ Every edge is a verb, and read from the other end it has a different name: Wiz *
 | `states` | `stated_by` | A states B | 146 | proposed here |
 | `relays` | `relayed_by` | A relays B | 46 | proposed here |
 | `counts` | `counted_by` | A counts B | 6 | proposed here |
-| `published_by` | `publishes` | A is published by B | 422 | inherited from governance-beat-ontology |
+| `published_by` | `publishes` | A is published by B | 428 | inherited from governance-beat-ontology |
 | `syndicates` | `syndicated_in` | A syndicates B | 9 | proposed here |
-| `captured_in` | `captures` | A is captured in B | 515 | inherited from portugal-ontology |
+| `captured_in` | `captures` | A is captured in B | 568 | inherited from portugal-ontology |
 | `appears_in` | `carries` | A appears in B | 140 | inherited from altitudes.json (Concept to Unit) |
 | `flags` | `flagged_by` | A flags B | 25 | inherited from altitudes.json edge_registry |
 | `advises` | `advised_by` | A advises B | 16 | proposed here |
@@ -93,7 +93,7 @@ Stated only by sources a page does not name: a gap in the evidence, not a party.
 | [Mitigation advice given to a few critical-infrastructure providers from about 23:00 UTC on 20 October may have](../facts/leak-mitigations/index.html) | reported | 1 | 0 | 1 |  |
 | [Calif mistakenly published a video around 20:00 UTC on 20 October showing its proof of concept against a numbe](../facts/leak-video/index.html) | reported | 1 | 0 | 2 |  |
 | [Patching the demonstrated paths does not make the bailout mechanism safe; more paths should be expected](../facts/more-paths/index.html) | reported | 1 | 0 | 1 | K-011 |
-| [As of 14:40 UTC on 25 October, no named organisation has said it was compromised through php2shell. Exploitati](../facts/no-confirmed-compromise/index.html) | reported | 1 | 0 | 13 |  |
+| [As of 09:40 UTC on 26 October, no named organisation has said it was compromised through php2shell. Exploitati](../facts/no-confirmed-compromise/index.html) | reported | 1 | 0 | 13 |  |
 | [Reports of active exploitation exist](../facts/nz-active/index.html) | reported | 1 | 0 | 1 |  |
 | [The UK's NCSC, the NSA and their counterparts in the EU and Australia advise taking systems offline where patc](../facts/offline-allies/index.html) | contradicted | 1 | 0 | 5 |  |
 | [Organisations that cannot update immediately, or that run PHP 8.1 or older, should take PHP-based systems offl](../facts/offline-cisa/index.html) | confirmed | 1 | 0 | 1 |  |
@@ -134,7 +134,7 @@ Stated only by sources a page does not name: a gap in the evidence, not a party.
 
 - **A party opens what it said and what it passed on**: the claims and numbers it states, the ones it relays, the sources it publishes, the organisation it is part of. [Every party](parties/index.html).
 
-- **A party steps across into the risk graph.** The risk desk keeps its own graph ([the risk graph](https://php.oct.2026.newsroom.sgit.ai/grc/graph/)), where parties appear as stakeholders, mostly as classes (WAF vendors, local councils, national governments). [data/crosswalk.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.19/crosswalk.json) declares the bridges: a party *is* a stakeholder, or is *among* a class of them; a CVE is the same anchor in all three graphs. Bridges, not a merge: each graph keeps its words.
+- **A party steps across into the risk graph.** The risk desk keeps its own graph ([the risk graph](https://php.oct.2026.newsroom.sgit.ai/grc/graph/)), where parties appear as stakeholders, mostly as classes (WAF vendors, local councils, national governments). [data/crosswalk.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.26/crosswalk.json) declares the bridges: a party *is* a stakeholder, or is *among* a class of them; a CVE is the same anchor in all three graphs. Bridges, not a merge: each graph keeps its words.
 
 - **A tension opens the claims it flags**: the contradiction ledger of the fact-check desk, one node per row, because two claims that disagree are not one edge with the same name both ways.
 
@@ -152,9 +152,9 @@ Kinds of node:
 | Tension | story | 12 | A row of the fact-check desk's contradiction ledger: claims that measure differently, dispute or contradict each other. A node, because the grammar has no self-inverse edge. |
 | Topic | story | 8 | A class in the topic taxonomy of claims. |
 | Phase | story | 8 | A class in the phase taxonomy of the timeline. |
-| Party | world | 363 | A person, organisation, agency, outlet, group, registry, platform or project (data/entities.json); its class is in 'class'. |
-| Source | evidence | 454 | A page in the evidence vault's manifest (data/sources.json). |
-| Capture | evidence | 515 | One time the vault saved a source: its files and their hashes. The first fractal layer below a source. |
+| Party | world | 364 | A person, organisation, agency, outlet, group, registry, platform or project (data/entities.json); its class is in 'class'. |
+| Source | evidence | 507 | A page in the evidence vault's manifest (data/sources.json). |
+| Capture | evidence | 568 | One time the vault saved a source: its files and their hashes. The first fractal layer below a source. |
 | CVE | anchor | 3 | An anchor node: a CVE identifier, where the story graph joins the code-review graph (data/review.json) and the outside world (cve.org). It has no authority of its own. |
 
 Verbs this graph will not use, and why:
@@ -165,8 +165,8 @@ Verbs this graph will not use, and why:
 - `measures_differently`: self-inverse; recorded as a contradiction node with tension 'measures-differently'
 - `agrees_with`: self-inverse, and agreement is read from independent states edges, not asserted
 
-The grammar is the estate's, from [graphs.sgit.ai](https://graphs.sgit.ai/v1/grammar/); the files are [data/ontology.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.19/ontology.json) (kinds, verbs, taxonomies, formulas), [data/entities.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.19/entities.json) (one node per party, whatever a page calls it) and [data/attribution.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.19/attribution.json) (who states each row). The graph is [data/graph.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.19/graph.json). Kept by the ontologist. The component that draws it is documented for every agent on [the graph component](component/index.html) page.
+The grammar is the estate's, from [graphs.sgit.ai](https://graphs.sgit.ai/v1/grammar/); the files are [data/ontology.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.26/ontology.json) (kinds, verbs, taxonomies, formulas), [data/entities.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.26/entities.json) (one node per party, whatever a page calls it) and [data/attribution.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.26/attribution.json) (who states each row). The graph is [data/graph.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.26/graph.json). Kept by the ontologist. The component that draws it is documented for every agent on [the graph component](component/index.html) page.
 
 
 ---
-site v0.22.26 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://refs.php.oct.2026.newsroom.sgit.ai/graph/index.html
+site v0.22.28 · data as of 2026-10-26T09:40Z · vault commit a7ab84771dfc · https://refs.php.oct.2026.newsroom.sgit.ai/graph/index.html

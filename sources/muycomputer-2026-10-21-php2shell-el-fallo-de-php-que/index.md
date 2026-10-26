@@ -58,4 +58,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.26 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://refs.php.oct.2026.newsroom.sgit.ai/sources/muycomputer-2026-10-21-php2shell-el-fallo-de-php-que/index.html
+site v0.22.28 · data as of 2026-10-26T09:40Z · vault commit a7ab84771dfc · https://refs.php.oct.2026.newsroom.sgit.ai/sources/muycomputer-2026-10-21-php2shell-el-fallo-de-php-que/index.html
