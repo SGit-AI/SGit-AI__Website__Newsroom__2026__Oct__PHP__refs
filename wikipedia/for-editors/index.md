@@ -37,10 +37,10 @@ Wikipedia's strength is review by many people against written policy; this site'
 
 | Article | References captured here | Findings | History |
 |---|---|---|---|
-| [PHP2Shell](../php2shell/index.html) | [23 of 44](../php2shell/references/index.html) | [15](../php2shell/review/index.html) | [370 revisions read](../php2shell/talk/index.html) |
+| [PHP2Shell](../php2shell/index.html) | [24 of 44](../php2shell/references/index.html) | [15](../php2shell/review/index.html) | [370 revisions read](../php2shell/talk/index.html) |
 
 The attribution Wikipedia asks of reusers, as this site gives it on each page of this section: *This page uses material from the Wikipedia article “PHP2Shell”, which is released under the Creative Commons Attribution-Share-Alike License 4.0.* The text here that is this site's own is CC BY 4.0.
 
 
 ---
-site v0.22.33 · data as of 2026-10-26T14:42Z · vault commit 2fc7e432584b · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/for-editors/index.html
+site v0.22.34 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/for-editors/index.html

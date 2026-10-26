@@ -366,7 +366,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | The Kathmandu Post | 0 | 0 | 1 |  |
 | The Mandarin | 0 | 0 | 1 |  |
 | The New York Times | 0 | 0 | 0 |  |
-| The Next Web | 0 | 0 | 1 |  |
+| The Next Web | 0 | 0 | 2 |  |
 | The Next Web | 0 | 0 | 0 |  |
 | The Star | 0 | 0 | 1 |  |
 | The Verge | 0 | 0 | 1 |  |
@@ -446,8 +446,8 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 |---|---|---|---|---|
 | This site (php.oct.2026.newsroom.sgit.ai) | 1 | 0 | 0 | [no-confirmed-compromise](../../facts/no-confirmed-compromise/index.html) |
 
-The file is [data/entities.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.42/entities.json), with who states each row in [data/attribution.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.42/attribution.json). A party with a page of its own links to it.
+The file is [data/entities.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.45/entities.json), with who states each row in [data/attribution.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.45/attribution.json). A party with a page of its own links to it.
 
 
 ---
-site v0.22.33 · data as of 2026-10-26T14:42Z · vault commit 2fc7e432584b · https://refs.php.oct.2026.newsroom.sgit.ai/graph/parties/index.html
+site v0.22.34 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/graph/parties/index.html
