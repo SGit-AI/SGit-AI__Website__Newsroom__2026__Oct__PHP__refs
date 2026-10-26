@@ -6,10 +6,10 @@ A navigator over the php2shell review graph: the fix, the flaws it closes, and t
 
 # Walk the graph
 
-The review graph in a navigator: the node in focus and its neighbours, laid out live, every node a link. Start at the fix and walk out to the flaws it closes or in to the files that carry it. The data is [data/review.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.11/review.json); the static map is [the fix mapped to the code](../index.html).
+The review graph in a navigator: the node in focus and its neighbours, laid out live, every node a link. Start at the fix and walk out to the flaws it closes or in to the files that carry it. The data is [data/review.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.12/review.json); the static map is [the fix mapped to the code](../index.html).
 
 The navigator needs JavaScript. The same graph is on the fix mapped to the code.
 
 
 ---
-site v0.22.20 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/review/ui/index.html
+site v0.22.22 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/review/ui/index.html
