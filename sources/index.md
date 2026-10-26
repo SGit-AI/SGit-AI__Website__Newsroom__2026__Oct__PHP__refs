@@ -24,7 +24,7 @@ In plain English Every web page this site relied on, with the time it was saved 
 | news-live | 3 |
 | forum | 2 |
 
-Each capture holds `page.html` (as served), `rendered.html` (after scripts ran), `text.txt`, `screenshot.png`, `headers.json` and `provenance.json`. A `raw/` folder holds anything fetched another way, with its own checksum file. The manifest this page is built from is [data/sources.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.18/sources.json).
+Each capture holds `page.html` (as served), `rendered.html` (after scripts ran), `text.txt`, `screenshot.png`, `headers.json` and `provenance.json`. A `raw/` folder holds anything fetched another way, with its own checksum file. The manifest this page is built from is [data/sources.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.19/sources.json).
 
 ### [Failles PHP : pourquoi c'est un vrai casse-tête pour l'Internet mondial](01net-actualites-failles-php-pourquoi-cest-vra/index.html) [original ↗](https://www.01net.com/actualites/failles-php-pourquoi-cest-vrai-casse-tete-internet-mondial.html)
 
@@ -6187,4 +6187,4 @@ capture 20261023T160435Z · HTTP 200 · https://www.zataz.com/php2shell-deux-fai
 
 
 ---
-site v0.22.25 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://refs.php.oct.2026.newsroom.sgit.ai/sources/index.html
+site v0.22.26 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://refs.php.oct.2026.newsroom.sgit.ai/sources/index.html

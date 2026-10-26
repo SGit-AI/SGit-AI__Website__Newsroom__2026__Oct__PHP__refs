@@ -54,4 +54,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.25 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://refs.php.oct.2026.newsroom.sgit.ai/sources/mt-tech-2026-10-24-2026102414170377166/index.html
+site v0.22.26 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://refs.php.oct.2026.newsroom.sgit.ai/sources/mt-tech-2026-10-24-2026102414170377166/index.html

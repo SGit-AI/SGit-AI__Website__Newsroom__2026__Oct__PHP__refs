@@ -56,4 +56,4 @@ Sources: github-ghsa-w8hw-w9fx-j79w, php-net-changelog-8, github-php-src-branch-
 
 
 ---
-site v0.22.25 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://refs.php.oct.2026.newsroom.sgit.ai/facts/fix-bailout/index.html
+site v0.22.26 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://refs.php.oct.2026.newsroom.sgit.ai/facts/fix-bailout/index.html

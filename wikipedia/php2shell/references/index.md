@@ -60,4 +60,4 @@ All 45 references of the article: which this site has captured, who publishes ea
 
 
 ---
-site v0.22.25 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/references/index.html
+site v0.22.26 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/references/index.html
