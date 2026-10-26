@@ -150,7 +150,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | The Cyber Express | 0 | 2 | 1 |  |
 | The Register | 0 | 2 | 2 |  |
 | Actu17 | 0 | 1 | 1 |  |
-| CNN | 0 | 1 | 2 |  |
+| CNN | 0 | 1 | 3 |  |
 | Dark Reading | 0 | 1 | 1 |  |
 | Edinburgh Evening News | 0 | 1 | 1 |  |
 | Helsinki Times | 0 | 1 | 1 |  |
@@ -187,7 +187,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | BankInfoSecurity | 0 | 0 | 1 |  |
 | Bgonair | 0 | 0 | 1 |  |
 | Bitpage.de | 0 | 0 | 1 |  |
-| BleepingComputer | 0 | 0 | 2 |  |
+| BleepingComputer | 0 | 0 | 3 |  |
 | BlockTempo (動區動趨) | 0 | 0 | 1 |  |
 | Blog du Modérateur (BDM) | 0 | 0 | 1 |  |
 | Bloomberg | 0 | 0 | 1 |  |
@@ -316,7 +316,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | LeBigData.fr | 0 | 0 | 1 |  |
 | Les Affaires | 0 | 0 | 1 |  |
 | Linternaute | 0 | 0 | 1 |  |
-| Lupa.cz | 0 | 0 | 1 |  |
+| Lupa.cz | 0 | 0 | 2 |  |
 | Mado no Mori (窓の杜) | 0 | 0 | 1 |  |
 | Marketing4eCommerce | 0 | 0 | 1 |  |
 | Mashable | 0 | 0 | 0 |  |
@@ -333,7 +333,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | Open Access Government | 0 | 0 | 1 |  |
 | PA Media (the Press Association) | 0 | 0 | 0 |  |
 | PC Gamer | 0 | 0 | 0 |  |
-| PCMag | 0 | 0 | 1 |  |
+| PCMag | 0 | 0 | 2 |  |
 | Paperjam | 0 | 0 | 1 |  |
 | Peterborough Telegraph | 0 | 0 | 1 |  |
 | Polinews | 0 | 0 | 1 |  |
@@ -446,8 +446,8 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 |---|---|---|---|---|
 | This site (php.oct.2026.newsroom.sgit.ai) | 1 | 0 | 0 | [no-confirmed-compromise](../../facts/no-confirmed-compromise/index.html) |
 
-The file is [data/entities.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.15/entities.json), with who states each row in [data/attribution.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.15/attribution.json). A party with a page of its own links to it.
+The file is [data/entities.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.18/entities.json), with who states each row in [data/attribution.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.18/attribution.json). A party with a page of its own links to it.
 
 
 ---
-site v0.22.23 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/graph/parties/index.html
+site v0.22.25 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://refs.php.oct.2026.newsroom.sgit.ai/graph/parties/index.html

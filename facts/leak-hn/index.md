@@ -57,4 +57,4 @@ Sources: daubois-blog-php2shell-rumors
 
 
 ---
-site v0.22.23 · data as of 2026-10-25T09:35Z · vault commit 87795d121200 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/leak-hn/index.html
+site v0.22.25 · data as of 2026-10-25T14:40Z · vault commit 94352a55fbaa · https://refs.php.oct.2026.newsroom.sgit.ai/facts/leak-hn/index.html
