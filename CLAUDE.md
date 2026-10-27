@@ -15,7 +15,7 @@ partition, and the gate refuses it. Change the page at its source in v1, release
 
 ```
 python3 ../sgit-ai__website__newsroom__2026__oct__php__press/tools/partition.py --site refs --v1 ../sgit-ai__website__newsroom__2026__oct__php__box \
-    --data ../sgit-ai__website__newsroom__2026__oct__php__data --into .   # dev's chain does this; nothing depends on v1's repository since step B
+    --data ../sgit-ai__website__newsroom__2026__oct__php__data --into .   # the edition does this, in the press's CI (edition.yml); this repository's deploy takes it
 RELEASE_TRAILER="Agent: <you>" tools/pages_release.sh "what changed and why"
 ```
 
