@@ -81,7 +81,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 
 | Party | States | Relays | Sources published | Claims it states |
 |---|---|---|---|---|
-| CISA member of National agencies | 7 | 0 | 6 | [waf](../../facts/waf/index.html) [cisa-none](../../facts/cisa-none/index.html) [offline-cisa](../../facts/offline-cisa/index.html) [kev-precedent](../../facts/kev-precedent/index.html) |
+| CISA member of National agencies | 7 | 0 | 7 | [waf](../../facts/waf/index.html) [cisa-none](../../facts/cisa-none/index.html) [offline-cisa](../../facts/offline-cisa/index.html) [kev-precedent](../../facts/kev-precedent/index.html) |
 | CERT.LV member of National agencies | 5 | 0 | 1 | [scale-latvia](../../facts/scale-latvia/index.html) [latvia-attempts](../../facts/latvia-attempts/index.html) [latvia-offline](../../facts/latvia-offline/index.html) |
 | NCSC-NL part of The Dutch government; member of National agencies | 3 | 0 | 5 | [versions-old](../../facts/versions-old/index.html) [scale-ncsc-nl](../../facts/scale-ncsc-nl/index.html) |
 | CERT-EU member of National agencies | 2 | 0 | 1 | [leak-watchtowr](../../facts/leak-watchtowr/index.html) |
@@ -450,4 +450,4 @@ The file is [data/entities.json](https://data.php.oct.2026.newsroom.sgit.ai/late
 
 
 ---
-site v0.22.42 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/graph/parties/index.html
+site v0.22.43 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/graph/parties/index.html

@@ -45,13 +45,13 @@ The article's statements (admin/build/wikitext.py) set against the claims of thi
 ## What this site holds that the article does not say (8)
 
 Claims of this site, each with its own captures and the fact-check desk's status, on matters the article does not cover. Whether any belongs in the article is for its editors: Wikipedia weighs what reliable secondary sources have covered, not what a primary capture shows.
-- [cisa-none](../../../facts/cisa-none/index.html): CISA has not observed exploitation; neither CVE is in the Known Exploited Vulnerabilities catalog confirmed
+- [cisa-none](../../../facts/cisa-none/index.html): As of its alert of 21 October and KEV catalog version 2026.10.21 (fetched 2026-10-22T08:15Z), CISA had not observed exploitation and neither CVE was in the Known Exploited Vulnerabilities catalog. Sup confirmed
 - [scale-ncsc-nl](../../../facts/scale-ncsc-nl/index.html): 674 products in the NCSC-NL inventory: 206 vulnerable, 46 fixed, 418 under investigation, 3 not vulnerable confirmed
 - [latvia-offline](../../../facts/latvia-offline/index.html): Latvia restricted access from abroad to several state digital resources, possibly until 26 October; lsm.lv and 112.lv were restored by 20:00 UTC confirmed
 - [scale-latvia](../../../facts/scale-latvia/index.html): About 6,000 potentially affected resources in Latvia, a few hundred in the public sector reported
 - [release-moved](../../../facts/release-moved/index.html): The release moved forward from 22 October 14:00 UTC to 21 October 14:00 UTC because of the leak confirmed
 - [waf-nine-hours](../../../facts/waf-nine-hours/index.html): Edge protections went live hours before disclosure: Cloudflare at 03:02 UTC; Imperva, Akamai and Fastly on 21 October; Fortinet signatures by 22 October confirmed
-- [kev-precedent](../../../facts/kev-precedent/index.html): The last PHP core RCE, CVE-2024-4577, was exploited in the wild one day after disclosure and in KEV three days after; php2shell is not in KEV after one day reported
+- [kev-precedent](../../../facts/kev-precedent/index.html): The last PHP core RCE, CVE-2024-4577, was exploited in the wild one day after disclosure and in KEV three days after; php2shell was not in KEV one day after disclosure (catalog version 2026.10.21) and reported
 - [quarkslab-2024](../../../facts/quarkslab-2024/index.html): The out-of-memory issue was found in a 2024 audit by Quarkslab (funded through OSTIF and the Sovereign Tech Agency) but exploitation was not proven, so it was not fixed confirmed
 
 ## The policies and guidelines named
@@ -79,4 +79,4 @@ The text quoted is Wikipedia's, [CC BY-SA 4.0](https://creativecommons.org/licen
 
 
 ---
-site v0.22.42 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/review/index.html
+site v0.22.43 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/review/index.html

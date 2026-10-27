@@ -1,4 +1,4 @@
-# Every source: 561 pages, 623 captures, 3636 hashes
+# Every source: 562 pages, 626 captures, 3651 hashes
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
@@ -8,14 +8,14 @@ The manifest of the php2shell evidence vault: every captured source with its pub
 
 In plain English Every web page this site relied on, with the time it was saved and a fingerprint proving it has not been altered since.
 
-561 sources, 89 of them primary, 623 dated captures and 3636 hashed files, from the evidence vault at commit `1dceaa1dfa7f`. 15 sources could not be read because the site blocked an automated browser; the block, with the challenge page's hash, is the record. The captures are third-party pages held privately and are not republished; this page links to the originals and lists the SHA-256 of every captured file, so that anyone the vault is later opened to can check that the bytes are the ones the agents saw, at the minute they saw them.
+562 sources, 90 of them primary, 626 dated captures and 3651 hashed files, from the evidence vault at commit `24f0b0e22666`. 15 sources could not be read because the site blocked an automated browser; the block, with the challenge page's hash, is the record. The captures are third-party pages held privately and are not republished; this page links to the originals and lists the SHA-256 of every captured file, so that anyone the vault is later opened to can check that the bytes are the ones the agents saw, at the minute they saw them.
 
 | Kind | Sources |
 |---|---|
 | news | 420 |
 | government | 31 |
 | vendor | 27 |
-| advisory | 25 |
+| advisory | 26 |
 | cve | 14 |
 | researcher | 11 |
 | other | 10 |
@@ -1092,6 +1092,19 @@ capture 20261026T121439Z · HTTP 200 · https://www.ciol.com/iot/india-php2shell
 - `screenshot.jpg` 15a061fa1fd2a6e14bc3643842c2f85f061c993fb4c7bdac69319924291bd610 527,198 bytes
 - `text.txt` fd817de13849dba708ee4ab92033f28cf20ceee1c6bcab6d4a5129a509bac3e9 12,818 bytes
 
+### [CISA Adds Two Known Exploited Vulnerabilities to Catalog | CISA](cisa-alert-kev-20261026/index.html) [original ↗](https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog)
+
+**US Cybersecurity and Infrastructure Security Agency (CISA)** · advisory · primary · captured · published 2026-10-26 · added by `breaking@php.newsroom (curator's role)` · `cisa-alert-kev-20261026`
+
+Promoted from the source watch (pack vault 7r83qic5), snapshot 20261027T004502Z, queue priority 1 (hand-picked by breaking@php.newsroom in the researcher's role, read in the curator's role). CISA alert, 'Release Date October 26, 2026' (no time given): CISA added CVE-2026-109618 ('PHP Memory Corruption Vulnerability') and CVE-2026-109619 ('PHP Stale Internal Request-State Vulnerability') to its KEV Catalog and updated its PHP alert of 21 October (cisa-alert-php-20261021). Names no victim; the due date and ransomware field are in the catalog (cisa-kev-json, cisa-kev-catalog).
+
+capture 20261027T004502Z · HTTP 200 · https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog- `headers.json` ad76fdd3a47d8360b477f0e25cc4e62f3c690e27c3ecf816083fa5d6ec2bc97e 1,630 bytes
+- `page.html` 0b76012bd6d2c54b65ca8ff8c1e9a659be2e3ceaa3138153a613b6a7db2088ef 54,463 bytes
+- `provenance.json` 17eae345df631185eaa68cf66ca09be90420ebf42370ad9367d85a0fce88ace6 1,733 bytes
+- `rendered.html` e54d902a5d0bf5ffcb57ff2cb54e3f4a977c61d28ee704b461f57d8d649e7fac 79,054 bytes
+- `screenshot.jpg` e88b02a44701556c702da6609dd18036f4bea45320f743f824ae3141325bc30d 226,185 bytes
+- `text.txt` 9c124af5dc9e511519c3c7a34b10f3a867502153e50a17bde89ca49860b40d1b 2,969 bytes
+
 ### [Apache Releases Log4j Version 2.15.0 to Address Critical RCE Vulnerability Under Exploitation | CISA](cisa-alert-log4j-2021/index.html) [original ↗](https://www.cisa.gov/news-events/alerts/2021/12/10/apache-releases-log4j-version-2150-address-critical-rce-vulnerability-under-exploitation)
 
 **CISA** · government · primary · captured · published 2021-12-10 · added by `claude-story-site` · `cisa-alert-log4j-2021`
@@ -1150,6 +1163,11 @@ capture 20261022T081329Z · HTTP 200 · https://www.cisa.gov/- `headers.json` a7
 
 raw/ only (JSON feed). catalogVersion 2026.10.21, dateReleased 2026-10-21T14:04:39Z. Neither CVE-2026-109618 nor CVE-2026-109619 is listed as of fetch ~08:12Z on 22 Oct.
 
+capture 20261027T004502Z · HTTP 200 · https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json- `headers.json` d4303f1e64cd1cecdf431a770ede9ccb986fd068f694a702ff7f03b846a83ad3 551 bytes
+- `page.html` 653c72ea869cbca7a9198b5e17b97bef516b67494e89bb919a9639d4eedbfa13 1,810,928 bytes
+- `provenance.json` 14375ddc99819b37948f6a5b143d3a1e2528fc783e20a669b48cb3b2a0af77b4 1,684 bytes
+- `rendered.html` c6160fe83a493e4a85a94077aa6237072ebc9410df0882395555cacf97af4e37 1,811,356 bytes
+- `text.txt` 653c72ea869cbca7a9198b5e17b97bef516b67494e89bb919a9639d4eedbfa13 1,810,928 bytes
 raw, 1 files with SHA256SUMS- `known_exploited_vulnerabilities.json` ef8fffede5c472001da046c7751beb2a3242458896d0ce08da52b30968b8b56b
 
 ### [CISA Known Exploited Vulnerabilities catalog (JSON feed)](cisa-kev-json/index.html) [original ↗](https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json)
@@ -1158,6 +1176,10 @@ raw, 1 files with SHA256SUMS- `known_exploited_vulnerabilities.json` ef8fffede5c
 
 At 08:15Z on 22 Oct: catalogVersion 2026.10.21, dateReleased 2026-10-21T14:04:39.8983Z, 1754 entries. CVE-2026-109618/109619 NOT in KEV. Raw JSON + headers + SHA256SUMS in raw/.
 
+capture 20261027T004502Z · HTTP 200 · https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json- `headers.json` 21b5a3a68372e591619e8a5799b46f2fa8198c96a6084f3f6178419991939828 486 bytes
+- `page.html` 653c72ea869cbca7a9198b5e17b97bef516b67494e89bb919a9639d4eedbfa13 1,810,928 bytes
+- `provenance.json` 1cd0e2eed588a613af58679fd3cb4ee330dda4c65840b4509b20b95f405683b2 1,452 bytes
+- `text.txt` db37b260bbf473e09d108a7e5f2ce0ea4f9108bb988430a3d0cd4110200080b8 1,545,576 bytes
 raw, 2 files with SHA256SUMS- `headers.20261022T0816Z.txt` e3a7dc7610f87ca2b7829303cd01ef65a3d0d08be833334024807456cc943db9
 - `known_exploited_vulnerabilities.20261022T0816Z.json` ef8fffede5c472001da046c7751beb2a3242458896d0ce08da52b30968b8b56b
 
@@ -7523,4 +7545,4 @@ capture 20261023T160435Z · HTTP 200 · https://www.zataz.com/php2shell-deux-fai
 
 
 ---
-site v0.22.42 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/sources/index.html
+site v0.22.43 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/index.html
