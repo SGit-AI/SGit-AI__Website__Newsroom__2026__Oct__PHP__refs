@@ -61,4 +61,4 @@ v2 · site v0.2.0 · 22 October 2026 · confirmedAmazon and Cloudflare saw sites
 
 
 ---
-site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/probing/index.html
+site v0.22.49 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/probing/index.html

@@ -54,4 +54,4 @@ The posts are their authors', CC BY-SA 4.0, shown as text.
 
 
 ---
-site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/talk/index.html
+site v0.22.49 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/talk/index.html

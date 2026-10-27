@@ -62,4 +62,4 @@ Sources: bbc-live-ckgel5xp2xv9t, ncsc-news-php, cccs-al26-026
 
 
 ---
-site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/offline-ncsc/index.html
+site v0.22.49 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/offline-ncsc/index.html

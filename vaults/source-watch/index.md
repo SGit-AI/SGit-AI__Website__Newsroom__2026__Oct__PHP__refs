@@ -210,4 +210,4 @@ python3 tools/watch.py run [--all] [--only ] [--limit N] [--commit] [--push] pyt
 
 
 ---
-site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/vaults/source-watch/index.html
+site v0.22.49 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/vaults/source-watch/index.html

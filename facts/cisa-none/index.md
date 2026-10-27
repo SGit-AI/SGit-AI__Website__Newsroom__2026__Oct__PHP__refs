@@ -68,4 +68,4 @@ v2 · site v0.22.43 · 27 October 2026 · confirmedAs of its alert of 21 October
 
 
 ---
-site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/cisa-none/index.html
+site v0.22.49 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/cisa-none/index.html
