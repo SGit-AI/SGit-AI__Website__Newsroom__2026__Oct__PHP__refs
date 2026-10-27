@@ -12,7 +12,7 @@ In plain English Every organisation and person quoted, and what each one says.
 
 | Party | Role in the story | Claims | Sources |
 |---|---|---|---|
-| [The PHP Group / php.net](php-group/index.html) | maintainer, CVE numbering authority | 5 | [php.net](../sources/php-net-advisory/index.html) [php.net](../sources/php-net-changelog-8/index.html) [php-src](../sources/github-php-src-tags/index.html) |
+| [The PHP Group / php.net](php-group/index.html) | maintainer, CVE numbering authority | 6 | [php.net](../sources/php-net-advisory/index.html) [php.net](../sources/php-net-changelog-8/index.html) [php-src](../sources/github-php-src-tags/index.html) |
 | [The PHP Foundation](php-foundation/index.html) | funds core developers; published the account of discovery and the leak | 0 | [PHP Foundation](../sources/php-foundation-blog-security-release/index.html) |
 | [Jakub Zelenka (bukka), PHP security team](zelenka/index.html) | published both GitHub advisories and the oss-security announcements | 4 | [PHP](../sources/github-ghsa-w8hw-w9fx-j79w/index.html) [oss-security](../sources/openwall-oss-security-2026-10-21-6/index.html) |
 | [Alexandre Daubois, PHP security team (personal blog)](daubois/index.html) | inside account of the rumours and the leak | 4 | [Daubois](../sources/daubois-blog-php2shell-rumors/index.html) |
@@ -42,4 +42,4 @@ In plain English Every organisation and person quoted, and what each one says.
 
 
 ---
-site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/actors/index.html
+site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/actors/index.html

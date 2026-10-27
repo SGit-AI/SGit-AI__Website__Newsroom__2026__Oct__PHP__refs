@@ -6,7 +6,7 @@ One graph for php2shell: 359 changed lines of php-src, up through functions, fil
 
 # From a line of code to a stakeholder
 
-One graph for the whole story. At the bottom, the 359 changed hunks of the php2shell fix, each a line range in php-src; above them the functions and files they sit in, the parts of the fix, the two flaws; then the claims and events that talk about them and the sources those cite; then the story arcs those claims carry, the risks the arcs describe, and at the top the fifteen kinds of reader who face those risks. 908 nodes, 1250 edges. Every node opens into its own neighbourhood: [walk it](ui/index.html), from the top or from a line.
+One graph for the whole story. At the bottom, the 359 changed hunks of the php2shell fix, each a line range in php-src; above them the functions and files they sit in, the parts of the fix, the two flaws; then the claims and events that talk about them and the sources those cite; then the story arcs those claims carry, the risks the arcs describe, and at the top the fifteen kinds of reader who face those risks. 916 nodes, 1261 edges. Every node opens into its own neighbourhood: [walk it](ui/index.html), from the top or from a line.
 
 ## The layers
 
@@ -16,7 +16,7 @@ One graph for the whole story. At the bottom, the 359 changed hunks of the php2s
 | **Risks** | 9 | authored in data/arcs.json, each resting on claims |
 | **Story arcs** | 7 | authored in data/arcs.json, each carrying risks and resting on claims and events |
 | **Claims and events** | 139 | data/claims.json and data/timeline.json, each with a status or a date |
-| **Sources** | 103 | the captured, hashed sources the claims and events cite |
+| **Sources** | 111 | the captured, hashed sources the claims and events cite |
 | **The flaws** | 2 | the two CVEs, from data/review.json |
 | **The fix** | 7 | the commit and what it does, from data/review.json |
 | **Areas and files** | 73 | php-src areas and files the fix changed, from review/code/files.json |
@@ -107,7 +107,7 @@ Each is the shortest path down the ladder from one reader to a changed line, com
 | Edge | Count |
 |---|---|
 | changed at | 359 |
-| cites | 312 |
+| cites | 323 |
 | changes | 193 |
 | rests on | 124 |
 | dated by | 68 |
@@ -126,4 +126,4 @@ The fix-only version of this graph is [the fix mapped to the code](../review/ind
 
 
 ---
-site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/fractal/index.html
+site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/fractal/index.html

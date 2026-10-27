@@ -10,7 +10,7 @@ Fact · advice · disputed
 
 **Who says it:** UK NCSC, as quoted by the BBC · **Sources:** [BBC News](../../sources/bbc-live-ckgel5xp2xv9t/index.html) [NCSC UK](../../sources/ncsc-news-php/index.html) [CCCS](../../sources/cccs-al26-026/index.html)
 
-That sentence is not on the NCSC page as captured at 08:09Z on 22 October. The page's offline advice is step 4 of 6 and is worded differently. The page was modified at 07:30Z that morning. The sentence's opening matches the Canadian CCCS text.
+That sentence is not on the NCSC page as captured at 08:09Z on 22 October. The page's offline advice is step 4 of 6 and is worded differently. The page was modified at 07:30Z that morning. The sentence's opening matches the Canadian CCCS text. Corrected 27 October 2026, PROJECT-001: this is not shown to be a BBC misquote. The BBC entry was first published 06:30:26Z and last edited 06:49:45Z, before the NCSC page was modified at 07:30:02Z; LBC (21 October) carries the same sentence as the NCSC's, so an earlier NCSC text is the likely source (not yet found in any capture).
 
 ## Fact-check
 
@@ -62,4 +62,4 @@ Sources: bbc-live-ckgel5xp2xv9t, ncsc-news-php, cccs-al26-026
 
 
 ---
-site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/offline-ncsc/index.html
+site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/offline-ncsc/index.html

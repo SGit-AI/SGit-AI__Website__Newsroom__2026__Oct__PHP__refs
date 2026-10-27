@@ -25,7 +25,7 @@ Wikidata is the structured sister of Wikipedia: one item per thing, with typed c
 
 | Article | Wikidata item | Claims | Item history | DBpedia |
 |---|---|---|---|---|
-| [PHP2Shell](php2shell/index.html) | [Q141801185](https://www.wikidata.org/wiki/Q141801185) | 16 claims | 125 revisions, last 2026-10-27 08:18:13 UTC | HTTP 404, not yet extracted |
+| [PHP2Shell](php2shell/index.html) | [Q141801185](https://www.wikidata.org/wiki/Q141801185) | 16 claims | 125 revisions, last 2026-10-27 08:18:13 UTC | HTTP  |
 
 Learned from them so far: an item is created by whichever language edition gets there first (this one from the Finnish Wikipedia, two hours after the English article); its claims are typed and sourced one by one, which is the shape this site's own attribution rows take; and an identifier that exists already is the one to use.
 
@@ -41,4 +41,4 @@ The text of each article is Wikipedia's, [CC BY-SA 4.0](https://creativecommons.
 
 
 ---
-site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/index.html
+site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/index.html

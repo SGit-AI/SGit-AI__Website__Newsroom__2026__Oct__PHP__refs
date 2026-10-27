@@ -2,13 +2,13 @@
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
-1991 nodes and 2230 typed edges: every claim, number, event, signal, advice, party, source and capture on the PHP flaws story, walkable, with the independent origins of each claim.
+2119 nodes and 2329 typed edges: every claim, number, event, signal, advice, party, source and capture on the PHP flaws story, walkable, with the independent origins of each claim.
 
 # The story as a graph
 
 In plain English Who said each thing first, who passed it on, and which saved pages it rests on. Click anything to walk from it to what it is connected to.
 
-1991 nodes and 2230 edges in 15 verbs: 663 captures, 598 sources, 507 parties, 70 claims, 69 events, 20 exploitation signals, 17 numbers, 16 advice, 12 tensions, 8 topics, 8 phases, 3 CVEs. Each is drawn from the same rows as the pages, so the picture cannot disagree with the text. Start anywhere, follow a link, and the graph re-centres on it; a node with a thick ring opens a graph of its own.
+2119 nodes and 2329 edges in 15 verbs: 711 captures, 645 sources, 538 parties, 70 claims, 69 events, 20 exploitation signals, 18 numbers, 16 advice, 12 tensions, 8 topics, 8 phases, 4 CVEs. Each is drawn from the same rows as the pages, so the picture cannot disagree with the text. Start anywhere, follow a link, and the graph re-centres on it; a node with a thick ring opens a graph of its own.
 
 The interactive graph needs JavaScript. Every node is also on a page: [the claims](https://php.oct.2026.newsroom.sgit.ai/claims/), [the sources](../sources/index.html), [the parties](../graph/parties/index.html), [the timeline](https://php.oct.2026.newsroom.sgit.ai/timeline/), [the tensions](https://php.oct.2026.newsroom.sgit.ai/factcheck/); the whole graph is [data/graph.json](https://data.php.oct.2026.newsroom.sgit.ai/latest/graph.json).
 
@@ -18,18 +18,18 @@ Every edge is a verb, and read from the other end it has a different name: Wiz *
 
 | Verb | Inverse | Reads | Edges | Where it comes from |
 |---|---|---|---|---|
-| `cites` | `cited_by` | A cites B | 393 | inherited from altitudes.json edge_registry |
-| `states` | `stated_by` | A states B | 146 | proposed here |
+| `cites` | `cited_by` | A cites B | 406 | inherited from altitudes.json edge_registry |
+| `states` | `stated_by` | A states B | 149 | proposed here |
 | `relays` | `relayed_by` | A relays B | 46 | proposed here |
 | `counts` | `counted_by` | A counts B | 6 | proposed here |
-| `published_by` | `publishes` | A is published by B | 580 | inherited from governance-beat-ontology |
+| `published_by` | `publishes` | A is published by B | 614 | inherited from governance-beat-ontology |
 | `syndicates` | `syndicated_in` | A syndicates B | 9 | proposed here |
-| `captured_in` | `captures` | A is captured in B | 663 | inherited from portugal-ontology |
+| `captured_in` | `captures` | A is captured in B | 711 | inherited from portugal-ontology |
 | `appears_in` | `carries` | A appears in B | 146 | inherited from altitudes.json (Concept to Unit) |
 | `flags` | `flagged_by` | A flags B | 25 | inherited from altitudes.json edge_registry |
 | `advises` | `advised_by` | A advises B | 16 | proposed here |
 | `classified_as` | `classifies` | A is classified as B | 139 | proposed here |
-| `names` | `named_in` | A names B | 16 | proposed here |
+| `names` | `named_in` | A names B | 17 | proposed here |
 | `part_of` | `has_part` | A is part of B | 13 | inherited from governance-beat-ontology |
 | `member_of` | `has_member` | A is a member of B | 29 | proposed here |
 | `works_for` | `employs` | A works for B | 3 | proposed here |
@@ -44,11 +44,12 @@ A claim is as strong as the number of **independent** parties that state it, not
 - [The Dutch government took NCSC.nl offline as a precaution, with no active misuse seen yet; Dutch press reported DigiD, MijnOverheid and Overheid.nl offline too](../facts/nl-offline/index.html) (3 relays)
 - [The Wikimedia Foundation took down a number of systems 'as a precautionary measure until they can be safely patched'](../facts/wikimedia-precaution/index.html) (4 relays)
 
-### Unnamed origins (3)
+### Unnamed origins (4)
 
 Stated only by sources a page does not name: a gap in the evidence, not a party.
 - [The flaws are CVSS 10.0](../facts/cvss-10/index.html) (0 relays)
 - [The 8.5.12 fix may be incomplete, or there is a third, different bug](../facts/fix-incomplete/index.html) (1 relays)
+- [The flaws were disclosed on 22 October 2026](../facts/disclosure-22oct/index.html) (0 relays)
 - [Criminals are using AI to 'vibe code' an attack method](../facts/vibe-code/index.html) (1 relays)
 
 ### Every claim
@@ -56,6 +57,7 @@ Stated only by sources a page does not name: a gap in the evidence, not a party.
 | Claim | Status | Independent origins | Relays | Captures that carry it | Open tension |
 |---|---|---|---|---|---|
 | [Edge protections went live hours before disclosure: Cloudflare at 03:02 UTC; Imperva, Akamai and Fastly on 21 ](../facts/waf-nine-hours/index.html) | confirmed | 5 | 0 | 1 |  |
+| [The UK's NCSC, the NSA and their counterparts in the EU and Australia advise taking systems offline where patc](../facts/offline-allies/index.html) | disputed | 4 | 0 | 5 |  |
 | [Triggering the bug is much easier than turning it into code execution; the CVSS vector says attack complexity ](../facts/ac-high/index.html) | confirmed | 3 | 0 | 2 |  |
 | [The flaws were found by researchers using frontier AI under OpenAI's Patch the Planet initiative](../facts/ai-found/index.html) | reported | 3 | 0 | 1 |  |
 | [None of the public proof-of-concept exploits reviewed by VulnCheck has the correct mechanism; a lab reproducti](../facts/pocs-wrong/index.html) | reported | 3 | 0 | 1 |  |
@@ -78,7 +80,6 @@ Stated only by sources a page does not name: a gap in the evidence, not a party.
 | [Frontier AI found the flaw ahead of attackers, giving defenders time to prepare](../facts/ahead-of-attackers/index.html) | disputed | 1 | 0 | 1 |  |
 | [Exploit attempts across Cloudflare's network: thousands in the ten hours before announcement, tens of thousand](../facts/cf-millions/index.html) | reported | 1 | 0 | 1 |  |
 | [As of its alert of 21 October and KEV catalog version 2026.10.21 (fetched 2026-10-22T08:15Z), CISA had not obs](../facts/cisa-none/index.html) | confirmed | 1 | 0 | 3 |  |
-| [The flaws were disclosed on 22 October 2026](../facts/disclosure-22oct/index.html) | contradicted | 1 | 0 | 4 |  |
 | [The fix was authored on 18 October at 15:26 UTC and entered the public branches at 14:06 UTC on 21 October, wi](../facts/fix-authored/index.html) | confirmed | 1 | 0 | 0 |  |
 | [The fix removes longjmp() for out-of-memory errors in favour of a delayed soft OOM at the next VM safe point a](../facts/fix-bailout/index.html) | confirmed | 1 | 0 | 3 |  |
 | [Both bugs are in the C engine, not in PHP code: the allocator's longjmp-based bailout on out-of-memory, and re](../facts/fix-engine/index.html) | confirmed | 1 | 0 | 2 |  |
@@ -93,9 +94,8 @@ Stated only by sources a page does not name: a gap in the evidence, not a party.
 | [Mitigation advice given to a few critical-infrastructure providers from about 23:00 UTC on 20 October may have](../facts/leak-mitigations/index.html) | reported | 1 | 0 | 1 |  |
 | [Calif mistakenly published a video around 20:00 UTC on 20 October showing its proof of concept against a numbe](../facts/leak-video/index.html) | reported | 1 | 0 | 2 |  |
 | [Patching the demonstrated paths does not make the bailout mechanism safe; more paths should be expected](../facts/more-paths/index.html) | reported | 1 | 0 | 1 | K-011 |
-| [As of 09:43 UTC on 27 October, no named organisation has said it was compromised through php2shell. That the f](../facts/no-confirmed-compromise/index.html) | reported | 1 | 0 | 14 |  |
+| [As of 19:13 UTC on 27 October, no named organisation has said it was compromised through php2shell. That the f](../facts/no-confirmed-compromise/index.html) | reported | 1 | 0 | 14 |  |
 | [Reports of active exploitation exist](../facts/nz-active/index.html) | reported | 1 | 0 | 1 |  |
-| [The UK's NCSC, the NSA and their counterparts in the EU and Australia advise taking systems offline where patc](../facts/offline-allies/index.html) | contradicted | 1 | 0 | 5 |  |
 | [Organisations that cannot update immediately, or that run PHP 8.1 or older, should take PHP-based systems offl](../facts/offline-cisa/index.html) | confirmed | 1 | 0 | 1 |  |
 | [If an immediate update is not feasible, take the system offline until it can be fully mitigated](../facts/offline-nsa/index.html) | confirmed | 1 | 0 | 2 |  |
 | [Updating is the only complete mitigation; the configuration measures reduce exposure to specific paths and do ](../facts/only-update/index.html) | confirmed | 1 | 0 | 4 |  |
@@ -112,7 +112,7 @@ Stated only by sources a page does not name: a gap in the evidence, not a party.
 | [Cloudflare observed attack traffic targeting its customers after the leak, with attackers mutating payloads](../facts/cloudflare-traffic/index.html) | reported | 1 | 1 | 2 |  |
 | [Chainguard's team found the same bugs independently with an AI harness and a frontier model after a researcher](../facts/lorenc-ai-found/index.html) | reported | 1 | 1 | 1 |  |
 | [The most severe flaws ever detected by AI](../facts/most-severe/index.html) | reported | 1 | 1 | 2 |  |
-| [There is no evidence yet that hackers have exploited the flaw](../facts/no-exploitation/index.html) | reported | 1 | 1 | 1 |  |
+| [There is no evidence yet that hackers have exploited the flaw](../facts/no-exploitation/index.html) | disputed | 1 | 1 | 1 |  |
 | [Something like 30 million websites could be affected](../facts/scale-30m/index.html) | reported | 1 | 1 | 1 |  |
 | [70% of the Internet is affected](../facts/scale-70pc-internet/index.html) | unverified | 1 | 1 | 0 |  |
 | [Edinburgh council's site went offline late on 21 October; the council called it 'essential maintenance' and di](../facts/edinburgh/index.html) | reported | 1 | 2 | 2 |  |
@@ -123,6 +123,7 @@ Stated only by sources a page does not name: a gap in the evidence, not a party.
 | [watchTowr sees active exploitation attempts and lists the flaws as exploited in the wild](../facts/watchtowr-itw/index.html) | unverified | 1 | 3 | 7 |  |
 | [The Wikimedia Foundation took down a number of systems 'as a precautionary measure until they can be safely pa](../facts/wikimedia-precaution/index.html) | reported | 1 | 4 | 3 |  |
 | [The flaws are CVSS 10.0](../facts/cvss-10/index.html) | contradicted | 0 | 0 | 5 |  |
+| [The flaws were disclosed on 22 October 2026](../facts/disclosure-22oct/index.html) | contradicted | 0 | 0 | 4 |  |
 | [The 8.5.12 fix may be incomplete, or there is a third, different bug](../facts/fix-incomplete/index.html) | unverified | 0 | 1 | 0 | K-011 |
 | [Criminals are using AI to 'vibe code' an attack method](../facts/vibe-code/index.html) | unverified | 0 | 1 | 1 |  |
 
@@ -145,17 +146,17 @@ Kinds of node:
 | Kind | Altitude | Nodes | What it is |
 |---|---|---|---|
 | Claim | story | 70 | One sentence this site carries, with its sources and a status word (data/claims.json). |
-| Number | story | 17 | A figure someone published, with what it measures (data/numbers.json). |
+| Number | story | 18 | A figure someone published, with what it measures (data/numbers.json). |
 | Event | story | 69 | A dated moment on the timeline (data/timeline.json). |
 | Exploitation signal | story | 20 | One party's report of exploitation, attempts or none seen (data/exploitation.json). |
 | Advice | story | 16 | What one agency told operators to do, chiefly whether to take systems offline (data/agencies.json). |
 | Tension | story | 12 | A row of the fact-check desk's contradiction ledger: claims that measure differently, dispute or contradict each other. A node, because the grammar has no self-inverse edge. |
 | Topic | story | 8 | A class in the topic taxonomy of claims. |
 | Phase | story | 8 | A class in the phase taxonomy of the timeline. |
-| Party | world | 507 | A person, organisation, agency, outlet, group, registry, platform or project (data/entities.json); its class is in 'class'. |
-| Source | evidence | 598 | A page in the evidence vault's manifest (data/sources.json). |
-| Capture | evidence | 663 | One time the vault saved a source: its files and their hashes. The first fractal layer below a source. |
-| CVE | anchor | 3 | An anchor node: a CVE identifier, where the story graph joins the code-review graph (data/review.json) and the outside world (cve.org). It has no authority of its own. |
+| Party | world | 538 | A person, organisation, agency, outlet, group, registry, platform or project (data/entities.json); its class is in 'class'. |
+| Source | evidence | 645 | A page in the evidence vault's manifest (data/sources.json). |
+| Capture | evidence | 711 | One time the vault saved a source: its files and their hashes. The first fractal layer below a source. |
+| CVE | anchor | 4 | An anchor node: a CVE identifier, where the story graph joins the code-review graph (data/review.json) and the outside world (cve.org). It has no authority of its own. |
 
 Verbs this graph will not use, and why:
 - `related_to`: a generic association edge says nothing; the estate bans it outright
@@ -169,4 +170,4 @@ The grammar is the estate's, from [graphs.sgit.ai](https://graphs.sgit.ai/v1/gra
 
 
 ---
-site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/graph/index.html
+site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/graph/index.html

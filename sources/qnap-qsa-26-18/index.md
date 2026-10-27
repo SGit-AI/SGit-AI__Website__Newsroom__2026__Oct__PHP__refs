@@ -50,9 +50,14 @@ capture 20261022T191720Z · HTTP 202 · https://www.qnap.com/en/security-advisor
 - `rendered.html` a49d81def04843e1e2bf1e474dfd384989bb9eeb992dc1cb33ca624a08fa4c42 209,652 bytes
 - `screenshot.jpg` 775851d837e4ee7b5e48ca2f7be725c84564336a7f215265a5861185023bc955 401,134 bytes
 - `text.txt` 45f3ae53efc4028d20fc6d29bf21d91f84ff1bf962beef861d70be6f72d04593 7,261 bytes
+capture 20261027T191336Z · HTTP 202 · https://www.qnap.com/en-us/security-advisory/qsa-26-18- `headers.json` 6d88dd580b35cd529b83d2f9c7acc0e512380cce4a67360a35ea2f0e17abc459 739 bytes
+- `provenance.json` f8832ba78dfec0e892afae7449cbf41d3aba8ae0ffe4790587acdead1e4282b1 1,661 bytes
+- `rendered.html` 30598c793f7b49e16d9c60b6b8d8585fb20190fb7ac683f2b23e7f05d21e229a 212,150 bytes
+- `screenshot.jpg` 11eecc4b5eee26edaf8a688d2ac0c6a3560c5a0a69577566b17d6efc8fdf34a3 413,673 bytes
+- `text.txt` d38eda86da0ed0b48bfd6b9c372af470d68d36a4e501075d8b2a07ef5dd20198 7,411 bytes
 
 The captured files are held privately in the evidence vault and are not republished; the hashes above are what the vault recorded at capture time. [Every source →](../index.html)
 
 
 ---
-site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/qnap-qsa-26-18/index.html
+site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/qnap-qsa-26-18/index.html

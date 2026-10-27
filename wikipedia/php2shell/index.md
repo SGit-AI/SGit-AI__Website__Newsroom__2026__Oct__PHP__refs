@@ -44,10 +44,10 @@ Wikipedia's own rule is that an article states facts and attributes opinions. Re
 - [PHP](../../sources/github-ghsa-w8hw-w9fx-j79w/index.html): cited by 1 statement there and by [two-cves-9.2](../../facts/two-cves-9.2/index.html), [rce-modphp](../../facts/rce-modphp/index.html), [rce-fpm](../../facts/rce-fpm/index.html), [fix-bailout](../../facts/fix-bailout/index.html), [openai-same-day](../../facts/openai-same-day/index.html), [four-reporters](../../facts/four-reporters/index.html), [release-time](../../facts/release-time/index.html), [fix-engine](../../facts/fix-engine/index.html) here
 - [PHP](../../sources/github-ghsa-6wmf-4rv5-p3rp/index.html): cited by 1 statement there and by [two-cves-9.2](../../facts/two-cves-9.2/index.html), [rce-fpm](../../facts/rce-fpm/index.html), [only-update](../../facts/only-update/index.html), [four-reporters](../../facts/four-reporters/index.html), [fix-engine](../../facts/fix-engine/index.html) here
 - [scherzer.dev](../../sources/scherzer-dev-wikipedia-ref-15-blog-20261022-php2shell/index.html): cited by 1 statement there and by [release-time](../../facts/release-time/index.html) here
-- [Amazon](../../sources/aws-security-blog-madpot/index.html): cited by 1 statement there and by [amazon-honeypot](../../facts/amazon-honeypot/index.html), [probing](../../facts/probing/index.html), [no-confirmed-compromise](../../facts/no-confirmed-compromise/index.html) here
+- [Amazon](../../sources/aws-security-blog-madpot/index.html): cited by 1 statement there and by [no-exploitation](../../facts/no-exploitation/index.html), [amazon-honeypot](../../facts/amazon-honeypot/index.html), [probing](../../facts/probing/index.html), [no-confirmed-compromise](../../facts/no-confirmed-compromise/index.html) here
 - [watchTowr](../../sources/watchtowr-php2shell-faq/index.html): cited by 1 statement there and by [watchtowr-itw](../../facts/watchtowr-itw/index.html) here
 - [Huntress](../../sources/huntress-php2shell-rapid-response/index.html): cited by 1 statement there and by [huntress-none](../../facts/huntress-none/index.html), [no-confirmed-compromise](../../facts/no-confirmed-compromise/index.html), [pocs-wrong](../../facts/pocs-wrong/index.html) here
-- [NCSC UK](../../sources/ncsc-news-php/index.html): cited by 1 statement there and by [offline-ncsc](../../facts/offline-ncsc/index.html) here
+- [NCSC UK](../../sources/ncsc-news-php/index.html): cited by 1 statement there and by [offline-ncsc](../../facts/offline-ncsc/index.html), [offline-allies](../../facts/offline-allies/index.html) here
 
 ### Contradictions this site records on that shared evidence (8)
 - [K-001](https://php.oct.2026.newsroom.sgit.ai/factcheck/#K-001): How much of the web: 70% of websites, or 70% of the Internet? (explained)
@@ -101,4 +101,4 @@ The text is Wikipedia's, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-
 
 
 ---
-site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/index.html
+site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/index.html

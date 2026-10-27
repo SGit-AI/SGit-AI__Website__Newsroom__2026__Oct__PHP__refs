@@ -2,17 +2,17 @@
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
-525 parties resolved from 822 spellings, with the claims each one states and passes on.
+556 parties resolved from 887 spellings, with the claims each one states and passes on.
 
 [The story as a graph](../index.html) / Parties
 
 # Every party, whatever a page calls it
 
-525 parties: the people, organisations, agencies, outlets and platforms that published a source or are named as saying something. The sources spell them 822 ways; each spelling resolves to one node here, so CISA is one party however many pages name it. *States* counts the claims, numbers and signals a party originates; *relays* counts those it passed on from someone else.
+556 parties: the people, organisations, agencies, outlets and platforms that published a source or are named as saying something. The sources spell them 887 ways; each spelling resolves to one node here, so CISA is one party however many pages name it. *States* counts the claims, numbers and signals a party originates; *relays* counts those it passed on from someone else.
 
 The graph of each party needs JavaScript; the tables below carry the same counts.
 
-## Organisation (63)
+## Organisation (65)
 
 | Party | States | Relays | Sources published | Claims it states |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | ASK Corporation (株式会社アスク) | 0 | 0 | 1 |  |
 | Arctic Wolf Labs | 0 | 0 | 1 |  |
 | Armis | 0 | 0 | 1 |  |
-| Broadcom (Symantec) | 0 | 0 | 1 |  |
+| Broadcom (Symantec) | 0 | 0 | 2 |  |
 | [Chainguard](../../actors/chainguard/index.html) | 0 | 0 | 0 |  |
 | Cisco | 0 | 0 | 1 |  |
 | CloudLinux | 0 | 0 | 1 |  |
@@ -70,31 +70,33 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | Sansec | 0 | 0 | 1 |  |
 | SentinelOne | 0 | 0 | 1 |  |
 | Socket | 0 | 0 | 1 |  |
+| Telehealth.org | 0 | 0 | 1 |  |
 | Tenable | 0 | 0 | 1 |  |
 | The Internet Archive | 0 | 0 | 0 |  |
 | Trend Micro | 0 | 0 | 1 |  |
 | Université de Genève | 0 | 0 | 2 |  |
 | W3Techs | 0 | 0 | 0 |  |
+| WeLiveSecurity | 0 | 0 | 1 |  |
 | cPanel | 0 | 0 | 0 |  |
 | dexpose.io | 0 | 0 | 1 |  |
 | latvija.gov.lv, the Latvian state portal | 0 | 0 | 1 |  |
 | wersm | 0 | 0 | 1 |  |
 
-## Agency (19)
+## Agency (20)
 
 | Party | States | Relays | Sources published | Claims it states |
 |---|---|---|---|---|
 | CISA member of National agencies | 7 | 0 | 7 | [waf](../../facts/waf/index.html) [cisa-none](../../facts/cisa-none/index.html) [offline-cisa](../../facts/offline-cisa/index.html) [kev-precedent](../../facts/kev-precedent/index.html) |
 | CERT.LV member of National agencies | 5 | 0 | 1 | [scale-latvia](../../facts/scale-latvia/index.html) [latvia-attempts](../../facts/latvia-attempts/index.html) [latvia-offline](../../facts/latvia-offline/index.html) |
+| CERT-EU member of National agencies | 3 | 0 | 1 | [leak-watchtowr](../../facts/leak-watchtowr/index.html) [offline-allies](../../facts/offline-allies/index.html) |
 | NCSC-NL part of The Dutch government; member of National agencies | 3 | 0 | 5 | [versions-old](../../facts/versions-old/index.html) [scale-ncsc-nl](../../facts/scale-ncsc-nl/index.html) |
-| CERT-EU member of National agencies | 2 | 0 | 1 | [leak-watchtowr](../../facts/leak-watchtowr/index.html) |
+| NSA Cybersecurity member of National agencies | 3 | 0 | 4 | [offline-nsa](../../facts/offline-nsa/index.html) [offline-allies](../../facts/offline-allies/index.html) [gov-patch-required](../../facts/gov-patch-required/index.html) |
+| ACN / CSIRT Italia member of National agencies | 2 | 0 | 1 | [offline-allies](../../facts/offline-allies/index.html) |
 | CERT-FR (ANSSI) member of National agencies | 2 | 0 | 1 | [versions-old](../../facts/versions-old/index.html) [release-time](../../facts/release-time/index.html) |
 | NCSC New Zealand member of National agencies | 2 | 0 | 2 | [nz-active](../../facts/nz-active/index.html) |
-| NSA Cybersecurity member of National agencies | 2 | 0 | 4 | [offline-nsa](../../facts/offline-nsa/index.html) [gov-patch-required](../../facts/gov-patch-required/index.html) |
-| ACN / CSIRT Italia member of National agencies | 1 | 0 | 1 |  |
+| UK NCSC member of National agencies | 2 | 0 | 1 | [offline-ncsc](../../facts/offline-ncsc/index.html) [offline-allies](../../facts/offline-allies/index.html) |
 | ASD's ACSC member of National agencies | 1 | 0 | 3 |  |
 | Canadian Centre for Cyber Security (CCCS) member of National agencies | 1 | 0 | 2 |  |
-| UK NCSC member of National agencies | 1 | 0 | 1 | [offline-ncsc](../../facts/offline-ncsc/index.html) |
 | Anadolu Ajansı | 0 | 0 | 1 |  |
 | CCN-CERT member of National agencies | 0 | 0 | 1 |  |
 | CNCS member of National agencies | 0 | 0 | 1 |  |
@@ -103,6 +105,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | JPCERT/CC member of National agencies | 0 | 0 | 2 |  |
 | NÚKIB member of National agencies | 0 | 0 | 1 |  |
 | Swiss BACS (NCSC) member of National agencies | 0 | 0 | 2 |  |
+| UPI | 0 | 0 | 1 |  |
 
 ## Person (21)
 
@@ -140,12 +143,12 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | [Community detection authors](../../actors/detectors/index.html) | 0 | 0 | 0 |  |
 | [National agencies](../../actors/agencies/index.html) | 0 | 0 | 0 |  |
 
-## Outlet (399)
+## Outlet (427)
 
 | Party | States | Relays | Sources published | Claims it states |
 |---|---|---|---|---|
-| [BBC News](../../actors/bbc/index.html) | 3 | 11 | 1 | [disclosure-22oct](../../facts/disclosure-22oct/index.html) [offline-allies](../../facts/offline-allies/index.html) [affected-sites](../../facts/affected-sites/index.html) |
-| [The Hacker News](../../actors/thn/index.html) | 0 | 8 | 3 |  |
+| [BBC News](../../actors/bbc/index.html) | 1 | 11 | 1 | [affected-sites](../../facts/affected-sites/index.html) |
+| [The Hacker News](../../actors/thn/index.html) | 0 | 8 | 4 |  |
 | Insurance Business | 1 | 2 | 3 | [uk-list](../../facts/uk-list/index.html) |
 | SecurityWeek | 0 | 3 | 3 |  |
 | East Anglian Daily Times (PA) | 0 | 2 | 1 |  |
@@ -183,6 +186,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | Agenda Digitale | 0 | 0 | 1 |  |
 | Alghad | 0 | 0 | 1 |  |
 | American Banker | 0 | 0 | 1 |  |
+| AnNahar | 0 | 0 | 1 |  |
 | Analytics Insight | 0 | 0 | 1 |  |
 | Ars Technica | 0 | 0 | 1 |  |
 | Asahi Shimbun Digital (朝日新聞デジタル) | 0 | 0 | 1 |  |
@@ -215,6 +219,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | CNBC | 0 | 0 | 0 |  |
 | CNBC Indonesia | 0 | 0 | 1 |  |
 | CNBC-TV18 | 0 | 0 | 1 |  |
+| CNET France | 0 | 0 | 1 |  |
 | CNN Portugal | 0 | 0 | 1 |  |
 | CP24 | 0 | 0 | 0 |  |
 | CPO Magazine | 0 | 0 | 1 |  |
@@ -228,6 +233,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | ClearanceJobs News | 0 | 0 | 1 |  |
 | Clickx | 0 | 0 | 1 |  |
 | Clubic | 0 | 0 | 1 |  |
+| Codebook (Machina Record) | 0 | 0 | 1 |  |
 | Coin Academy | 0 | 0 | 1 |  |
 | Coingape | 0 | 0 | 1 |  |
 | Coinpedia | 0 | 0 | 1 |  |
@@ -262,6 +268,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | DonanımHaber | 0 | 0 | 1 |  |
 | Dutch IT Leaders | 0 | 0 | 1 |  |
 | Dân trí | 0 | 0 | 1 |  |
+| EADaily | 0 | 0 | 1 |  |
 | EBN | 0 | 0 | 1 |  |
 | ENTER.CO | 0 | 0 | 1 |  |
 | Economedia | 0 | 0 | 1 |  |
@@ -275,6 +282,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | Estrella Digital | 0 | 0 | 1 |  |
 | Europa Press | 0 | 0 | 1 |  |
 | Everyeye Tech | 0 | 0 | 1 |  |
+| Evrensel | 0 | 0 | 1 |  |
 | Express Computer | 0 | 0 | 1 |  |
 | Feuerwehr-Magazin | 0 | 0 | 1 |  |
 | Financial News (Korea) | 0 | 0 | 1 |  |
@@ -292,6 +300,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | Global News | 0 | 0 | 1 |  |
 | Green Bay Press-Gazette | 0 | 0 | 1 |  |
 | Génération NT | 0 | 0 | 1 |  |
+| HTXT.africa | 0 | 0 | 1 |  |
 | Haber 7 | 0 | 0 | 1 |  |
 | Haber.com | 0 | 0 | 1 |  |
 | Hardware Upgrade | 0 | 0 | 1 |  |
@@ -328,6 +337,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | Jornal de Notícias | 0 | 0 | 1 |  |
 | Journal du Canada | 0 | 0 | 1 |  |
 | Journal du Coin | 0 | 0 | 1 |  |
+| Kaldata.com | 0 | 0 | 1 |  |
 | Kompas Tekno | 0 | 0 | 1 |  |
 | Koran Jakarta | 0 | 0 | 1 |  |
 | Kyodo News | 0 | 0 | 1 |  |
@@ -370,7 +380,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | Neue Westfälische | 0 | 0 | 1 |  |
 | News9Live | 0 | 0 | 1 |  |
 | Người Quan Sát | 0 | 0 | 1 |  |
-| Notebookcheck | 0 | 0 | 7 |  |
+| Notebookcheck | 0 | 0 | 8 |  |
 | Notebookcheck.it | 0 | 0 | 1 |  |
 | Notimérica | 0 | 0 | 1 |  |
 | ORF | 0 | 0 | 1 |  |
@@ -391,14 +401,17 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | RTVE | 0 | 0 | 1 |  |
 | Radio World | 0 | 0 | 1 |  |
 | Reuters | 0 | 0 | 0 |  |
+| Revista Sociedade Militar | 0 | 0 | 1 |  |
 | Root.cz | 0 | 0 | 1 |  |
 | SAPO Tek | 0 | 0 | 1 |  |
+| SC Media | 0 | 0 | 1 |  |
 | SZ.de | 0 | 0 | 1 |  |
 | Salzburg24 | 0 | 0 | 1 |  |
 | Salzburger Nachrichten | 0 | 0 | 1 |  |
 | Sankei Shimbun | 0 | 0 | 2 |  |
 | Search Engine Roundtable | 0 | 0 | 1 |  |
 | Security Affairs | 0 | 0 | 1 |  |
+| Security NEXT | 0 | 0 | 1 |  |
 | Security.NL | 0 | 0 | 4 |  |
 | Selular.ID | 0 | 0 | 1 |  |
 | SempreUpdate | 0 | 0 | 1 |  |
@@ -407,6 +420,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | Silicon.fr | 0 | 0 | 1 |  |
 | SiliconANGLE | 0 | 0 | 1 |  |
 | Sina Finance | 0 | 0 | 1 |  |
+| Sixactualités | 0 | 0 | 1 |  |
 | Solutions Numériques | 0 | 0 | 1 |  |
 | SpaceMoney | 0 | 0 | 1 |  |
 | Startup Fortune | 0 | 0 | 1 |  |
@@ -414,6 +428,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | Suara Nasional | 0 | 0 | 1 |  |
 | Sunderland Echo | 0 | 0 | 1 |  |
 | SussexWorld | 0 | 0 | 1 |  |
+| Südostschweiz | 0 | 0 | 1 |  |
 | TGRT Haber | 0 | 0 | 1 |  |
 | TV Tech | 0 | 0 | 1 |  |
 | Tages-Anzeiger | 0 | 0 | 1 |  |
@@ -456,24 +471,32 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | USA Today | 0 | 0 | 1 |  |
 | Unite.AI | 0 | 0 | 1 |  |
 | Uzone | 0 | 0 | 1 |  |
+| VOI | 0 | 0 | 1 |  |
 | VOL.AT | 0 | 0 | 1 |  |
 | VTV.vn | 0 | 0 | 1 |  |
 | Világgazdaság | 0 | 0 | 1 |  |
 | WDR | 0 | 0 | 1 |  |
 | WIRED | 0 | 0 | 1 |  |
 | WIRED en Español part of WIRED | 0 | 0 | 1 |  |
+| WWWhat's new | 0 | 0 | 1 |  |
 | Wall-Street.ro | 0 | 0 | 1 |  |
 | Warta Ekonomi | 0 | 0 | 1 |  |
 | Wikipedia (English) part of The Wikimedia Foundation | 0 | 0 | 9 |  |
+| WinFuture.de | 0 | 0 | 1 |  |
 | WinPoin | 0 | 0 | 1 |  |
 | WirtschaftsWoche | 0 | 0 | 1 |  |
 | World Socialist Web Site | 0 | 0 | 1 |  |
+| Xataka | 0 | 0 | 1 |  |
+| XboxDynasty | 0 | 0 | 1 |  |
 | Yahoo | 0 | 0 | 1 |  |
 | Yahoo Finance | 0 | 0 | 2 |  |
 | Yahoo! News Japan | 0 | 0 | 2 |  |
 | YugaTech | 0 | 0 | 1 |  |
 | ZATAZ | 0 | 0 | 1 |  |
+| ZDNET | 0 | 0 | 1 |  |
 | ZDNET Japan | 0 | 0 | 1 |  |
+| Ziua Veche | 0 | 0 | 1 |  |
+| Zoom Tecnológico | 0 | 0 | 1 |  |
 | actainfo | 0 | 0 | 1 |  |
 | bangkokbiznews | 0 | 0 | 1 |  |
 | blue News | 0 | 0 | 1 |  |
@@ -492,6 +515,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | le Blog des Nouvelles Technologies | 0 | 0 | 1 |  |
 | macitynet.it | 0 | 0 | 1 |  |
 | mansethaber | 0 | 0 | 1 |  |
+| mediamixi | 0 | 0 | 1 |  |
 | php[architect] | 0 | 0 | 1 |  |
 | schieb.de | 0 | 0 | 1 |  |
 | shattered.io | 0 | 0 | 1 |  |
@@ -502,6 +526,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | top agrar | 0 | 0 | 1 |  |
 | turkiyedeisdunyasi | 0 | 0 | 1 |  |
 | watson | 0 | 0 | 1 |  |
+| xenospectrum | 0 | 0 | 1 |  |
 | Área Cúcuta | 0 | 0 | 1 |  |
 | İndigo Dergisi | 0 | 0 | 1 |  |
 | İstanbul Ticaret Gazetesi | 0 | 0 | 1 |  |
@@ -519,6 +544,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | โพสต์ทูเดย์ | 0 | 0 | 1 |  |
 | データ・マックス | 0 | 0 | 1 |  |
 | ビジネス+IT | 0 | 0 | 1 |  |
+| マイナビニュース | 0 | 0 | 1 |  |
 | 同花顺财经股票频道 | 0 | 0 | 1 |  |
 | 搜狐 | 0 | 0 | 1 |  |
 | 新潟日報デジタルプラス | 0 | 0 | 1 |  |
@@ -526,6 +552,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | 毎日新聞デジタル | 0 | 0 | 1 |  |
 | 知新聞 | 0 | 0 | 1 |  |
 | 腾讯网 (Tencent News) | 0 | 0 | 1 |  |
+| 資安人科技網 | 0 | 0 | 1 |  |
 | 雷峰网 | 0 | 0 | 1 |  |
 | 電腦王阿達 | 0 | 0 | 1 |  |
 | 香港 unwire.hk | 0 | 0 | 1 |  |
@@ -536,10 +563,14 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | 디지털경제뉴스 | 0 | 0 | 1 |  |
 | 디지털데일리 | 0 | 0 | 1 |  |
 | 머니투데이 | 0 | 0 | 1 |  |
+| 블로터 | 0 | 0 | 1 |  |
 | 아이티데일리 | 0 | 0 | 1 |  |
+| 연합뉴스 | 0 | 0 | 1 |  |
 | 재경일보 | 0 | 0 | 1 |  |
 | 전자신문 | 0 | 0 | 1 |  |
 | 주간한국 | 0 | 0 | 1 |  |
+| 지디넷코리아 | 0 | 0 | 1 |  |
+| 직썰 | 0 | 0 | 1 |  |
 | 천지일보 | 0 | 0 | 1 |  |
 | 한국경제 | 0 | 0 | 1 |  |
 | 헬로티 | 0 | 0 | 1 |  |
@@ -579,7 +610,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 
 | Party | States | Relays | Sources published | Claims it states |
 |---|---|---|---|---|
-| Unnamed sources | 4 | 0 | 0 | [cvss-10](../../facts/cvss-10/index.html) [fix-incomplete](../../facts/fix-incomplete/index.html) [vibe-code](../../facts/vibe-code/index.html) |
+| Unnamed sources | 5 | 0 | 0 | [cvss-10](../../facts/cvss-10/index.html) [fix-incomplete](../../facts/fix-incomplete/index.html) [disclosure-22oct](../../facts/disclosure-22oct/index.html) [vibe-code](../../facts/vibe-code/index.html) |
 
 ## This-site (1)
 
@@ -591,4 +622,4 @@ The file is [data/entities.json](https://data.php.oct.2026.newsroom.sgit.ai/late
 
 
 ---
-site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/graph/parties/index.html
+site v0.22.46 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/graph/parties/index.html
