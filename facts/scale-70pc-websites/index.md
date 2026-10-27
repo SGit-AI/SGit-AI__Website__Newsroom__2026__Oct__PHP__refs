@@ -66,4 +66,4 @@ v2 · site v0.12.1 · 24 October 2026 · reportedPHP is used by almost 70% of we
 
 
 ---
-site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-70pc-websites/index.html
+site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-70pc-websites/index.html

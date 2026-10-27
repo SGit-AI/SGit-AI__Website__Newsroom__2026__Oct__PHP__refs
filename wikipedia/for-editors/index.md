@@ -1,8 +1,8 @@
-# For the editors of Wikipedia&#39;s articles on this story
+# For the editors of Wikipedia’s articles on this story
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
-What this site is in Wikipedia's terms, what it offers the article's editors (dated, hashed captures of the cited pages, a reviewer's reading, answers from the captures), and the rules it holds itself to: no agent edits Wikipedia, nothing written by a model is posted, no request to be cited.
+What this site is in Wikipedia’s terms, what it offers the article’s editors (dated, hashed captures of the cited pages, a reviewer’s reading, answers from the captures), and the rules it holds itself to: no agent edits Wikipedia, nothing written by a model is posted, no request to be cited.
 
 [Wikipedia, as a graph](../index.html) / For Wikipedia's editors
 
@@ -37,10 +37,10 @@ Wikipedia's strength is review by many people against written policy; this site'
 
 | Article | References captured here | Findings | History |
 |---|---|---|---|
-| [PHP2Shell](../php2shell/index.html) | [24 of 44](../php2shell/references/index.html) | [15](../php2shell/review/index.html) | [370 revisions read](../php2shell/talk/index.html) |
+| [PHP2Shell](../php2shell/index.html) | [24 of 44](../php2shell/references/index.html) | [15](../php2shell/review/index.html) | [402 revisions read](../php2shell/talk/index.html) |
 
 The attribution Wikipedia asks of reusers, as this site gives it on each page of this section: *This page uses material from the Wikipedia article “PHP2Shell”, which is released under the Creative Commons Attribution-Share-Alike License 4.0.* The text here that is this site's own is CC BY 4.0.
 
 
 ---
-site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/for-editors/index.html
+site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/for-editors/index.html

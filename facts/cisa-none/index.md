@@ -14,9 +14,9 @@ Catalog version 2026.10.21 fetched 2026-10-22T08:15Z, 1,754 entries. A point-in-
 
 ## Fact-check
 
-**A6** Established●●●●●● · State · verdict: **holds**
+**A6** Established●●●●●● superseded · State · verdict: **holds**
 
-The CISA alert itself carries the dated negative and the captured KEV JSON (catalogVersion 2026.10.21, 1754 entries, counted by this desk) contains neither CVE; the CVE record's CISA ADP SSVC also says Exploitation none at 14:34Z on 21 Oct. All three are CISA, one party, but each is the authoritative record for what it says.
+The claim is now a dated statement, true for 21 to 22 October (catalog 2026.10.21, 1,754 entries) and marked superseded by the correspondent on 27 October. CISA's own feed, fetched by the desk at 08:56 UTC on 27 October, is catalog 2026.10.26 released 22:24:24Z on 26 October and lists CVE-2026-109618 and CVE-2026-109619 (PHP Group, PHP), dateAdded 2026-10-26, due 2026-10-29: the same bytes (sha256 653c72ea869c...) as the vault's capture of 00:45 UTC on 27 October. The dated claim holds; the present state is the vault claim brk1-kev-listed-20261026.
 
 | Capture checked | Result | What it says | sha256 of the text read |
 |---|---|---|---|
@@ -24,10 +24,12 @@ The CISA alert itself carries the dated negative and the captured KEV JSON (cata
 | [cisa-kev-json](../../sources/cisa-kev-json/index.html) | carries | *nothing that carries it* | ef8fffede5c47200 |
 | [cve-cve-2026-109618](../../sources/cve-cve-2026-109618/index.html) | carries | *nothing that carries it* | f856138e139c216e |
 | [cve-cve-2026-109618](../../sources/cve-cve-2026-109618/index.html) | absent | *nothing that carries it* | f8705d8e0aa2a248 |
+| [cisa-alert-kev-20261026](../../sources/cisa-alert-kev-20261026/index.html) | carries | *CVE-2026-109618 – PHP Memory Corruption Vulnerability* | 9c124af5dc9e5115 |
+| [cisa-kev-catalog](../../sources/cisa-kev-catalog/index.html) | carries | *"dateReleased": "2026-10-26T22:24:24.6101Z"* | 653c72ea869cbca7 |
 
-Open tickets: [Contradiction-2](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-2), [Evidence-1](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-1), [Evidence-10](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-10), [Evidence-18](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-18), [Evidence-6](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-6), [Finding-13](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-13), [Finding-63](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-63).
+Open tickets: [Contradiction-2](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Contradiction-2), [Evidence-1](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-1), [Evidence-10](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-10), [Evidence-18](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-18), [Evidence-19](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-19), [Evidence-6](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-6), [Finding-13](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-13), [Finding-63](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-63).
 
-Graded in Run-1, resting on captures up to 2026-10-22 08:16 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
+Graded in Run-12, resting on captures up to 2026-10-27 00:45 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2026-10-21CISA publishes [Critical Vulnerabilities in PHP Require Immediate Patching](../../sources/cisa-alert-php-20261021/index.html)
@@ -66,4 +68,4 @@ v2 · site v0.22.43 · 27 October 2026 · confirmedAs of its alert of 21 October
 
 
 ---
-site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/cisa-none/index.html
+site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/cisa-none/index.html

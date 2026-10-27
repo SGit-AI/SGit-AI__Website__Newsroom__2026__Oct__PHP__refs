@@ -48,13 +48,13 @@ The code-review graph (`data/review.json`), which uses `rel` and `name`; the com
 
 | File | Bytes | SHA-256 |
 |---|---|---|
-| `sg-graph.js` | 25,348 | `dd7211a9487648721cea673a075f1517be8b6fdaa72ac3625a4a090141b871a0` |
-| `sg-graph-core.js` | 13,312 | `a2c623df719d042ed17a5d26ee40970607341d436072991ccd9fee52c7d875c2` |
+| `sg-graph.js` | 25,765 | `bd12aa8adafcb37b6e152ea8b2822eaa38a11332992ed17a0d3eb24d8bf66607` |
+| `sg-graph-core.js` | 13,312 | `5bc4f0168d383f7e1d807e98116be10753fd61451d5cef4372ab8d415be7b106` |
 | `sg-graph.tpl` | 1,367 | `bbd946187fbf18a9cc2691851fefa6f3955084ae92374eb0346acdf3bc8ff15c` |
-| `sg-graph.css` | 6,341 | `77c37a82ab4d5dd04bb46b6dcc8b312de702e947d487238fe6ffa9d0e1981daf` |
+| `sg-graph.css` | 6,341 | `54e2b43e419c89749423659d384b31d9aa64d89729ba66479a0836507f632a01` |
 
-Under `assets/components/sg-graph/v1/v1.0/v1.0.0/`. The path is the version: a change is a new directory, never an edit in place. The markup file is `.tpl` rather than `.html` because every `.html` file on this site is a page to the gate.
+Under `assets/components/sg-graph/v1/v1.0/v1.0.1/`. The path is the version: a change is a new directory, never an edit in place. The markup file is `.tpl` rather than `.html` because every `.html` file on this site is a page to the gate.
 
 
 ---
-site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/graph/component/index.html
+site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/graph/component/index.html

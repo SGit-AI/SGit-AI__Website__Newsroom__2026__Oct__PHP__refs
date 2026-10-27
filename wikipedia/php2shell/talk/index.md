@@ -1,14 +1,14 @@
-# What Wikipedia&#39;s editors discuss about the PHP2Shell article
+# What Wikipedia’s editors discuss about the PHP2Shell article
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
-The talk page of the article as threads: 8 discussions and 23 posts, including the edit requests outside parties made with a disclosed conflict of interest.
+The talk page of the article as threads: 8 discussions and 24 posts, including the edit requests outside parties made with a disclosed conflict of interest.
 
 [Wikipedia, as a graph](../../index.html) / [PHP2Shell](../index.html) / The talk page
 
 # What Wikipedia's editors discuss about the PHP2Shell article
 
-The article's [talk page](https://en.wikipedia.org/wiki/Talk%3APHP2Shell), as threads: 8 discussions, 23 signed posts, 40 revisions of the page since 2026-10-21 11:22:20 UTC. This is where corrections are argued, where outside parties ask for changes without editing the article (1 thread use the edit-request process, with a disclosed conflict of interest), and where readers say what the article does not yet explain. Every post links to its author's public Wikipedia page; a temporary account is Wikipedia's own pseudonym for a logged-out editor.
+The article's [talk page](https://en.wikipedia.org/wiki/Talk%3APHP2Shell), as threads: 8 discussions, 24 signed posts, 41 revisions of the page since 2026-10-21 11:22:20 UTC. This is where corrections are argued, where outside parties ask for changes without editing the article (1 thread use the edit-request process, with a disclosed conflict of interest), and where readers say what the article does not yet explain. Every post links to its author's public Wikipedia page; a temporary account is Wikipedia's own pseudonym for a logged-out editor.
 
 ## The Man on the Clapham Omnibus (3 posts, 2026-10-21 20:59 UTC)
 - **[Ericoides](https://en.wikipedia.org/wiki/User:Ericoides)** 2026-10-21 20:59 UTC Could there be a section explaining how this affects your average Joe who doesn't have a clue what most/all of the article means, e.g. are their home systems vulnerable?
@@ -41,10 +41,11 @@ The article's [talk page](https://en.wikipedia.org/wiki/Talk%3APHP2Shell), as th
 ## AI (1 post, 2026-10-23 20:13 UTC)
 - **[Joe vom Titan](https://en.wikipedia.org/wiki/User:Joe_vom_Titan)** 2026-10-23 20:13 UTC Many news sources emphasize that the vulnerabilities were discovered by AI. Shouldn't the lead mention this?
 
-## Black October (3 posts, 2026-10-23 21:13 UTC)
+## Black October (4 posts, 2026-10-23 21:13 UTC)
 - **[Carolineovo](https://en.wikipedia.org/wiki/User:Carolineovo)** 2026-10-23 21:13 UTC The event is now frequently being referred to as AI's "Black October" in the media. Should this be reflected either in the article or as a disambiguation?
 - **[Vitorperrut555](https://en.wikipedia.org/wiki/User:Vitorperrut555)** 2026-10-24 01:15 UTC Only if it were widely covered by the media. [[User:Vitorperrut555|VitorFriboquen :] ]]
 - **[guninvalid](https://en.wikipedia.org/wiki/User:guninvalid)** 2026-10-24 01:36 UTC It does seem to have at least 3 sources talking about it in depth. That being said, Black October seems to be referring to potential security incidents alongside both PHP2Shell and the Indian security key breach. For now I'll start a stub as Black October security incidents, but without prejudice for if someone else feels it should be merged into another article.
+- ***unsigned***
 
 ## Diagram explaining the attack (1 post, 2026-10-24 01:22 UTC)
 - **[cmglee](https://en.wikipedia.org/wiki/User:cmglee)** 2026-10-24 01:22 UTC Would https://www.akamai.com/blog/security-research/understanding-php2shell-everything-you-need-to-know and https://outcomeschool.com/blog/php2shell be considered reputable sources if I wish to draw a diagram explaining how PHP2Shell works, in a similar style to this explanation for Heartbleed?
@@ -53,4 +54,4 @@ The posts are their authors', CC BY-SA 4.0, shown as text.
 
 
 ---
-site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/talk/index.html
+site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/talk/index.html

@@ -16,7 +16,7 @@ The KEV dates are counted from the captured catalog; 'exploited in the wild one 
 
 **A2** Reported●●○○○○ · Record · verdict: **holds in part**
 
-'Reported' now fits, and the note says the one-day exploitation rests on Akamai alone. The claim text still calls CVE-2024-4577 'the last PHP core RCE', which the CVE record does not carry (a PHP-CGI argument injection on Windows); and 'not in KEV after one day' should name the catalog version checked. Finding-20 partly fixed; Finding-21 open.
+'Reported' now fits, and the note says the one-day exploitation rests on Akamai alone. The claim text still calls CVE-2024-4577 'the last PHP core RCE', which the CVE record does not carry (a PHP-CGI argument injection on Windows); and 'not in KEV after one day' should name the catalog version checked. Finding-20 partly fixed; Finding-21 open. Run 12: the claim now carries both halves from the catalogs: version 2026.10.21 (not listed one day after disclosure) and 2026.10.26 (both CVEs added 26 October, five days after the 21 October fixes; due date 29 October). The 2024 half, CVE-2024-4577 'exploited one day after disclosure', still rests on Akamai alone, which keeps the grade at A2 holds-in-part.
 
 | Capture checked | Result | What it says | sha256 of the text read |
 |---|---|---|---|
@@ -24,10 +24,12 @@ The KEV dates are counted from the captured catalog; 'exploited in the wild one 
 | [cve-cve-2024-4577](../../sources/cve-cve-2024-4577/index.html) | carries | *nothing that carries it* | e8cc1b1dcd1a3333 |
 | [akamai-blog-cve-2024-4577-one-day](../../sources/akamai-blog-cve-2024-4577-one-day/index.html) | carries | *As early as one day after disclosure, the SIRT observed numerous exploit attempts to abuse this vulnerability* | f7a58be0ecaaa8db |
 | [akamai-blog-cve-2024-4577-one-day](../../sources/akamai-blog-cve-2024-4577-one-day/index.html) | partial | *we observed exploit attempts targeting this PHP flaw on our honeypot network within 24 hours of its disclosure.* | f7a58be0ecaaa8db |
+| [cisa-alert-kev-20261026](../../sources/cisa-alert-kev-20261026/index.html) | carries | *CVE-2026-109618 – PHP Memory Corruption Vulnerability* | 9c124af5dc9e5115 |
+| [cisa-kev-catalog](../../sources/cisa-kev-catalog/index.html) | carries | *"dateReleased": "2026-10-26T22:24:24.6101Z"* | 653c72ea869cbca7 |
 
-Open tickets: [Evidence-1](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-1), [Finding-20](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-20), [Finding-21](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-21), [Finding-76](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-76).
+Open tickets: [Evidence-1](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-1), [Evidence-19](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Evidence-19), [Finding-20](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-20), [Finding-21](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-21), [Finding-76](https://php.oct.2026.newsroom.sgit.ai/factcheck/#Finding-76).
 
-Graded in Run-3, resting on captures up to 2026-10-22 11:25 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
+Graded in Run-12, resting on captures up to 2026-10-27 00:45 UTC. The scale is on [the fact-check page](https://php.oct.2026.newsroom.sgit.ai/factcheck/#ladder).
 
 ## This fact over time
 - 2024Akamai Security Research publishes [CVE-2024-4577 Exploits in the Wild One Day After Disclosure](../../sources/akamai-blog-cve-2024-4577-one-day/index.html)
@@ -66,4 +68,4 @@ v2 · site v0.12.1 · 24 October 2026 · reportedThe last PHP core RCE, CVE-2024
 
 
 ---
-site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/kev-precedent/index.html
+site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/kev-precedent/index.html

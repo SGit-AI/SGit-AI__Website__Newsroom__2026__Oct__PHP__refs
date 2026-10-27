@@ -1,20 +1,20 @@
-# The evolution of Wikipedia&#39;s PHP2Shell article
+# The evolution of Wikipedia’s PHP2Shell article
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
-Every statement ever written into the article as a lifeline from the edit that added it to the edit that removed it, with the size, references and statements over all 370 revisions, and the Wikidata item's own history.
+Every statement ever written into the article as a lifeline from the edit that added it to the edit that removed it, with the size, references and statements over all 402 revisions, and the Wikidata item’s own history.
 
 [Wikipedia, as a graph](../../index.html) / [PHP2Shell](../index.html) / Evolution
 
 # The evolution of Wikipedia's PHP2Shell article
 
-200 statements have been written into the article since 2026-10-21 07:50:01 UTC; 40 are in it now and 160 were removed or reworded on the way. Every edit is a point in time, every statement a bar from the edit that added it to the edit that took it out, so the picture shows what the article was at any moment, what has survived, and what the editors did not keep. The data is every revision, read by the same parser as the rest of this section.
+212 statements have been written into the article since 2026-10-21 07:50:01 UTC; 40 are in it now and 172 were removed or reworded on the way. Every edit is a point in time, every statement a bar from the edit that added it to the edit that took it out, so the picture shows what the article was at any moment, what has survived, and what the editors did not keep. The data is every revision, read by the same parser as the rest of this section.
 
-200 statements ever written, one row each in the order they first appeared, from 2026-10-21 07:50:01 UTC to 2026-10-25 11:39:32 UTC: a bar runs from the edit that added a statement to the edit that removed it; 40 are still in the article. Colour is the class (record, stated, attributed, quote, hedged), named in each bar's title. The ticks along the foot are the 370 revisions; a red tick was reverted. Hover or focus a bar to read it; click it to open the statement, or the edit that removed it.
+212 statements ever written, one row each in the order they first appeared, from 2026-10-21 07:50:01 UTC to 2026-10-27 09:55:04 UTC: a bar runs from the edit that added a statement to the edit that removed it; 40 are still in the article. Colour is the class (record, stated, attributed, quote, hedged), named in each bar's title. The ticks along the foot are the 402 revisions; a red tick was reverted. Hover or focus a bar to read it; click it to open the statement, or the edit that removed it.
 
 ## Size, references and statements
 
-Each line is scaled to its own peak: the article's bytes, its references and its statements over the 370 revisions. Now: bytes: 30,364 · references: 45 · statements: 40.
+Each line is scaled to its own peak: the article's bytes, its references and its statements over the 402 revisions. Now: bytes: 31,449 · references: 45 · statements: 40.
 
 ## What has survived longest
 
@@ -23,7 +23,7 @@ The statements that have been in the article longest, unchanged in wording:
 - 2026-10-21 10:55:11 UTC: [The vulnerability was rated 9.2 (critical) out of 10 under CVSS v4.0 by PHP developers, while security firm watchTowr rated it a full 10.0.](../statements/index.html#cf776b2323)
 - 2026-10-21 14:42:05 UTC: [Source code patches were released for version 7.4, 8.0, and 8.1, but no official updated binaries for those versions were released as they are considered end of](../statements/index.html#d5eee86f0d)
 - 2026-10-21 14:52:47 UTC: [The early notice on PHP.net encouraged users to prepare and update as soon as the patch was released.](../statements/index.html#2ef66988b2)
-- 2026-10-21 15:25:32 UTC: [Their existence was publicly announced on 20 October 2026.](../statements/index.html#0cdc0152f8)
+- 2026-10-21 15:56:16 UTC: [The US National Security Agency recommended that websites go offline if unable to update immediately.](../statements/index.html#2c7a14586e)
 
 ## What lasted least
 
@@ -41,18 +41,31 @@ The statements removed soonest after they were written, with the edit that remov
 
 | Class | Ever written | In the article now |
 |---|---|---|
-| record | 56 | 9 |
-| stated | 90 | 16 |
-| attributed | 19 | 7 |
-| quote | 15 | 3 |
-| hedged | 20 | 5 |
+| record | 58 | 9 |
+| stated | 95 | 16 |
+| attributed | 20 | 7 |
+| quote | 16 | 3 |
+| hedged | 23 | 5 |
 
 ## The Wikidata item, over time
 
-The item has 112 revisions, from 2026-10-21 09:48:21 UTC (created from the Finnish Wikipedia's side, two hours after the English article) to 2026-10-24 18:38:02 UTC, by 49 named editors; by day: 2026-10-21 (56), 2026-10-22 (38), 2026-10-23 (9), 2026-10-24 (9). Kinds of edit: wbsetdescription-add (20), wbsetclaim-create (19), wbsetsitelink-add (19), wbsetclaim-update (16), wbsetlabel-add (13), wblinktitles-connect (7), wbsetreference-add (7), wbsetaliases-add (4), wbsetdescription-set (2), wbeditentity-create (1), wbeditentity-update-languages-short (1), clientsitelink-update (1), wbsetsitelink-add-both (1), wbsetaliases-remove (1).
+The item has 125 revisions, from 2026-10-21 09:48:21 UTC (created from the Finnish Wikipedia's side, two hours after the English article) to 2026-10-27 08:18:13 UTC, by 56 named editors; by day: 2026-10-21 (56), 2026-10-22 (38), 2026-10-23 (9), 2026-10-24 (9), 2026-10-26 (7), 2026-10-27 (6). Kinds of edit: wbsetclaim-create (20), wbsetdescription-add (20), wbsetsitelink-add (19), wbsetclaim-update (16), wbsetlabel-add (14), wblinktitles-connect (8), wbsetreference-add (7), wbsetaliases-add (4), edit (4), wbsetdescription-set (3), wbeditentity-update-languages-short (3), undo (2), wbeditentity-create (1), clientsitelink-update (1), wbsetsitelink-add-both (1), wbsetaliases-remove (1), wbsetlabeldescriptionaliases (1).
 Every edit of the item
 | When | Editor | Edit | Property or summary |
 |---|---|---|---|
+| 2026-10-27 08:18:13 UTC | آیات محراج | wbsetlabel-add | پی ایچ پی2 شیٚل |
+| 2026-10-27 05:12:23 UTC | Jianhui67 | edit | Reverted edits by [[Special:Contributions/~2026-57287-15\|~2026-57287-15]] ([[User talk:~2026-57287-1 |
+| 2026-10-27 05:01:25 UTC | ~2026-57287-15 | undo |  |
+| 2026-10-27 04:25:05 UTC | Jianhui67 | edit | Reverted edits by [[Special:Contributions/버몬트 2026년10월27일화요일12시46분\|버몬트 2026년10월27일화요일12시46분]] ([[Use |
+| 2026-10-27 04:04:53 UTC | 버몬트 2026년10월27일화요일12시46분 | wbsetlabeldescriptionaliases | PHP2Shell, 2026년 10월 21일, PHP 버전 5.4~8.5에 존재하는 두 가지 고위험 취약점, PHP2Shell 사태 |
+| 2026-10-27 04:03:41 UTC | 버몬트 2026년10월27일화요일12시46분 | wbeditentity-update-languages-short |  |
+| 2026-10-26 16:56:06 UTC | آیات محراج | wblinktitles-connect | enwiki:PHP2Shell, kswiki:پی ایچ پی2 شیٚل |
+| 2026-10-26 09:55:10 UTC | Charp238 | wbsetclaim-create | Namuwiki ID (P8885) |
+| 2026-10-26 06:56:29 UTC | NDG | edit | Reverted edits by [[Special:Contributions/Jianhui67 - 261026·1521\|Jianhui67 - 261026·1521]] ([[User |
+| 2026-10-26 06:50:25 UTC | Jianhui67 - 261026·1521 | undo |  |
+| 2026-10-26 06:49:04 UTC | NDG | edit | Reverted edits by [[Special:Contributions/Jianhui67 - 261026·1521\|Jianhui67 - 261026·1521]] ([[User |
+| 2026-10-26 06:48:06 UTC | Jianhui67 - 261026·1521 | wbeditentity-update-languages-short |  |
+| 2026-10-26 06:47:08 UTC | Jianhui67 - 261026·1521 | wbsetdescription-set | 2026 security vulnerability in PHP. Dokdo is Korean territory. |
 | 2026-10-24 18:38:02 UTC | Pminh141 | wbsetdescription-set | hai lỗ hổng bảo mật PHP được công bố vào năm 2026 |
 | 2026-10-24 18:37:32 UTC | Pminh141 | wbsetdescription-add | lỗ hổng bảo mật PHP năm 2026 |
 | 2026-10-24 18:37:09 UTC | Pminh141 | wbsetlabel-add | PHP2Shell |
@@ -170,4 +183,4 @@ The text is Wikipedia's, CC BY-SA 4.0, by its contributors.
 
 
 ---
-site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/evolution/index.html
+site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/evolution/index.html

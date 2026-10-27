@@ -2,13 +2,13 @@
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
-1775 nodes and 2039 typed edges: every claim, number, event, signal, advice, party, source and capture on the PHP flaws story, walkable, with the independent origins of each claim.
+1991 nodes and 2230 typed edges: every claim, number, event, signal, advice, party, source and capture on the PHP flaws story, walkable, with the independent origins of each claim.
 
 # The story as a graph
 
 In plain English Who said each thing first, who passed it on, and which saved pages it rests on. Click anything to walk from it to what it is connected to.
 
-1775 nodes and 2039 edges in 15 verbs: 626 captures, 562 sources, 364 parties, 70 claims, 69 events, 20 exploitation signals, 17 numbers, 16 advice, 12 tensions, 8 topics, 8 phases, 3 CVEs. Each is drawn from the same rows as the pages, so the picture cannot disagree with the text. Start anywhere, follow a link, and the graph re-centres on it; a node with a thick ring opens a graph of its own.
+1991 nodes and 2230 edges in 15 verbs: 663 captures, 598 sources, 507 parties, 70 claims, 69 events, 20 exploitation signals, 17 numbers, 16 advice, 12 tensions, 8 topics, 8 phases, 3 CVEs. Each is drawn from the same rows as the pages, so the picture cannot disagree with the text. Start anywhere, follow a link, and the graph re-centres on it; a node with a thick ring opens a graph of its own.
 
 The interactive graph needs JavaScript. Every node is also on a page: [the claims](https://php.oct.2026.newsroom.sgit.ai/claims/), [the sources](../sources/index.html), [the parties](../graph/parties/index.html), [the timeline](https://php.oct.2026.newsroom.sgit.ai/timeline/), [the tensions](https://php.oct.2026.newsroom.sgit.ai/factcheck/); the whole graph is [data/graph.json](https://data.php.oct.2026.newsroom.sgit.ai/latest/graph.json).
 
@@ -22,10 +22,10 @@ Every edge is a verb, and read from the other end it has a different name: Wiz *
 | `states` | `stated_by` | A states B | 146 | proposed here |
 | `relays` | `relayed_by` | A relays B | 46 | proposed here |
 | `counts` | `counted_by` | A counts B | 6 | proposed here |
-| `published_by` | `publishes` | A is published by B | 431 | inherited from governance-beat-ontology |
+| `published_by` | `publishes` | A is published by B | 580 | inherited from governance-beat-ontology |
 | `syndicates` | `syndicated_in` | A syndicates B | 9 | proposed here |
-| `captured_in` | `captures` | A is captured in B | 626 | inherited from portugal-ontology |
-| `appears_in` | `carries` | A appears in B | 141 | inherited from altitudes.json (Concept to Unit) |
+| `captured_in` | `captures` | A is captured in B | 663 | inherited from portugal-ontology |
+| `appears_in` | `carries` | A appears in B | 146 | inherited from altitudes.json (Concept to Unit) |
 | `flags` | `flagged_by` | A flags B | 25 | inherited from altitudes.json edge_registry |
 | `advises` | `advised_by` | A advises B | 16 | proposed here |
 | `classified_as` | `classifies` | A is classified as B | 139 | proposed here |
@@ -64,7 +64,7 @@ Stated only by sources a page does not name: a gap in the evidence, not a party.
 | [All PHP versions from 5 onwards are affected by at least one of the flaws](../facts/versions-old/index.html) | disputed | 3 | 0 | 2 |  |
 | [Amazon and Cloudflare saw sites being probed for the flaw](../facts/probing/index.html) | confirmed | 3 | 1 | 3 |  |
 | [Chainguard unilaterally broke the embargo on 21 October at 07:41 UTC by publishing built images containing the](../facts/chainguard/index.html) | disputed | 2 | 0 | 1 |  |
-| [The last PHP core RCE, CVE-2024-4577, was exploited in the wild one day after disclosure and in KEV three days](../facts/kev-precedent/index.html) | reported | 2 | 0 | 1 |  |
+| [The last PHP core RCE, CVE-2024-4577, was exploited in the wild one day after disclosure and in KEV three days](../facts/kev-precedent/index.html) | reported | 2 | 0 | 3 |  |
 | [watchTowr confirmed in public that the bugs were real and posted both CVE numbers before the release](../facts/leak-watchtowr/index.html) | reported | 2 | 0 | 2 |  |
 | [The out-of-memory issue was found in a 2024 audit by Quarkslab (funded through OSTIF and the Sovereign Tech Ag](../facts/quarkslab-2024/index.html) | confirmed | 2 | 0 | 2 |  |
 | [Quarkslab's published audit summary lists 27 findings, two redacted because their fixes were complex and in pr](../facts/quarkslab-redacted/index.html) | reported | 2 | 0 | 3 |  |
@@ -77,7 +77,7 @@ Stated only by sources a page does not name: a gap in the evidence, not a party.
 | [VulnCheck counts about 2.6 million internet-facing hosts exposing PHP; Censys, of the 2.58 million hosts it sa](../facts/scale-2.6m-hosts/index.html) | reported | 2 | 3 | 3 |  |
 | [Frontier AI found the flaw ahead of attackers, giving defenders time to prepare](../facts/ahead-of-attackers/index.html) | disputed | 1 | 0 | 1 |  |
 | [Exploit attempts across Cloudflare's network: thousands in the ten hours before announcement, tens of thousand](../facts/cf-millions/index.html) | reported | 1 | 0 | 1 |  |
-| [As of its alert of 21 October and KEV catalog version 2026.10.21 (fetched 2026-10-22T08:15Z), CISA had not obs](../facts/cisa-none/index.html) | confirmed | 1 | 0 | 1 |  |
+| [As of its alert of 21 October and KEV catalog version 2026.10.21 (fetched 2026-10-22T08:15Z), CISA had not obs](../facts/cisa-none/index.html) | confirmed | 1 | 0 | 3 |  |
 | [The flaws were disclosed on 22 October 2026](../facts/disclosure-22oct/index.html) | contradicted | 1 | 0 | 4 |  |
 | [The fix was authored on 18 October at 15:26 UTC and entered the public branches at 14:06 UTC on 21 October, wi](../facts/fix-authored/index.html) | confirmed | 1 | 0 | 0 |  |
 | [The fix removes longjmp() for out-of-memory errors in favour of a delayed soft OOM at the next VM safe point a](../facts/fix-bailout/index.html) | confirmed | 1 | 0 | 3 |  |
@@ -93,7 +93,7 @@ Stated only by sources a page does not name: a gap in the evidence, not a party.
 | [Mitigation advice given to a few critical-infrastructure providers from about 23:00 UTC on 20 October may have](../facts/leak-mitigations/index.html) | reported | 1 | 0 | 1 |  |
 | [Calif mistakenly published a video around 20:00 UTC on 20 October showing its proof of concept against a numbe](../facts/leak-video/index.html) | reported | 1 | 0 | 2 |  |
 | [Patching the demonstrated paths does not make the bailout mechanism safe; more paths should be expected](../facts/more-paths/index.html) | reported | 1 | 0 | 1 | K-011 |
-| [As of 00:45 UTC on 27 October, no named organisation has said it was compromised through php2shell. That the f](../facts/no-confirmed-compromise/index.html) | reported | 1 | 0 | 13 |  |
+| [As of 09:43 UTC on 27 October, no named organisation has said it was compromised through php2shell. That the f](../facts/no-confirmed-compromise/index.html) | reported | 1 | 0 | 14 |  |
 | [Reports of active exploitation exist](../facts/nz-active/index.html) | reported | 1 | 0 | 1 |  |
 | [The UK's NCSC, the NSA and their counterparts in the EU and Australia advise taking systems offline where patc](../facts/offline-allies/index.html) | contradicted | 1 | 0 | 5 |  |
 | [Organisations that cannot update immediately, or that run PHP 8.1 or older, should take PHP-based systems offl](../facts/offline-cisa/index.html) | confirmed | 1 | 0 | 1 |  |
@@ -152,9 +152,9 @@ Kinds of node:
 | Tension | story | 12 | A row of the fact-check desk's contradiction ledger: claims that measure differently, dispute or contradict each other. A node, because the grammar has no self-inverse edge. |
 | Topic | story | 8 | A class in the topic taxonomy of claims. |
 | Phase | story | 8 | A class in the phase taxonomy of the timeline. |
-| Party | world | 364 | A person, organisation, agency, outlet, group, registry, platform or project (data/entities.json); its class is in 'class'. |
-| Source | evidence | 562 | A page in the evidence vault's manifest (data/sources.json). |
-| Capture | evidence | 626 | One time the vault saved a source: its files and their hashes. The first fractal layer below a source. |
+| Party | world | 507 | A person, organisation, agency, outlet, group, registry, platform or project (data/entities.json); its class is in 'class'. |
+| Source | evidence | 598 | A page in the evidence vault's manifest (data/sources.json). |
+| Capture | evidence | 663 | One time the vault saved a source: its files and their hashes. The first fractal layer below a source. |
 | CVE | anchor | 3 | An anchor node: a CVE identifier, where the story graph joins the code-review graph (data/review.json) and the outside world (cve.org). It has no authority of its own. |
 
 Verbs this graph will not use, and why:
@@ -169,4 +169,4 @@ The grammar is the estate's, from [graphs.sgit.ai](https://graphs.sgit.ai/v1/gra
 
 
 ---
-site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/graph/index.html
+site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/graph/index.html

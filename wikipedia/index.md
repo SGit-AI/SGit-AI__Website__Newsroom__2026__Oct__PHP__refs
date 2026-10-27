@@ -6,18 +6,18 @@ Each Wikipedia article this site watches, read as a fractal semantic graph: stat
 
 # Wikipedia, as a graph
 
-Wikipedia is one of the largest bodies of checked fact there is, and one of the hardest to use as one: an article is long, its edits are diffs of markup, its references are a list at the bottom, and nothing tells a reader what they have already seen. This section reads each article this site watches as a fractal semantic graph: one statement per sentence, each classed by its wording (a fact stated, a view attributed, a quote), each joined to the references it cites, and those to the captures this site holds of the same pages, which is where the article's facts and this site's claims meet. Every revision is kept, so an edit reads as what it changed. Kept by the ontologist; fetched by `admin/wikipedia/fetch.py` on the daily pass.
+Wikipedia is one of the largest bodies of checked fact there is, and one of the hardest to use as one: an article is long, its edits are diffs of markup, its references are a list at the bottom, and nothing tells a reader what they have already seen. This section reads each article this site watches as a fractal semantic graph: one statement per sentence, each classed by its wording (a fact stated, a view attributed, a quote), each joined to the references it cites, and those to the captures this site holds of the same pages, which is where the article's facts and this site's claims meet. Every revision is kept, so an edit reads as what it changed. Kept by the ontologist; fetched by `records/desks/wikipedia/fetch.py in team` on the daily pass.
 
 | Article | Statements | Cited | References captured here | Shared with our claims | Revisions | Editors | Reverts | Latest revision |
 |---|---|---|---|---|---|---|---|---|
-| [PHP2Shell](php2shell/index.html) | 40 | 37 (92%) | 24 of 44 | 14 | 370 | 178 | 41 | 2026-10-25 11:39:32 UTC |
+| [PHP2Shell](php2shell/index.html) | 40 | 37 (92%) | 24 of 44 | 14 | 402 | 194 | 58 | 2026-10-27 09:55:04 UTC |
 
 ## How it is made
 - **Fetch.** Every revision of the article, with its wikitext, time, editor and edit summary; the Wikidata item; the articles that link in. Anonymous editors are recorded as anonymous, never by address.
-- **Parse.** A parser (`admin/build/wikitext.py`, no model) lifts the references out, turns the markup into text, and splits it into sentences. One sentence is one statement; its id is a hash of its words, so the same sentence keeps its id across revisions and an edit is a set difference.
+- **Parse.** A parser (`build/wikitext.py` in the press, no model) lifts the references out, turns the markup into text, and splits it into sentences. One sentence is one statement; its id is a hash of its words, so the same sentence keeps its id across revisions and an edit is a set difference.
 - **Class.** By wording only: a *record* (a number, a date, an identifier), a plain *stated* fact, an *attributed* statement (a named party said, reported or estimated it), a *quote*, or *hedged* wording. The class says how the article speaks, not whether it is right.
 - **Join.** A reference is matched to this site's sources by its address and to a party by its host. A statement there and a claim here that cite the same captured page meet at that page.
-- **Keep.** The data is `data/wikipedia/`; the graph of each article is in the ontology's `wikipedia` scope ([data/ontology.json](https://data.php.oct.2026.newsroom.sgit.ai/latest/ontology.json)), with its own kinds and verbs, joined to the story graph by `captured_as`.
+- **Keep.** The data is `files/wikipedia/` in the data repository; the graph of each article is in the ontology's `wikipedia` scope ([data/ontology.json](https://data.php.oct.2026.newsroom.sgit.ai/latest/ontology.json)), with its own kinds and verbs, joined to the story graph by `captured_as`.
 
 ## Wikidata and DBpedia
 
@@ -25,7 +25,7 @@ Wikidata is the structured sister of Wikipedia: one item per thing, with typed c
 
 | Article | Wikidata item | Claims | Item history | DBpedia |
 |---|---|---|---|---|
-| [PHP2Shell](php2shell/index.html) | [Q141801185](https://www.wikidata.org/wiki/Q141801185) | 15 claims | 112 revisions, last 2026-10-24 18:38:02 UTC | HTTP 404, not yet extracted |
+| [PHP2Shell](php2shell/index.html) | [Q141801185](https://www.wikidata.org/wiki/Q141801185) | 16 claims | 125 revisions, last 2026-10-27 08:18:13 UTC | HTTP 404, not yet extracted |
 
 Learned from them so far: an item is created by whichever language edition gets there first (this one from the Finnish Wikipedia, two hours after the English article); its claims are typed and sourced one by one, which is the shape this site's own attribution rows take; and an identifier that exists already is the one to use.
 
@@ -41,4 +41,4 @@ The text of each article is Wikipedia's, [CC BY-SA 4.0](https://creativecommons.
 
 
 ---
-site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/index.html
+site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/index.html

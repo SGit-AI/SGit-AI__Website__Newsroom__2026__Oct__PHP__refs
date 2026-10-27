@@ -30,7 +30,7 @@ Graded in Run-1, resting on captures up to 2026-10-22 11:28 UTC. The scale is on
 
 ## This fact over time
 - 2026-10-21Huntress publishes [Rapid Response: php2shell, Leaked Critical PHP Vulnerabilities (CVE-2026-109618 & CVE-2026-109619) | Huntress](../../sources/huntress-php2shell-rapid-response/index.html)
-- 2026-10-22 11:28 UTCSaved into the evidence vault: Huntress
+- 2026-10-22 11:28 UTCSaved into the evidence vault: Huntress, then 1 more capture
 - 2026-10-22Enters this site as reported in v0.2.0 (reconstructed from git)
 
 Published: when the source says it was published. Saved: the first capture into the evidence vault. The rest are this site: the release in which the fact first appeared and every release that changed its wording, sources or status.
@@ -55,4 +55,4 @@ Sources: huntress-php2shell-rapid-response
 
 
 ---
-site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/huntress-none/index.html
+site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/huntress-none/index.html

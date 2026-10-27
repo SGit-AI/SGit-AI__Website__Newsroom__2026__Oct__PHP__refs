@@ -1,16 +1,16 @@
-# Wikipedia&#39;s PHP2Shell article, as a graph
+# Wikipedia’s PHP2Shell article, as a graph
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
-The English Wikipedia article on PHP2Shell read as a fractal semantic graph: 40 statements classed as facts, attributions and quotes, 45 references and which are captured here, 370 revisions, and where it meets this site's claims.
+The English Wikipedia article on PHP2Shell read as a fractal semantic graph: 40 statements classed as facts, attributions and quotes, 45 references and which are captured here, 402 revisions, and where it meets this site’s claims.
 
 [Wikipedia, as a graph](../index.html) / PHP2Shell
 
 # Wikipedia's PHP2Shell article, as a graph
 
-The English Wikipedia article [PHP2Shell](https://en.wikipedia.org/wiki/PHP2Shell), read as a fractal semantic graph: 40 statements in 5 sections, 45 references, 370 revisions by 178 named editors since 2026-10-21 07:50:01 UTC, and its Wikidata item. 24 of its 44 references are captured in this site's evidence vault, where 14 of them are also cited by this site's claims: that is where the article's facts and this site's meet. Latest revision read: `1381884195`, 2026-10-25 11:39:32 UTC.
+The English Wikipedia article [PHP2Shell](https://en.wikipedia.org/wiki/PHP2Shell), read as a fractal semantic graph: 40 statements in 5 sections, 45 references, 402 revisions by 194 named editors since 2026-10-21 07:50:01 UTC, and its Wikidata item. 24 of its 44 references are captured in this site's evidence vault, where 14 of them are also cited by this site's claims: that is where the article's facts and this site's meet. Latest revision read: `1382214384`, 2026-10-27 09:55:04 UTC.
 
-40statements 37cited 45references 24captured here 370revisions 178editors 27languages
+40statements 37cited 45references 24captured here 402revisions 194editors 28languages
 
 The interactive graph needs JavaScript. The same nodes are on [every statement](statements/index.html), [every reference](references/index.html) and [every edit](history/index.html); the graph is [graph.json](https://data.php.oct.2026.newsroom.sgit.ai/latest/wikipedia/php2shell/graph.json).
 
@@ -27,8 +27,8 @@ Wikipedia's own rule is that an article states facts and attributes opinions. Re
 | hedged | may, could, reportedly, is believed, estimated to: the article being careful | 5 |
 
 ### Statements with no reference (3)
-- [PHP is a popular programming language that many website and web application codebases are built upon.](statements/index.html#530960f0f7)
-- [The vulnerabilities are estimated to affect nearly 70% of websites.](statements/index.html#ba1abad6d6)
+- [PHP is a popular programming language on which many website and web application codebases are built.](statements/index.html#bc4e61a0c2)
+- [These vulnerabilities are estimated to affect nearly 70% of websites.](statements/index.html#a9aa8517d7)
 - [The potential impacts of the vulnerability were widespread.](statements/index.html#d05e02d372)
 
 ## Where the article and this site meet
@@ -61,13 +61,13 @@ Wikipedia's own rule is that an article states facts and attributes opinions. Re
 
 ## What changed since this site captured it
 
-This site's evidence vault captured the article at `20261023T160435Z`, when it was at revision `1381598302`. Since then: **7** statements added, **3** removed, **3** reworded, **4** references added and **2** removed, over 44 revisions. [Every edit](history/index.html).
+This site's evidence vault captured the article at `20261023T160435Z`, when it was at revision `1381598302`. Since then: **7** statements added, **3** removed, **6** reworded, **4** references added and **2** removed, over 76 revisions. [Every edit](history/index.html).
 
-41 of the 370 revisions were reverts or were reverted; 72 were marked minor; 1 were anonymous. The article is now 30,364 bytes.
+58 of the 402 revisions were reverts or were reverted; 87 were marked minor; 1 were anonymous. The article is now 31,449 bytes.
 
 ## The Wikidata item
 
-Wikidata, the structured sister of Wikipedia, holds item [Q141801185](https://www.wikidata.org/wiki/Q141801185), “2026 security vulnerability in PHP”, with links to the article in 27 languages. Its claims, as fetched (DBpedia, the older extraction, is built from periodic dumps and had no entry for the article when this was built):
+Wikidata, the structured sister of Wikipedia, holds item [Q141801185](https://www.wikidata.org/wiki/Q141801185), “2026 security vulnerability in PHP”, with links to the article in 28 languages. Its claims, as fetched (DBpedia, the older extraction, is built from periodic dumps and had no entry for the article when this was built):
 
 | Property | Id | Value |
 |---|---|---|
@@ -82,6 +82,7 @@ Wikidata, the structured sister of Wikipedia, holds item [Q141801185](https://ww
 | announcement date | `P6949` | +2026-10-20T00:00:00Z |
 | significant event | `P793` | code patching |
 | official website | `P856` | https://www.php2shell.com/ |
+| Namuwiki ID | `P8885` | PHP2Shell |
 | described at URL | `P973` | https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w; https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp |
 
 ## The article over time, and its talk page
@@ -90,14 +91,14 @@ Wikidata, the structured sister of Wikipedia, holds item [Q141801185](https://ww
 
 ## What links here
 
-198 other articles link to this one, which is how a reader of Wikipedia arrives: from *PHP*, *2026*, the lists of security incidents, the pages of the companies named. The list is in [links-in.json](https://data.php.oct.2026.newsroom.sgit.ai/latest/wikipedia/php2shell/links-in.json).
+199 other articles link to this one, which is how a reader of Wikipedia arrives: from *PHP*, *2026*, the lists of security incidents, the pages of the companies named. The list is in [links-in.json](https://data.php.oct.2026.newsroom.sgit.ai/latest/wikipedia/php2shell/links-in.json).
 
 ## Towards a measure of trust
 
-The editor's working view is that Wikipedia is a trusted source, and that this should be shown rather than assumed: by how often its statements are later corrected, against how often other publications are. This page does not compute a score; it keeps the counts a proof would start from, and the fact-check desk grades statements, not pages. For this article: 37 of 40 statements cited (92%); 24 of 44 references captured here, 12 of those primary sources; 41 reverts in 370 revisions; 8 of this site's contradictions touch evidence the article also cites.
+The editor's working view is that Wikipedia is a trusted source, and that this should be shown rather than assumed: by how often its statements are later corrected, against how often other publications are. This page does not compute a score; it keeps the counts a proof would start from, and the fact-check desk grades statements, not pages. For this article: 37 of 40 statements cited (92%); 24 of 44 references captured here, 12 of those primary sources; 58 reverts in 402 revisions; 8 of this site's contradictions touch evidence the article also cites.
 
 The text is Wikipedia's, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), by its contributors; the revision ids are the attribution, and this site's pages and data that carry it are under the same licence: this page uses material from the Wikipedia article “PHP2Shell” ([link](https://en.wikipedia.org/wiki/PHP2Shell)), released under the [Creative Commons Attribution-Share-Alike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/). It is republished so it can be read as a graph, diffed and followed to its evidence; nothing here is Wikipedia's view, and nothing on Wikipedia is this site's.
 
 
 ---
-site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/index.html
+site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/index.html

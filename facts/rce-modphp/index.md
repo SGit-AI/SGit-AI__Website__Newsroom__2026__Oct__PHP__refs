@@ -57,4 +57,4 @@ Sources: github-ghsa-w8hw-w9fx-j79w, openwall-oss-security-2026-10-21-6, php-net
 
 
 ---
-site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/rce-modphp/index.html
+site v0.22.45 · data as of 2026-10-27T09:43Z · vault commit 55b47c4d6af1 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/rce-modphp/index.html
