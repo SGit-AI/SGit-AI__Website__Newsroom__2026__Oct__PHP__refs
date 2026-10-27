@@ -218,8 +218,8 @@ Every run of the synthetic designer against this site: for each page it read, th
 
 [Open read-only in a new tab ↗](https://dev.vault.sgraph.ai/en-gb/#sgit_public_read_d38e486c514c3f320e437bf757110c772af8241c595baa6ec0a4504d72069297%3Adpdx3q13) · `sgit clone sgit_public_read_d38e486c514c3f320e437bf757110c772af8241c595baa6ec0a4504d72069297:dpdx3q13`
 
-The list is [data/vaults.json](https://github.com/SGit-AI/sgit-ai__website__newsroom__2026__oct__php/blob/dev/data/vaults.json). The other vaults of the sgit.ai network, published the same way, are at [sgit.ai's vaults](https://sgit.ai/demos/vaults/index.html).
+The list is [data/vaults.json](https://data.php.oct.2026.newsroom.sgit.ai/latest/vaults.json). The other vaults of the sgit.ai network, published the same way, are at [sgit.ai's vaults](https://sgit.ai/demos/vaults/index.html).
 
 
 ---
-site v0.22.39 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/vaults/index.html
+site v0.22.40 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/vaults/index.html
