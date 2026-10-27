@@ -2,21 +2,21 @@
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
-The source-watch vault: 1284 pages from 945 publishers in 61 countries, re-read on a schedule, a snapshot kept on every change and every snapshot a graph. What is in it, and how it is watched.
+The source-watch vault: 1286 pages from 946 publishers in 61 countries, re-read on a schedule, a snapshot kept on every change and every snapshot a graph. What is in it, and how it is watched.
 
 [Vaults](../index.html) / The source watch
 
 # The source watch: every outside source on php2shell, watched and snapshotted
 
-A vault that does one thing. It watches every outside source on the story, 1284 pages from 945 publishers in 61 countries, and on each run records what access it had and keeps a new snapshot whenever the content changed: the text, a screenshot, the HTML as served and as rendered, the headers and the sha256 of each, and a graph of what the page says and what changed since the last look. A small, focused Wayback Machine whose diffs are graphs. Run by **researcher@php.newsroom**.
+A vault that does one thing. It watches every outside source on the story, 1286 pages from 946 publishers in 61 countries, and on each run records what access it had and keeps a new snapshot whenever the content changed: the text, a screenshot, the HTML as served and as rendered, the headers and the sha256 of each, and a graph of what the page says and what changed since the last look. A small, focused Wayback Machine whose diffs are graphs. Run by **researcher@php.newsroom**.
 
 **Vault `7r83qic5`, in pack mode.** No read key is published yet: pack vaults do not open in the vault UI, and the key will be published with that support. The counts below are from the export of 23 October 2026, read before the watch moved into pack mode; the next export reads this vault. [Pack mode, measured](https://team.php.oct.2026.newsroom.sgit.ai/admin/pack-mode/).
 
 ## What is in it
 
-1284pages watched945publishers61countries34languages13600snapshots kept13600graphs75runs104839files in the vault
+1286pages watched946publishers61countries34languages13604snapshots kept13604graphs77runs104886files in the vault
 
-Counts read from the watch's `index/counts.json`, `runs/` and `tips/` by `admin/build/export_watch.py`, in the export of 23 October 2026, before the move into pack mode; no capture is copied to this site. The latest commit read then: *researcher@php.newsroom: stealmybitcoin.com added as a watched page and captured (board correspondent-0005); the PoC repository on GitHub is not captured, by rule, pending the editor*
+Counts read from the watch's `index/counts.json`, `runs/` and `tips/` by `admin/build/export_watch.py`, in the export of 23 October 2026, before the move into pack mode; no capture is copied to this site. The latest commit read then: *researcher@php.newsroom: CISA adds CVE-2026-109618 and CVE-2026-109619 to the KEV catalog (26 October 2026, due 29 October): catalog and alert captured at 00:45 UTC on 27 October, the series kev-listed reads 2, a fourth statement in the ledger record is-it-exploited*
 
 ## Raw and analysis are separate trees
 
@@ -26,7 +26,7 @@ sources/////page.json raw////// text.txt screenshot.jpg page.html.gz rendered.ht
 
 | Country | Pages |
 |---|---|
-| `us` | 284 |
+| `us` | 285 |
 | `int` | 217 |
 | `nl` | 76 |
 | `fr` | 49 |
@@ -46,8 +46,8 @@ sources/////page.json raw////// text.txt screenshot.jpg page.html.gz rendered.ht
 | `aggregator` News aggregator, search feed or tag stream | 140 |
 | `cert` National cyber agency or CSIRT | 94 |
 | `tech-press` Technology and security press | 50 |
-| `security-vendor` Security, WAF, CDN or detection vendor | 29 |
-| `registry` Vulnerability registry | 28 |
+| `security-vendor` Security, WAF, CDN or detection vendor | 30 |
+| `registry` Vulnerability registry | 29 |
 | `reference` Reference work | 24 |
 | `project` The open-source project and its foundation | 18 |
 | `social` Social platform post or account | 17 |
@@ -65,9 +65,9 @@ Every check classifies the answer it got. A page the watcher cannot read stays o
 
 | Access | Pages | Means |
 |---|---|---|
-| `open` | 1100 | Served the content to an anonymous browser. |
+| `open` | 1101 | Served the content to an anonymous browser. |
 | `paywalled` | 21 | Subscription press we hold no licence for. Either it served a subscription or registration wall instead of the content, or (for a publisher marked paywall in its page.json) it refused the anonymous browser with 401 or 403 before any wall. Counted apart from bot-challenge since 22 October 2026. |
-| `bot-challenge` | 90 | Served a bot or browser challenge (Cloudflare, Akamai, DataDome, PerimeterX, Vercel). The challenge page's hash is kept as the record. |
+| `bot-challenge` | 91 | Served a bot or browser challenge (Cloudflare, Akamai, DataDome, PerimeterX, Vercel). The challenge page's hash is kept as the record. |
 | `login-wall` | 2 | Wants a signed-in account (some social posts). |
 | `geo-blocked` | 0 | Refused because of where the request came from. |
 | `gone` | 10 | 404 or 410: the page no longer exists at this address. |
@@ -79,12 +79,12 @@ Every publisher also has a licence tier, after the newsroom wires' sources polic
 | Tier | Publishers | What a site page may show |
 |---|---|---|
 | **A** | 74 | open or public-sector: keep and show |
-| **B** | 875 | quote up to 25 words and link |
+| **B** | 876 | quote up to 25 words and link |
 | **C** | 16 | link only |
 
 ## Graphs: one grammar at every altitude
 
-Every graph in the vault uses the grammar in `taxonomy/verbs.json` (22 verbs): an edge is a verb with a named inverse, and there is no generic association edge ([graphs.sgit.ai](https://graphs.sgit.ai/)). The world graph alone has 2341 nodes and 4664 edges. Entities (a CVE id, a PHP version, an organisation with this site's actor ids, a term with its translations) are where the altitudes join, and where the vault joins this site. What changed on a page is answered by a query over the change section, not by comparing two screenshots; the extractor is deterministic.
+Every graph in the vault uses the grammar in `taxonomy/verbs.json` (22 verbs): an edge is a verb with a named inverse, and there is no generic association edge ([graphs.sgit.ai](https://graphs.sgit.ai/)). The world graph alone has 2344 nodes and 4670 edges. Entities (a CVE id, a PHP version, an organisation with this site's actor ids, a term with its translations) are where the altitudes join, and where the vault joins this site. What changed on a page is answered by a query over the change section, not by comparing two screenshots; the extractor is deterministic.
 
 | Altitude | What it describes |
 |---|---|
@@ -99,6 +99,8 @@ A run captures the pages that are due: hourly for the story, daily for backgroun
 
 | Run (UTC) | Due | Watched | Changed | Access |
 |---|---|---|---|---|
+| `20261027T004502Z` | 3 | 1286 | 3 | open 3 |
+| `20261026T183323Z` | 1 | 1286 | 1 | bot-challenge 1 |
 | `20261026T174025Z` | 1 | 1284 | 1 | open 1 |
 | `20261026T170916Z` | 1056 | 1280 | 662 | open 931, bot-challenge 74, down 23, paywalled 21, gone 5, login-wall 2 |
 | `20261026T170405Z` | 182 | 1280 | 50 | open 130, down 35, bot-challenge 15, gone 2 |
@@ -185,6 +187,12 @@ Their browser extension, php2shell-checker, was just approved on the Chrome Web 
 
 **Watched as** `us/tool/chrome-web-store/php2shell-checker`. **To check:** The publisher named on the store listing, and whether it matches who made the claim; The permissions the listing and the manifest ask for, against 'read-only, nothing leaves the browser'; The version history and user count, run by run; Whether it detects the fixed versions (8.5.12 and the backports) correctly.
 
+Tip 2026-10-26/001 · received 2026-10-26, about 18:30 UTC (the screenshot's phone clock reads 21:28 local time) · unverified
+
+A brief update on the critical vulnerabilities in PHP. 'We have not yet validated exploitation in the wild and we have no evidence of successful wide scale exploitation.' Several exploit PoCs are circulating, many 'vibe-coded' and incapable of remote code execution; some validated PoCs are capable of RCE against default deployments of mod_php but not PHP-FPM. 'Nonetheless, exploitation may have already begun in a limited fashion.' Advice: patch and restart on PHP 8.5.12, 8.4.27, 8.3.36 or 8.2.35; layer WAF or proxy safeguards and server configuration if patching must wait; monitor abnormal session traffic and rotate keys and passwords on internet-facing PHP systems exposed before patching. They say their Cloud Security blog post is being updated continually. At the screenshot: 501 reactions, 31 comments, 88 reposts.
+
+**Watched as** `us/security-vendor/cloudflare/cloudflare-blog-php2shell-waf`, `il/security-vendor/ox-security/php2shell-day-5-the-panic-hasnt-turned-into-patching`. **To check:** The post's link, for its exact time and its text as posted (a LinkedIn page cannot be captured: it is a login wall); The Google Cloud Security blog post the author says he is updating: its address, its update times and what it says on exploitation; Whether 'validated PoCs capable of RCE against default mod_php, not PHP-FPM' matches PHP's own statement (PHP's advisory rates mod_php highest and says it demonstrated an exploit there); Whether the OX Security article can be read (the watch's capture is a bot-challenge page) and what figures it gives for patching, against the Censys count of 1.57 million of about 2.6 million hosts unpatched on 21 October; Whether 'no evidence of successful wide scale exploitation' agrees with the others in the ledger record is-it-exploited (Amazon says 'broadly exploited'; CISA and officials in Germany, the Netherlands and Japan have seen none succeed; Cloudflare says it observed attack traffic).
+
 ## The tools
 
 The watcher is in the vault, next to what it wrote: `analyse.py`, `capture_batch.mjs`, `collectors.py`, `curator_queue.py`, `discover.py`, `extract.py`, `foreign.py`, `import_evidence.py`, `lib.py`, `migrate_impact_cc.py`, `pass.sh`, `probe.py`, `publishers_seed.py`, `seed_impact.py`, `seed_world.py`, `series.py`, `watch.py`.
@@ -193,4 +201,4 @@ python3 tools/watch.py run [--all] [--only ] [--limit N] [--commit] [--push] pyt
 
 
 ---
-site v0.22.36 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/vaults/source-watch/index.html
+site v0.22.37 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/vaults/source-watch/index.html

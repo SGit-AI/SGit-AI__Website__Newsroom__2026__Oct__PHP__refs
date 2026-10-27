@@ -12,7 +12,7 @@ The English Wikipedia article [PHP2Shell](https://en.wikipedia.org/wiki/PHP2Shel
 
 40statements 37cited 45references 24captured here 370revisions 178editors 27languages
 
-The interactive graph needs JavaScript. The same nodes are on [every statement](statements/index.html), [every reference](references/index.html) and [every edit](history/index.html); the graph is [graph.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.48/wikipedia/php2shell/graph.json).
+The interactive graph needs JavaScript. The same nodes are on [every statement](statements/index.html), [every reference](references/index.html) and [every edit](history/index.html); the graph is [graph.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.50/wikipedia/php2shell/graph.json).
 
 ## Facts and the words around them
 
@@ -90,7 +90,7 @@ Wikidata, the structured sister of Wikipedia, holds item [Q141801185](https://ww
 
 ## What links here
 
-198 other articles link to this one, which is how a reader of Wikipedia arrives: from *PHP*, *2026*, the lists of security incidents, the pages of the companies named. The list is in [links-in.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.48/wikipedia/php2shell/links-in.json).
+198 other articles link to this one, which is how a reader of Wikipedia arrives: from *PHP*, *2026*, the lists of security incidents, the pages of the companies named. The list is in [links-in.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.50/wikipedia/php2shell/links-in.json).
 
 ## Towards a measure of trust
 
@@ -100,4 +100,4 @@ The text is Wikipedia's, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-
 
 
 ---
-site v0.22.36 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/index.html
+site v0.22.37 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/index.html

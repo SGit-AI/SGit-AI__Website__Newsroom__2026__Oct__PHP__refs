@@ -79,4 +79,4 @@ v2 · site v0.22.29 · 26 October 2026 · confirmedThe fixes were releasedschedu
 
 
 ---
-site v0.22.36 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/facts/release-time/index.html
+site v0.22.37 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/facts/release-time/index.html

@@ -75,8 +75,8 @@ Each in Wikipedia's own words, shortened; the links go to the policy pages.
 
 26 of the article's 42 references are not captured in the vault (board 288); findings above rest only on captured pages. The review is of one revision; the article changes several times a day, and a finding is matched to its statement by its opening words, so a finding whose statement has since been reworded is marked as such above rather than dropped. The next pass of this site's ontologist re-reads the article against the same findings.
 
-The text quoted is Wikipedia's, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), by its contributors; the findings are this site's, CC BY 4.0. The data is [review.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.48/wikipedia/php2shell/review.json).
+The text quoted is Wikipedia's, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), by its contributors; the findings are this site's, CC BY 4.0. The data is [review.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.50/wikipedia/php2shell/review.json).
 
 
 ---
-site v0.22.36 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/review/index.html
+site v0.22.37 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/wikipedia/php2shell/review/index.html
