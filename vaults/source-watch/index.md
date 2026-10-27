@@ -4,7 +4,7 @@
 
 The source-watch vault: 1286 pages from 946 publishers in 61 countries, re-read on a schedule, a snapshot kept on every change and every snapshot a graph. What is in it, and how it is watched.
 
-[Vaults](../index.html) / The source watch
+The source watch
 
 # The source watch: every outside source on php2shell, watched and snapshotted
 
@@ -197,8 +197,8 @@ A brief update on the critical vulnerabilities in PHP. 'We have not yet validate
 
 The watcher is in the vault, next to what it wrote: `analyse.py`, `capture_batch.mjs`, `collectors.py`, `curator_queue.py`, `discover.py`, `extract.py`, `foreign.py`, `import_evidence.py`, `lib.py`, `migrate_impact_cc.py`, `pass.sh`, `probe.py`, `publishers_seed.py`, `seed_impact.py`, `seed_world.py`, `series.py`, `watch.py`.
 
-python3 tools/watch.py run [--all] [--only ] [--limit N] [--commit] [--push] python3 tools/discover.py scan # feeds to candidate publishers python3 tools/discover.py promote --limit 30 python3 tools/watch.py add  --cc gb --sector news --publisher bbc The other vaults behind this site are on [the vaults](../index.html). The evidence vault, where the story was assembled by hand on the morning of 22 October, is [opened here](https://team.php.oct.2026.newsroom.sgit.ai/admin/vault/).
+python3 tools/watch.py run [--all] [--only ] [--limit N] [--commit] [--push] python3 tools/discover.py scan # feeds to candidate publishers python3 tools/discover.py promote --limit 30 python3 tools/watch.py add  --cc gb --sector news --publisher bbc Which vault each agent made or holds, by id only, is on [the vault register](https://team.php.oct.2026.newsroom.sgit.ai/team/vaults/).
 
 
 ---
-site v0.22.43 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/vaults/source-watch/index.html
+site v0.22.44 · data as of 2026-10-27T00:45Z · vault commit 24f0b0e22666 · https://refs.php.oct.2026.newsroom.sgit.ai/vaults/source-watch/index.html
