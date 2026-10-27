@@ -58,4 +58,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.41 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/sources/finance-sina-tech-roll-2026-10-22-doc-iniwcaff5189430/index.html
+site v0.22.42 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/sources/finance-sina-tech-roll-2026-10-22-doc-iniwcaff5189430/index.html
