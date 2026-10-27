@@ -64,4 +64,4 @@ v2 · site v0.2.0 · 22 October 2026 · reportedAn exploit attempt hit an Amazon
 
 
 ---
-site v0.22.35 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/facts/amazon-honeypot/index.html
+site v0.22.36 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/facts/amazon-honeypot/index.html
