@@ -16,7 +16,7 @@ Every vault behind this site: what each holds, who writes to it, and how to open
 
 The story as it was assembled on the morning of 22 October 2026: every source as a folder with its capture (text, screenshot, HTML, headers, sha256 of each), the claims and the dated events each agent extracted, the editor's memos and the agents' notes. Its own app explores them.
 
-**Written by** the collectors, the story-site agent and the newsroom lead; the editor. Data on this site: [data/vault.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.50/vault.json).
+**Written by** the collectors, the story-site agent and the newsroom lead; the editor. Data on this site: [data/vault.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.51/vault.json).
 
 **Read key** `sgit_public_read_6451da6ba1c6201d35b0832d570097327552564c12c8e9a550fc2ed1150769f8:3ytzxm3g`
 
@@ -28,7 +28,7 @@ The story as it was assembled on the morning of 22 October 2026: every source as
 
 Every outside source on the story, watched on a schedule: country, sector, publisher and page; what access each check had; a snapshot whenever the content changed; and every snapshot and every change as a graph. A pack-mode vault (sgit-ai 0.24.0 or later): it clones and pushes in seconds.
 
-**Written by** researcher@php.newsroom, the agent that runs the watch. Data on this site: [data/source-watch.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.50/source-watch.json).
+**Written by** researcher@php.newsroom, the agent that runs the watch. Data on this site: [data/source-watch.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.51/source-watch.json).
 
 **Not published:** the vault key. No read key is published yet: pack vaults do not open in the vault UI, and the key will be published with that support.
 
@@ -38,7 +38,7 @@ Every outside source on the story, watched on a schedule: country, sector, publi
 
 One anonymous event per page view (page, referrer host, country, region and city; no IP address, no cookie), each encrypted in the reader's browser to a key held by the drainer, and the counts drained from them.
 
-**Written by** every page of this site, through the write-only lane; dev@php.newsroom drains it. Data on this site: [data/telemetry.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.50/telemetry.json).
+**Written by** every page of this site, through the write-only lane; dev@php.newsroom drains it. Data on this site: [data/telemetry.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.51/telemetry.json).
 
 **Not published:** the vault key, the lane's enum key and the key pair's passphrase. **Published:** the write-only append token `43ed24b413cdf8c2405d0b72cddcd36c04fd7ae1ad852b872ed25727b6d61fb3`, which adds rows and reads nothing.
 
@@ -48,7 +48,7 @@ One anonymous event per page view (page, referrer host, country, region and city
 
 The curated, public view of the telemetry: page views and sessions per hour and per day for readers, for the editor, team and power users, for synthetic visitors and for crawlers; and, over readers only, countries (with a world map), devices, languages, site versions, pages and referrer hosts. Counts only: no row, session id, city, region, time zone or time finer than the hour. Written at every drain.
 
-**Written by** dev@php.newsroom, at every drain (admin/build/telemetry_flow.sh). Data on this site: [data/telemetry-public.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.50/telemetry-public.json).
+**Written by** dev@php.newsroom, at every drain (admin/build/telemetry_flow.sh). Data on this site: [data/telemetry-public.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.51/telemetry-public.json).
 
 **Read key** `sgit_public_read_687c9515f681c96912aa1f711df647c7b0e5337c2c06bff219514d0c947fc800:0cfkdcvh`
 
@@ -60,7 +60,7 @@ The curated, public view of the telemetry: page views and sessions per hour and 
 
 Subscription requests (an email address, what to follow, how often), each encrypted in the reader's browser to a key held by the editor and the agent that sends, and the list of addresses with their status: requested, confirmed or left.
 
-**Written by** readers, through the write-only lane on /subscribe/; dev@php.newsroom drains it; the agent at agent@diniscruz.ai confirms and sends. Data on this site: [data/subscriptions.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.50/subscriptions.json).
+**Written by** readers, through the write-only lane on /subscribe/; dev@php.newsroom drains it; the agent at agent@diniscruz.ai confirms and sends. Data on this site: [data/subscriptions.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.51/subscriptions.json).
 
 **Not published:** the vault key, the lane's enum key and the key pair's passphrase. **Published:** the write-only append token `baae31ae3d2ce74cbbb3f34a3808bf84c65fa18b7e3247f3229439ef16740e25`, which adds rows and reads nothing.
 
@@ -110,7 +110,7 @@ The team's messages (Email-FS-lite): a mailroom, an inbox, a done folder and an 
 
 The application that reads the telemetry, and nothing else: eight pages (overview, audience, content, journeys, sources and devices, every event, the lane's queue and its drain, about), versioned in the vault itself: a VERSION file, a changelog and one commit per release. It holds no data; the telemetry vault links it read-only and runs its latest version over its own events.
 
-**Written by** dev@php.newsroom. Data on this site: [data/telemetry.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.50/telemetry.json).
+**Written by** dev@php.newsroom. Data on this site: [data/telemetry.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.51/telemetry.json).
 
 **Not published:** the vault key. It is held by the editor, sealed to the editor's key on pki.sgit.ai. Nothing in it is secret.
 
@@ -120,7 +120,7 @@ The application that reads the telemetry, and nothing else: eight pages (overvie
 
 A vault app that draws the telemetry: page views by hour, pages, countries, regions and cities, devices, referrers, languages, versions, pages per session and the latest events, each a filter. It holds no telemetry itself: the telemetry vault is linked inside it read-only (vault-in-vault), so the app always reads the latest drain.
 
-**Written by** dev@php.newsroom. Data on this site: [data/telemetry.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.50/telemetry.json).
+**Written by** dev@php.newsroom. Data on this site: [data/telemetry.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.51/telemetry.json).
 
 **Not published:** the vault key. Superseded on 22 October by the telemetry application (5wnsr5h8), which the telemetry vault now imports: the data vault opens the app, not the other way round. It is held by the editor, sealed to the editor's key on pki.sgit.ai. Its owner record carries the telemetry vault's read key only, never its write key.
 
@@ -130,7 +130,7 @@ A vault app that draws the telemetry: page views by hour, pages, countries, regi
 
 What the collaborators send from /collaborators/: requests to join (a name, an email address, the reader closest to them) and feedback on each ask, each encrypted in the sender's browser to a key held by the conductor and the editor.
 
-**Written by** collaborators and anyone else, through the write-only lane on /collaborators/; conductor@php.newsroom drains it; the editor reads it. Data on this site: [data/collaborators.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.50/collaborators.json).
+**Written by** collaborators and anyone else, through the write-only lane on /collaborators/; conductor@php.newsroom drains it; the editor reads it. Data on this site: [data/collaborators.json](https://data.php.oct.2026.newsroom.sgit.ai/v/0.1.51/collaborators.json).
 
 **Not published:** the vault key, the lane's enum key and the key pair's passphrase. **Published:** the write-only append token `10dc702bf741107894dbf81d506aedac3f127cf7cf61e9b09944e0eb4e810474`, which adds rows and reads nothing.
 
@@ -222,4 +222,4 @@ The list is [data/vaults.json](https://github.com/SGit-AI/sgit-ai__website__news
 
 
 ---
-site v0.22.37 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/vaults/index.html
+site v0.22.38 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/vaults/index.html
