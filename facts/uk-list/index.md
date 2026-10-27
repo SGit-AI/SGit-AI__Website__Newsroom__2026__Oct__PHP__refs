@@ -57,4 +57,4 @@ Sources: lbc-uk-websites-offline, insurancebusiness-uk-councils-met
 
 
 ---
-site v0.22.38 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/facts/uk-list/index.html
+site v0.22.39 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/facts/uk-list/index.html

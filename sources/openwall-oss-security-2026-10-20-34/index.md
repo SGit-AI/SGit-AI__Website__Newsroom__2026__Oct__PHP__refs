@@ -50,4 +50,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.38 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/sources/openwall-oss-security-2026-10-20-34/index.html
+site v0.22.39 · data as of 2026-10-26T17:09Z · vault commit 1dceaa1dfa7f · https://refs.php.oct.2026.newsroom.sgit.ai/sources/openwall-oss-security-2026-10-20-34/index.html
