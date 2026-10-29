@@ -61,4 +61,4 @@ v2 · site v0.2.0 · 22 October 2026 · reportedPHP is exposed on 2,608,039about
 
 
 ---
-site v0.22.49 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-2.6m-hosts/index.html
+site v0.22.51 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-2.6m-hosts/index.html

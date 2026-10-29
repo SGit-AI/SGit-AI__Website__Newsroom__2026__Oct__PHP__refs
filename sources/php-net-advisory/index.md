@@ -44,7 +44,7 @@ Official php.net advisory (archive anchor 2026-10-21-5) plus the 8.2.35/8.3.36/8
 
 - Atom feed timestamps: advisory 2026-10-21T00:35:26+00:00; 8.2.35 00:05:37; 8.3.36 00:14:54; 8.4.27 00:20:54; 8.5.12 00:24:52; pre-announcement 2026-10-20T20:32:00+00:00. The Foundation blog says the pre-announcement went out at 19:30 UTC and the release at 14:00 UTC on 21 Oct, and GHSAs show 13:34Z. The php.net timestamps are the entry-creation times written by the authoring script, not verified publish times; do not use them as publication times without checking the php/web-php commit history.
 
-- php.net's own date is 21 Oct; the BBC frames disclosure as 22 Oct (UK morning coverage). The original target date was 22 Oct 14:00 UTC (per Foundation blog).
+- php.net's own date is 21 Oct; the BBC live page (captured 22 Oct 08:04 UTC) states no disclosure date, so no BBC framing of the date is recorded here (corrected on 28 October 2026; this note earlier said the BBC framed disclosure as 22 Oct, which no BBC capture states). The original target date was 22 Oct 14:00 UTC (per Foundation blog).
 
 ## Claims that cite it
 
@@ -78,4 +78,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.49 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/php-net-advisory/index.html
+site v0.22.51 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://refs.php.oct.2026.newsroom.sgit.ai/sources/php-net-advisory/index.html

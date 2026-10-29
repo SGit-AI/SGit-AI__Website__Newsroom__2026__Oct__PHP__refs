@@ -56,4 +56,4 @@ Sources: php-net-advisory, openwall-oss-security-2026-10-21-7, github-ghsa-6wmf-
 
 
 ---
-site v0.22.49 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/only-update/index.html
+site v0.22.51 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://refs.php.oct.2026.newsroom.sgit.ai/facts/only-update/index.html

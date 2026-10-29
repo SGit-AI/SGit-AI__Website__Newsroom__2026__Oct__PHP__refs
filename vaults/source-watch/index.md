@@ -2,21 +2,21 @@
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
-The source-watch vault: 1365 pages from 995 publishers in 61 countries, re-read on a schedule, a snapshot kept on every change and every snapshot a graph. What is in it, and how it is watched.
+The source-watch vault: 1460 pages from 1083 publishers in 61 countries, re-read on a schedule, a snapshot kept on every change and every snapshot a graph. What is in it, and how it is watched.
 
 The source watch
 
 # The source watch: every outside source on php2shell, watched and snapshotted
 
-A vault that does one thing. It watches every outside source on the story, 1365 pages from 995 publishers in 61 countries, and on each run records what access it had and keeps a new snapshot whenever the content changed: the text, a screenshot, the HTML as served and as rendered, the headers and the sha256 of each, and a graph of what the page says and what changed since the last look. A small, focused Wayback Machine whose diffs are graphs. Run by **researcher@php.newsroom**.
+A vault that does one thing. It watches every outside source on the story, 1460 pages from 1083 publishers in 61 countries, and on each run records what access it had and keeps a new snapshot whenever the content changed: the text, a screenshot, the HTML as served and as rendered, the headers and the sha256 of each, and a graph of what the page says and what changed since the last look. A small, focused Wayback Machine whose diffs are graphs. Run by **researcher@php.newsroom**.
 
 **Vault `7r83qic5`, in pack mode.** No read key is published yet: pack vaults do not open in the vault UI, and the key will be published with that support. The counts below are from the export of 23 October 2026, read before the watch moved into pack mode; the next export reads this vault. [Pack mode, measured](https://team.php.oct.2026.newsroom.sgit.ai/admin/pack-mode/).
 
 ## What is in it
 
-1365pages watched995publishers61countries34languages16742snapshots kept16742graphs86runs128747files in the vault
+1460pages watched1083publishers61countries34languages4888snapshots kept4881graphs99runs39725files in the vault
 
-Counts read from the watch's `index/counts.json`, `runs/` and `tips/` by `admin/build/export_watch.py`, in the export of 23 October 2026, before the move into pack mode; no capture is copied to this site. The latest commit read then: *researcher@php.newsroom: pass 20261027T1433Z phase 2 of 2: discovery*
+Counts read from the watch's `index/counts.json`, `runs/` and `tips/` by `admin/build/export_watch.py`, in the export of 23 October 2026, before the move into pack mode; no capture is copied to this site. The latest commit read then: *researcher@php.newsroom: pass 20261028T1708Z phase 2 of 2: discovery*
 
 ## Raw and analysis are separate trees
 
@@ -26,36 +26,36 @@ sources/////page.json raw////// text.txt screenshot.jpg page.html.gz rendered.ht
 
 | Country | Pages |
 |---|---|
-| `us` | 293 |
-| `int` | 223 |
-| `nl` | 79 |
-| `de` | 54 |
-| `gb` | 54 |
-| `fr` | 50 |
-| `kr` | 47 |
-| `jp` | 42 |
-| `au` | 39 |
-| `tr` | 35 |
-| `it` | 30 |
-| `ch` | 27 |
+| `us` | 319 |
+| `int` | 232 |
+| `nl` | 80 |
+| `de` | 63 |
+| `gb` | 57 |
+| `fr` | 53 |
+| `kr` | 49 |
+| `jp` | 43 |
+| `au` | 42 |
+| `tr` | 36 |
+| `it` | 34 |
+| `ch` | 30 |
 
 | Sector | Pages |
 |---|---|
-| `news` General news | 721 |
-| `affected` Affected organisation's own site | 188 |
+| `news` General news | 762 |
+| `affected` Affected organisation's own site | 195 |
 | `aggregator` News aggregator, search feed or tag stream | 140 |
 | `cert` National cyber agency or CSIRT | 94 |
-| `tech-press` Technology and security press | 56 |
-| `security-vendor` Security, WAF, CDN or detection vendor | 30 |
-| `registry` Vulnerability registry | 29 |
-| `reference` Reference work | 24 |
-| `project` The open-source project and its foundation | 18 |
-| `social` Social platform post or account | 17 |
+| `security-vendor` Security, WAF, CDN or detection vendor | 68 |
+| `tech-press` Technology and security press | 57 |
+| `registry` Vulnerability registry | 30 |
+| `reference` Reference work | 25 |
+| `project` The open-source project and its foundation | 20 |
+| `social` Social platform post or account | 18 |
 | `community` Forum, mailing list, gist or repository | 16 |
+| `research` Security researcher or research firm | 13 |
 | `weaponisation` Where exploits, scanners and detections are published | 12 |
-| `research` Security researcher or research firm | 11 |
+| `cloud` Cloud or hosting provider | 4 |
 | `ai-lab` AI lab | 3 |
-| `cloud` Cloud or hosting provider | 3 |
 | `government` Other government body | 2 |
 | `tool` Tool published for the incident | 1 |
 
@@ -65,26 +65,26 @@ Every check classifies the answer it got. A page the watcher cannot read stays o
 
 | Access | Pages | Means |
 |---|---|---|
-| `open` | 1151 | Served the content to an anonymous browser. |
-| `paywalled` | 20 | Subscription press we hold no licence for. Either it served a subscription or registration wall instead of the content, or (for a publisher marked paywall in its page.json) it refused the anonymous browser with 401 or 403 before any wall. Counted apart from bot-challenge since 22 October 2026. |
-| `bot-challenge` | 98 | Served a bot or browser challenge (Cloudflare, Akamai, DataDome, PerimeterX, Vercel). The challenge page's hash is kept as the record. |
+| `open` | 1243 | Served the content to an anonymous browser. |
+| `paywalled` | 23 | Subscription press we hold no licence for. Either it served a subscription or registration wall instead of the content, or (for a publisher marked paywall in its page.json) it refused the anonymous browser with 401 or 403 before any wall. Counted apart from bot-challenge since 22 October 2026. |
+| `bot-challenge` | 105 | Served a bot or browser challenge (Cloudflare, Akamai, DataDome, PerimeterX, Vercel). The challenge page's hash is kept as the record. |
 | `login-wall` | 2 | Wants a signed-in account (some social posts). |
 | `geo-blocked` | 0 | Refused because of where the request came from. |
-| `gone` | 10 | 404 or 410: the page no longer exists at this address. |
-| `down` | 84 | 5xx, a timeout, a DNS failure or a refused connection: the site is not answering. For the affected sites this is the finding. |
+| `gone` | 11 | 404 or 410: the page no longer exists at this address. |
+| `down` | 76 | 5xx, a timeout, a DNS failure or a refused connection: the site is not answering. For the affected sites this is the finding. |
 | `not-attempted` | 0 | Listed, but the watcher is told not to fetch it (licence or editorial decision). |
 
 Every publisher also has a licence tier, after the newsroom wires' sources policy. The vault keeps what was served either way; the tier governs what a site page shows of it.
 
 | Tier | Publishers | What a site page may show |
 |---|---|---|
-| **A** | 74 | open or public-sector: keep and show |
-| **B** | 933 | quote up to 25 words and link |
+| **A** | 76 | open or public-sector: keep and show |
+| **B** | 1022 | quote up to 25 words and link |
 | **C** | 16 | link only |
 
 ## Graphs: one grammar at every altitude
 
-Every graph in the vault uses the grammar in `taxonomy/verbs.json` (22 verbs): an edge is a verb with a named inverse, and there is no generic association edge ([graphs.sgit.ai](https://graphs.sgit.ai/)). The world graph alone has 2472 nodes and 4928 edges. Entities (a CVE id, a PHP version, an organisation with this site's actor ids, a term with its translations) are where the altitudes join, and where the vault joins this site. What changed on a page is answered by a query over the change section, not by comparing two screenshots; the extractor is deterministic.
+Every graph in the vault uses the grammar in `taxonomy/verbs.json` (22 verbs): an edge is a verb with a named inverse, and there is no generic association edge ([graphs.sgit.ai](https://graphs.sgit.ai/)). The world graph alone has 2655 nodes and 5294 edges. Entities (a CVE id, a PHP version, an organisation with this site's actor ids, a term with its translations) are where the altitudes join, and where the vault joins this site. What changed on a page is answered by a query over the change section, not by comparing two screenshots; the extractor is deterministic.
 
 | Altitude | What it describes |
 |---|---|
@@ -99,6 +99,19 @@ A run captures the pages that are due: hourly for the story, daily for backgroun
 
 | Run (UTC) | Due | Watched | Changed | Access |
 |---|---|---|---|---|
+| `20261028T171512Z` | 1154 | 1460 | 761 | open 1003, bot-challenge 88, down 31, paywalled 23, gone 7, login-wall 2 |
+| `20261028T170921Z` | 195 | 1460 | 57 | open 141, down 39, bot-challenge 14, gone 1 |
+| `20261028T144312Z` | 1151 | 1454 | 744 | open 1011, bot-challenge 89, down 21, paywalled 21, gone 7, login-wall 2 |
+| `20261028T143717Z` | 195 | 1454 | 60 | open 146, down 34, bot-challenge 14, gone 1 |
+| `20261028T122416Z` | 1141 | 1446 | 734 | open 1003, bot-challenge 85, down 25, paywalled 20, gone 6, login-wall 2 |
+| `20261028T121819Z` | 194 | 1446 | 60 | open 143, down 37, bot-challenge 13, gone 1 |
+| `20261028T094557Z` | 1134 | 1437 | 714 | open 975, bot-challenge 89, down 41, paywalled 21, gone 6, login-wall 2 |
+| `20261028T093959Z` | 192 | 1437 | 62 | open 143, down 32, bot-challenge 16, gone 1 |
+| `20261028T071103Z` | 1168 | 1433 | 740 | open 998, bot-challenge 86, down 52, paywalled 23, gone 7, login-wall 2 |
+| `20261028T070440Z` | 191 | 1433 | 64 | open 138, down 38, bot-challenge 14, gone 1 |
+| `20261028T032724Z` | 1119 | 1419 | 804 | open 982, bot-challenge 84, paywalled 24, down 22, gone 5, login-wall 2 |
+| `20261028T032205Z` | 189 | 1419 | 81 | open 143, down 30, bot-challenge 15, gone 1 |
+| `20261027T191336Z` | 47 | 1418 | 47 | open 38, down 6, bot-challenge 3 |
 | `20261027T144120Z` | 1110 | 1365 | 702 | open 954, bot-challenge 82, down 46, paywalled 20, gone 6, login-wall 2 |
 | `20261027T143429Z` | 188 | 1365 | 59 | open 135, down 38, bot-challenge 14, gone 1 |
 | `20261027T125642Z` | 28 | 1365 | 28 | open 28 |
@@ -210,4 +223,4 @@ python3 tools/watch.py run [--all] [--only ] [--limit N] [--commit] [--push] pyt
 
 
 ---
-site v0.22.49 · data as of 2026-10-27T19:13Z · vault commit 6f0d5c50bf12 · https://refs.php.oct.2026.newsroom.sgit.ai/vaults/source-watch/index.html
+site v0.22.51 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://refs.php.oct.2026.newsroom.sgit.ai/vaults/source-watch/index.html
