@@ -56,4 +56,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.51 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://refs.php.oct.2026.newsroom.sgit.ai/sources/kaldata-it-d0-bd-d0-be-d0-b2-d0-b8-d0-bd-d0-b8-d/index.html
+site v0.22.53 · data as of 2026-10-29T00:09Z · vault commit 6c07e190d81e · https://refs.php.oct.2026.newsroom.sgit.ai/sources/kaldata-it-d0-bd-d0-be-d0-b2-d0-b8-d0-bd-d0-b8-d/index.html

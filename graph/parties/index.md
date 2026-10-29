@@ -148,7 +148,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | Party | States | Relays | Sources published | Claims it states |
 |---|---|---|---|---|
 | [BBC News](../../actors/bbc/index.html) | 1 | 11 | 1 | [affected-sites](../../facts/affected-sites/index.html) |
-| [The Hacker News](../../actors/thn/index.html) | 0 | 8 | 4 |  |
+| [The Hacker News](../../actors/thn/index.html) | 0 | 8 | 5 |  |
 | Insurance Business | 1 | 2 | 3 | [uk-list](../../facts/uk-list/index.html) |
 | SecurityWeek | 0 | 3 | 3 |  |
 | East Anglian Daily Times (PA) | 0 | 2 | 1 |  |
@@ -454,7 +454,7 @@ The graph of each party needs JavaScript; the tables below carry the same counts
 | The Kathmandu Post | 0 | 0 | 1 |  |
 | The Mandarin | 0 | 0 | 1 |  |
 | The New York Times | 0 | 0 | 0 |  |
-| The Next Web | 0 | 0 | 2 |  |
+| The Next Web | 0 | 0 | 3 |  |
 | The Next Web | 0 | 0 | 0 |  |
 | The Star | 0 | 0 | 1 |  |
 | The Verge | 0 | 0 | 1 |  |
@@ -622,4 +622,4 @@ The file is [data/entities.json](https://data.php.oct.2026.newsroom.sgit.ai/late
 
 
 ---
-site v0.22.51 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://refs.php.oct.2026.newsroom.sgit.ai/graph/parties/index.html
+site v0.22.53 · data as of 2026-10-29T00:09Z · vault commit 6c07e190d81e · https://refs.php.oct.2026.newsroom.sgit.ai/graph/parties/index.html

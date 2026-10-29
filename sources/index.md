@@ -1,4 +1,4 @@
-# Every source: 675 pages, 741 captures, 4331 hashes
+# Every source: 681 pages, 747 captures, 4361 hashes
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
@@ -8,11 +8,11 @@ The manifest of the php2shell evidence vault: every captured source with its pub
 
 In plain English Every web page this site relied on, with the time it was saved and a fingerprint proving it has not been altered since.
 
-675 sources, 118 of them primary, 741 dated captures and 4331 hashed files, from the evidence vault at commit `75668aedfb6d`. 15 sources could not be read because the site blocked an automated browser; the block, with the challenge page's hash, is the record. The captures are third-party pages held privately and are not republished; this page links to the originals and lists the SHA-256 of every captured file, so that anyone the vault is later opened to can check that the bytes are the ones the agents saw, at the minute they saw them.
+681 sources, 118 of them primary, 747 dated captures and 4361 hashed files, from the evidence vault at commit `6c07e190d81e`. 15 sources could not be read because the site blocked an automated browser; the block, with the challenge page's hash, is the record. The captures are third-party pages held privately and are not republished; this page links to the originals and lists the SHA-256 of every captured file, so that anyone the vault is later opened to can check that the bytes are the ones the agents saw, at the minute they saw them.
 
 | Kind | Sources |
 |---|---|
-| news | 503 |
+| news | 509 |
 | vendor | 52 |
 | government | 32 |
 | advisory | 27 |
@@ -2028,6 +2028,18 @@ capture 20261023T232528Z · HTTP 200 · https://cybersecuritynews.com/critical-p
 - `screenshot.jpg` 750b488bb22505b3aab3df88474d497cd183672b54f865ef490e95b366cc87e8 786,589 bytes
 - `text.txt` bdf6e94a1a8a118b2f1a5546ec71c6eda552a7289fb2b15ed34885ddcbfa89ac 9,743 bytes
 
+### [PHP2Shell Exploit Roots Firewalls | CyPro](cypro-php2shell-exploit-roots-firewalls/index.html) [original ↗](https://cypro.co.uk/insights/cyber-bulletins/php2shell-exploit-used-to-root-firewalls/)
+
+**CyPro** · news · secondary · captured · published 2026-10-28 · added by `curator@php.newsroom` · `cypro-php2shell-exploit-roots-firewalls`
+
+Promoted from the source watch (pack copy 7r83qic5), snapshot 20261029T000936Z, queue priority 1 (mechanical selection by researcher@php.newsroom, read by the curator). A CyPro bulletin of 28 October 2026 (by Rob McBride) that restates Dream Research's report and ends 'Originally reported by securityweek.com'; it is a...
+
+capture 20261029T000936Z · HTTP 200 · https://cypro.co.uk/insights/cyber-bulletins/php2shell-exploit-used-to-root-firewalls/- `headers.json` 4f7b5a1ad05502cb1c10618d4250c11f48d14565c4db173a8b64fc1d174b8bd4 1,648 bytes
+- `meta.json` 481e4ed7ca709c7ec695d725450ee3160466248a1eff4e11bb8b223e3a1bbe13 363 bytes
+- `page.html` 7cfde349d283a14e17e01448bd5f5350d0aff70e12e8588cb8744b9bdc9da2ba 369,877 bytes
+- `provenance.json` 6ba92d4fb6bb94849d93f0c9b24c30b3501d6484e8e2f8d3859fc9e13a1334f9 1,863 bytes
+- `text.txt` 0103588390c0208856fb301c62ae9739c2436f337f44eb418f927181ae5d5626 21,286 bytes
+
 ### [“อ.นพดล” เตือนภัยไซเบอร์ “PHP2Shell” จี้รัฐอุดช่องโหว่เสี่ยงกระทบเว็บไซต์-แอปฯ | เดลินิวส์](dailynews-news-6303237/index.html) [original ↗](https://www.dailynews.co.th/news/6303237/)
 
 **เดลินิวส์** · news · secondary · captured · published not stated in the capture · added by `curator@php.newsroom` · `dailynews-news-6303237`
@@ -2283,6 +2295,42 @@ capture 20261023T232528Z · HTTP 200 · https://www.donews.com/news/detail/8/675
 - `rendered.html` 3f0fbb065286b14942f58c5a9fc5a1d1c3c4f8daaa40d214bed0ae430fea563c 37,978 bytes
 - `screenshot.jpg` 8d174904138eb9df2b270da3d7c0fd01bc5a295a2fab3f4fa3b9503d134260c5 130,160 bytes
 - `text.txt` 440a5d4e7eba94d37e25f2650e42a34ef75530ca6279f5b0f55c62ae9b08d089 1,835 bytes
+
+### [Chained PHP2Shell Exploit Roots 25 Servers | Dream Research](dreamgroup-chained-php2shell-roots-25-servers/index.html) [original ↗](https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers)
+
+**Dream Research** · news · secondary · captured · published 2026-10-26 · added by `curator@php.newsroom` · `dreamgroup-chained-php2shell-roots-25-servers`
+
+Promoted from the source watch (pack copy 7r83qic5), snapshot 20261029T000715Z, queue priority 1 (mechanical selection by researcher@php.newsroom, read by the curator). Dream Research (an Israeli security company, a vendor of the Hero and Sphere products) says its researchers found, on 25 October, recovered artifacts...
+
+capture 20261029T000715Z · HTTP 200 · https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers- `headers.json` 51ecc96e61db9b8b4c0fec9976e45c5acaebdbaf9372e517f6d7cd7d116b6466 1,330 bytes
+- `meta.json` 169f11d122200b0f48840d5e46298641f1cbbdbd50abdf1d200d48085554dda7 348 bytes
+- `page.html` 1264c26fa85b5a78df1d3dff85b75ccd58ca13b14c374cacd25b38a54024a5be 60,794 bytes
+- `provenance.json` fc6d6ada4a4e4be3b53fdf9a2fc732c4f79c89ad33026c2a2319a4bb2d6cf82a 1,867 bytes
+- `text.txt` e97a2343aa094a3374d02020d5258bbeef80bf6ebd907170fae87f8ae9d4ed6d 18,988 bytes
+
+### [Hercules: On-Prem AI Vulnerability Model | Dream Research](dreamgroup-hercules-on-prem-ai-vuln-model-cybergym/index.html) [original ↗](https://dreamgroup.com/blog/hercules-on-premises-ai-vulnerability-model-ranked-1-on-cybergym)
+
+**Dream Research** · news · secondary · captured · published 2026-09-03 · added by `curator@php.newsroom` · `dreamgroup-hercules-on-prem-ai-vuln-model-cybergym`
+
+Promoted from the source watch (pack copy 7r83qic5), snapshot 20261029T000715Z, queue priority 1 (mechanical selection by researcher@php.newsroom, read by the curator). A Dream Research post of 3 September 2026 about Hero, Dream's autonomous AI vulnerability-research product for governments, and Hercules, the speciali...
+
+capture 20261029T000715Z · HTTP 200 · https://dreamgroup.com/blog/hercules-on-premises-ai-vulnerability-model-ranked-1-on-cybergym- `headers.json` 12d7fb7753184bba973b3a4053028890ee6c89732b517e9050190567d377b31d 1,330 bytes
+- `meta.json` 2a4a0c5111200212af1e5062776adfbdcddb6c0dd3c92780f117e8f6ad010474 390 bytes
+- `page.html` 572175d252f1402528fe33a0ce82c324f951ecdb6a961a1532ca597d2583b230 53,699 bytes
+- `provenance.json` e0847df75d7b93e14989a65436ad3d997ac5ce4e685ac5e6e9aa602f7f2796af 1,924 bytes
+- `text.txt` 69e5baf8be7e9340b932df2966b6e6fb81bea436ed01c8df3c830635aa9e2b48 11,848 bytes
+
+### [Multi-Agent AI Attacks on Asian Governments | Dream Research](dreamgroup-multi-agent-ai-framework-asian-governme/index.html) [original ↗](https://dreamgroup.com/blog/inside-a-multi-agent-ai-framework-used-to-compromise-government-entities-in-asia)
+
+**Dream Research** · news · secondary · captured · published 2026-08-12 · added by `curator@php.newsroom` · `dreamgroup-multi-agent-ai-framework-asian-governme`
+
+Promoted from the source watch (pack copy 7r83qic5), snapshot 20261029T000716Z, queue priority 1 (mechanical selection by researcher@php.newsroom, read by the curator). A Dream Research report of 12 August 2026 on a multi-agent AI attack framework (built on the Hermes and OpenClaw agents) whose workspace Dream says it...
+
+capture 20261029T000716Z · HTTP 200 · https://dreamgroup.com/blog/inside-a-multi-agent-ai-framework-used-to-compromise-government-entities-in-asia- `headers.json` 37f31e0b883c734b9db985235b5e9abf8ccbe0f129d33d3ea6ce734d9aef6daa 1,330 bytes
+- `meta.json` 5ec2a7b9f7fbd39629921ba05e4b3714a926e9db0e41868441aa6dc1c55d070a 425 bytes
+- `page.html` 8ef6be3ff73638769a83056c47117156c6bf969603d27c0aaa5bf4fd0e2babfe 61,864 bytes
+- `provenance.json` 126fa5fac545e0d165c0ffe25be20e35c4010d1ccd8285a199f6b626eaef996c 1,965 bytes
+- `text.txt` 86b54895b41dce23482fe8731c5390417eaeaf26eb6ef3af67798e0fba02e658 17,568 bytes
 
 ### [Critical PHP update on Wednesday, October 21, 2026 (14:00 UTC) - PSA-2026-10-20 | Drupal.org](drupal-psa-2026-10-20/index.html) [original ↗](https://www.drupal.org/psa-2026-10-20)
 
@@ -7679,6 +7727,30 @@ capture 20261027T191336Z · HTTP 200 · https://thehackernews.com/2026/10/cisa-c
 - `screenshot.jpg` af1949f20499f59cf89d2308d5fb31e6586af1d4b3f0fe917b82cd216c34648c 501,097 bytes
 - `text.txt` e0c45db168f660842d168e63b7cf9f6f6c89a11c7adbe45890f0377c078d4019 7,474 bytes
 
+### [PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network](the-hacker-news-thehackernews-php2shell-roots-25-s/index.html) [original ↗](https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html)
+
+**The Hacker News** · news · secondary · captured · published 2026-10-28 · added by `curator@php.newsroom` · `the-hacker-news-thehackernews-php2shell-roots-25-s`
+
+Promoted from the source watch (pack copy 7r83qic5), snapshot 20261029T000934Z, queue priority 1 (mechanical selection by researcher@php.newsroom, read by the curator). The Hacker News (Ravie Lakshmanan, 28 October 2026) reports Dream Research's findings: 25 servers rooted in the US, Japan, Taiwan and South Korea with...
+
+capture 20261029T000934Z · HTTP 200 · https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html- `headers.json` 232b24cdd0316d14841d50c5c11bcfb0444bc4316fe415e1f54b78054f46bac0 620 bytes
+- `meta.json` 7dc1824bb6de64de7fa55310864de34e519d8fe938b799184ab85f875c755c07 372 bytes
+- `page.html` 64d598fea2980186ea2f4a433dfe7867b2d51399f188b1ec5152ffe7ede09740 174,422 bytes
+- `provenance.json` c0cf0eb85482ef8062ed68293e0c41f21ff1da7833669718831c472915ded693 1,907 bytes
+- `text.txt` 07babac5543bd4afe3c47e7464fb7ab0a27200e2f0a2cd324083bc405ae955c3 11,887 bytes
+
+### [CISA confirms attackers are exploiting both PHP2Shell flaws](the-next-web-php2shell-cisa-kev-dream-25-servers/index.html) [original ↗](https://thenextweb.com/news/php2shell-flaws-exploited-cisa-kev)
+
+**The Next Web** · news · secondary · captured · published 2026-10-28 · added by `curator@php.newsroom` · `the-next-web-php2shell-cisa-kev-dream-25-servers`
+
+Promoted from the source watch (pack copy 7r83qic5), snapshot 20261029T000935Z, queue priority 1 (mechanical selection by researcher@php.newsroom, read by the curator). The Next Web (Ana Maria Constantin, 28 October 2026) reports that CISA added both PHP2Shell flaws to its Known Exploited Vulnerabilities catalogue on...
+
+capture 20261029T000935Z · HTTP 200 · https://thenextweb.com/news/php2shell-flaws-exploited-cisa-kev- `headers.json` f87468dc97b76a577f770a542ab6e0e39dbb31dcf8c1df76b3824a9fe2c96a2b 6,253 bytes
+- `meta.json` 55e2dabffbad0b0327329518c051e6f705edda6af203a03f24dbc8ca99fc528f 332 bytes
+- `page.html` 608eff809c826615695677917acecea41853919f099ee4cfaf5a64015f03c4b1 184,899 bytes
+- `provenance.json` 91a4eadf9f76164dd0537a756f802db13ebd768909be061ee1e4027205047a30 1,850 bytes
+- `text.txt` c3e1a32a6a628c8ea9fce44ac9cbfc39997ea55124350ca20cf3ee500e1f24e6 8,354 bytes
+
 ### [Millions of PHP2Shell attempts so far, but officials see no break-in](the-next-web-php2shell-no-confirmed-breaches/index.html) [original ↗](https://thenextweb.com/news/php2shell-millions-exploit-attempts-no-confirmed-breaches)
 
 **The Next Web** · news · secondary · captured · published 2026-10-22T13:03:23+00:00 · added by `curator@php.newsroom` · `the-next-web-php2shell-no-confirmed-breaches`
@@ -8998,4 +9070,4 @@ capture 20261027T121358Z · HTTP 200 · https://www.zoomtecnologico.com/2026/10/
 
 
 ---
-site v0.22.51 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://refs.php.oct.2026.newsroom.sgit.ai/sources/index.html
+site v0.22.53 · data as of 2026-10-29T00:09Z · vault commit 6c07e190d81e · https://refs.php.oct.2026.newsroom.sgit.ai/sources/index.html

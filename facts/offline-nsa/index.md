@@ -54,4 +54,4 @@ Sources: nsa-x-2112903220209098897, nsa-press-php-4630238
 
 
 ---
-site v0.22.51 · data as of 2026-10-28T17:15Z · vault commit 75668aedfb6d · https://refs.php.oct.2026.newsroom.sgit.ai/facts/offline-nsa/index.html
+site v0.22.53 · data as of 2026-10-29T00:09Z · vault commit 6c07e190d81e · https://refs.php.oct.2026.newsroom.sgit.ai/facts/offline-nsa/index.html
