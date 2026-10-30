@@ -56,4 +56,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.53 · data as of 2026-10-29T00:09Z · vault commit 6c07e190d81e · https://refs.php.oct.2026.newsroom.sgit.ai/sources/jauns-raksts-zinas-735243-atklata-jauna-un-lot/index.html
+site v0.22.54 · data as of 2026-10-29T17:13Z · vault commit cd9375f1aefd · https://refs.php.oct.2026.newsroom.sgit.ai/sources/jauns-raksts-zinas-735243-atklata-jauna-un-lot/index.html

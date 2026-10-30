@@ -60,4 +60,4 @@ Sources: calif-php2shell, x-lcfr-hax-hash-tweet, php-foundation-blog-security-re
 
 
 ---
-site v0.22.53 · data as of 2026-10-29T00:09Z · vault commit 6c07e190d81e · https://refs.php.oct.2026.newsroom.sgit.ai/facts/who-first/index.html
+site v0.22.54 · data as of 2026-10-29T17:13Z · vault commit cd9375f1aefd · https://refs.php.oct.2026.newsroom.sgit.ai/facts/who-first/index.html
