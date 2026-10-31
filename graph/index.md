@@ -2,13 +2,13 @@
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
-2235 nodes and 2393 typed edges: every claim, number, event, signal, advice, party, source and capture on the PHP flaws story, walkable, with the independent origins of each claim.
+2259 nodes and 2405 typed edges: every claim, number, event, signal, advice, party, source and capture on the PHP flaws story, walkable, with the independent origins of each claim.
 
 # The story as a graph
 
 In plain English Who said each thing first, who passed it on, and which saved pages it rests on. Click anything to walk from it to what it is connected to.
 
-2235 nodes and 2393 edges in 15 verbs: 769 captures, 703 sources, 538 parties, 70 claims, 69 events, 20 exploitation signals, 18 numbers, 16 advice, 12 tensions, 8 topics, 8 phases, 4 CVEs. Each is drawn from the same rows as the pages, so the picture cannot disagree with the text. Start anywhere, follow a link, and the graph re-centres on it; a node with a thick ring opens a graph of its own.
+2259 nodes and 2405 edges in 15 verbs: 781 captures, 715 sources, 538 parties, 70 claims, 69 events, 20 exploitation signals, 18 numbers, 16 advice, 12 tensions, 8 topics, 8 phases, 4 CVEs. Each is drawn from the same rows as the pages, so the picture cannot disagree with the text. Start anywhere, follow a link, and the graph re-centres on it; a node with a thick ring opens a graph of its own.
 
 The interactive graph needs JavaScript. Every node is also on a page: [the claims](https://php.oct.2026.newsroom.sgit.ai/claims/), [the sources](../sources/index.html), [the parties](../graph/parties/index.html), [the timeline](https://php.oct.2026.newsroom.sgit.ai/timeline/), [the tensions](https://php.oct.2026.newsroom.sgit.ai/factcheck/); the whole graph is [data/graph.json](https://data.php.oct.2026.newsroom.sgit.ai/latest/graph.json).
 
@@ -24,7 +24,7 @@ Every edge is a verb, and read from the other end it has a different name: Wiz *
 | `counts` | `counted_by` | A counts B | 6 | proposed here |
 | `published_by` | `publishes` | A is published by B | 616 | inherited from governance-beat-ontology |
 | `syndicates` | `syndicated_in` | A syndicates B | 9 | proposed here |
-| `captured_in` | `captures` | A is captured in B | 769 | inherited from portugal-ontology |
+| `captured_in` | `captures` | A is captured in B | 781 | inherited from portugal-ontology |
 | `appears_in` | `carries` | A appears in B | 146 | inherited from altitudes.json (Concept to Unit) |
 | `flags` | `flagged_by` | A flags B | 25 | inherited from altitudes.json edge_registry |
 | `advises` | `advised_by` | A advises B | 16 | proposed here |
@@ -94,7 +94,7 @@ Stated only by sources a page does not name: a gap in the evidence, not a party.
 | [Mitigation advice given to a few critical-infrastructure providers from about 23:00 UTC on 20 October may have](../facts/leak-mitigations/index.html) | reported | 1 | 0 | 1 |  |
 | [Calif mistakenly published a video around 20:00 UTC on 20 October showing its proof of concept against a numbe](../facts/leak-video/index.html) | reported | 1 | 0 | 2 |  |
 | [Patching the demonstrated paths does not make the bailout mechanism safe; more paths should be expected](../facts/more-paths/index.html) | reported | 1 | 0 | 1 | K-011 |
-| [As of 17:13 UTC on 29 October, no named organisation has said it was compromised through php2shell. That the f](../facts/no-confirmed-compromise/index.html) | reported | 1 | 0 | 14 |  |
+| [As of 09:42 UTC on 30 October, no named organisation has said it was compromised through php2shell. That the f](../facts/no-confirmed-compromise/index.html) | reported | 1 | 0 | 14 |  |
 | [Reports of active exploitation exist](../facts/nz-active/index.html) | reported | 1 | 0 | 1 |  |
 | [Organisations that cannot update immediately, or that run PHP 8.1 or older, should take PHP-based systems offl](../facts/offline-cisa/index.html) | confirmed | 1 | 0 | 1 |  |
 | [If an immediate update is not feasible, take the system offline until it can be fully mitigated](../facts/offline-nsa/index.html) | confirmed | 1 | 0 | 2 |  |
@@ -154,8 +154,8 @@ Kinds of node:
 | Topic | story | 8 | A class in the topic taxonomy of claims. |
 | Phase | story | 8 | A class in the phase taxonomy of the timeline. |
 | Party | world | 538 | A person, organisation, agency, outlet, group, registry, platform or project (data/entities.json); its class is in 'class'. |
-| Source | evidence | 703 | A page in the evidence vault's manifest (data/sources.json). |
-| Capture | evidence | 769 | One time the vault saved a source: its files and their hashes. The first fractal layer below a source. |
+| Source | evidence | 715 | A page in the evidence vault's manifest (data/sources.json). |
+| Capture | evidence | 781 | One time the vault saved a source: its files and their hashes. The first fractal layer below a source. |
 | CVE | anchor | 4 | An anchor node: a CVE identifier, where the story graph joins the code-review graph (data/review.json) and the outside world (cve.org). It has no authority of its own. |
 
 Verbs this graph will not use, and why:
@@ -170,4 +170,4 @@ The grammar is the estate's, from [graphs.sgit.ai](https://graphs.sgit.ai/v1/gra
 
 
 ---
-site v0.22.54 · data as of 2026-10-29T17:13Z · vault commit cd9375f1aefd · https://refs.php.oct.2026.newsroom.sgit.ai/graph/index.html
+site v0.22.55 · data as of 2026-10-30T17:13Z · vault commit 2f80607e87ad · https://refs.php.oct.2026.newsroom.sgit.ai/graph/index.html

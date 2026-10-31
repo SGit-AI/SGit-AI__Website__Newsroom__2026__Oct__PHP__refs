@@ -54,4 +54,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.54 · data as of 2026-10-29T17:13Z · vault commit cd9375f1aefd · https://refs.php.oct.2026.newsroom.sgit.ai/sources/themandarin-322640-asd-rushes-out-critical-alert-on-unpatched-php-vulner/index.html
+site v0.22.55 · data as of 2026-10-30T17:13Z · vault commit 2f80607e87ad · https://refs.php.oct.2026.newsroom.sgit.ai/sources/themandarin-322640-asd-rushes-out-critical-alert-on-unpatched-php-vulner/index.html
