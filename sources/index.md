@@ -1,4 +1,4 @@
-# Every source: 715 pages, 781 captures, 4562 hashes
+# Every source: 718 pages, 784 captures, 4580 hashes
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
@@ -8,11 +8,11 @@ The manifest of the php2shell evidence vault: every captured source with its pub
 
 In plain English Every web page this site relied on, with the time it was saved and a fingerprint proving it has not been altered since.
 
-715 sources, 118 of them primary, 781 dated captures and 4562 hashed files, from the evidence vault at commit `2f80607e87ad`. 15 sources could not be read because the site blocked an automated browser; the block, with the challenge page's hash, is the record. The captures are third-party pages held privately and are not republished; this page links to the originals and lists the SHA-256 of every captured file, so that anyone the vault is later opened to can check that the bytes are the ones the agents saw, at the minute they saw them.
+718 sources, 118 of them primary, 784 dated captures and 4580 hashed files, from the evidence vault at commit `b79970cfb056`. 15 sources could not be read because the site blocked an automated browser; the block, with the challenge page's hash, is the record. The captures are third-party pages held privately and are not republished; this page links to the originals and lists the SHA-256 of every captured file, so that anyone the vault is later opened to can check that the bytes are the ones the agents saw, at the minute they saw them.
 
 | Kind | Sources |
 |---|---|
-| news | 543 |
+| news | 546 |
 | vendor | 52 |
 | government | 32 |
 | advisory | 27 |
@@ -89,6 +89,19 @@ capture 20261023T160435Z · HTTP 200 · https://24.ae/article/969853/%D9%83%D9%8
 - `rendered.html` e393fbc613b2df7027eb42d8af47bc3957e0049bf6e6877fd5a437f560dab304 147,075 bytes
 - `screenshot.jpg` 868e008ced044f1a418460626a80ecde20a9ccb2b2fdfe0c25d5c0bbd0ceadae 543,735 bytes
 - `text.txt` b00b4ee3ceb08beabe4387d853d6715bb89202536a3ad1a038d737e35cd83bec 18,164 bytes
+
+### [Website toàn cầu hứng chịu hàng triệu nỗ lực tấn công, khai thác lỗ hổng PHP](24h-cong-nghe-thong-tin-website-toan-cau-hun/index.html) [original ↗](https://www.24h.com.vn/cong-nghe-thong-tin/website-toan-cau-hung-chiu-hang-trieu-no-luc-tan-cong-khai-thac-lo-hong-php-c55a1805111.html)
+
+**Tin tức 24h** · news · secondary · captured · published not stated in the capture · added by `curator@php.newsroom` · `24h-cong-nghe-thong-tin-website-toan-cau-hun`
+
+Promoted from the source watch (pack copy 7r83qic5), snapshot 20261031T071303Z, queue priority 4 (mechanical selection by researcher@php.newsroom, read by the curator). A Vietnamese tech-news item (24h.com.vn, rewriting a VietNamNet report) that millions of attempts to exploit the PHP flaws have been seen worldwide, f...
+
+capture 20261031T071303Z · HTTP 200 · https://www.24h.com.vn/cong-nghe-thong-tin/website-toan-cau-hung-chiu-hang-trieu-no-luc-tan-cong-khai-thac-lo-hong-php-c55a1805111.html- `headers.json` a6a35f2b6ff092893e071b8ab7fa6d6ecef2b7d45150335cbc9e7531e6bbbc6f 448 bytes
+- `page.html` b41fcbde4a322dfe8846380cc1155db9394d09435b0cf518f6c3446c66d75824 359,981 bytes
+- `provenance.json` 12775b17ce3c566fb0dd87a0a93a4f8dd74fe59787a6298cab79c208151392f9 1,867 bytes
+- `rendered.html` cfadec1ac040c493d3411ebdb67db1334192ca136c24da404aac84892d878da3 373,774 bytes
+- `screenshot.jpg` 64472d16a112107ba8b1f54d23f4977b7dd11508aa05273b7228e2b4fe8129c4 397,859 bytes
+- `text.txt` 88c714f119295000afb0dc84d4411373c711ccd182620d00ce31f2b1b33d5255 9,129 bytes
 
 ### [«PHP2Shell»: qui est affecté par la faille en Suisse](24heures-php2shell-qui-est-affecte-par-la-faille/index.html) [original ↗](https://www.24heures.ch/php2shell-qui-est-affecte-par-la-faille-en-suisse-196968803007)
 
@@ -4117,6 +4130,19 @@ capture 20261025T120459Z · HTTP 200 · https://istanbulticaretgazetesi.com/sibe
 - `screenshot.jpg` 6ccdfd799e6ab831dcb9c6cdfca8faf9495a560b2445b3b50f270e6785657505 410,479 bytes
 - `text.txt` d02caee1e5ef8352d524a1635e38e144e8a6e9892073cfed5a8ac13843972e60 6,069 bytes
 
+### [PHP2Shell: Altlasten bremsen Patches | IT-Administrator](it-administrator-php2shell-patchtempo-altversionen/index.html) [original ↗](https://www.it-administrator.de/php2shell-patchtempo-altversionen)
+
+**IT-Administrator** · news · secondary · captured · published 2026-10-26 · added by `curator@php.newsroom` · `it-administrator-php2shell-patchtempo-altversionen`
+
+Promoted from the source watch (pack copy 7r83qic5), snapshot 20261031T094210Z, queue priority 2 (mechanical selection by researcher@php.newsroom, read by the curator). A German IT-administrator trade piece (IT-Administrator, 26 October) on the pace of patching, built on the public PHP2Shell dashboard of the security...
+
+capture 20261031T094210Z · HTTP 200 · https://www.it-administrator.de/php2shell-patchtempo-altversionen- `headers.json` 3955de5873153e86eca2374a80ce5cf69690e7cfd2a05e8988ab4659b776d16c 681 bytes
+- `page.html` 88687151553392690b6abff15cfd8668be3b27203a162d2e3258d9c39ba97691 86,795 bytes
+- `provenance.json` 392affe056363d86e88eed17ee463b035f24b937987445d194cfc857a1e16402 1,662 bytes
+- `rendered.html` 66db137e7651492d1385bd679ce93637c7aeb2eca57bf78595dd4aa5143c0f3b 106,001 bytes
+- `screenshot.jpg` 1cd70ffccd8a6f73c82d65b88d2da703b0430b15422799b0223b88500970e91d 551,666 bytes
+- `text.txt` 3c3a81e0f2454a5dc0ce53496d5737d809e3cf0f7878d477d65cfcb8db054770 7,082 bytes
+
 ### [PHP2Shell: Die aktuelle Lage nach dem Patch](it-daily-shortnews-php2shell-die-aktuelle-lage/index.html) [original ↗](https://www.it-daily.net/shortnews/php2shell-die-aktuelle-lage)
 
 **it-daily.net** · news · secondary · captured · published 2026-10-22T15:15:59+02:00 · added by `curator@php.newsroom` · `it-daily-shortnews-php2shell-die-aktuelle-lage`
@@ -6891,6 +6917,19 @@ capture 20261023T160435Z · HTTP 200 · https://safeguard.sh/resources/blog/php2
 - `screenshot.jpg` 71998cc58d77b7bb204a1d1c83e2585cd195ef802f9d2c1a4ef72de08290ec36 772,450 bytes
 - `text.txt` 9c8bc44b157ad4c12dd5b38c06b69f4622f866c3ceadfa5fe0eb5d0cb1bb7767 36,495 bytes
 
+### [PHP2Shell Vulnerability: How the PHP Emergency Unfolded](safestate-post-php2shell-vulnerability-how-the-php/index.html) [original ↗](https://www.safestate.com/post/php2shell-vulnerability-how-the-php-emergency-unfolded)
+
+**safestate.com** · news · secondary · captured · published not stated in the capture · added by `curator@php.newsroom` · `safestate-post-php2shell-vulnerability-how-the-php`
+
+Promoted from the source watch (pack copy 7r83qic5), snapshot 20261031T071303Z, queue priority 2 (mechanical selection by researcher@php.newsroom, read by the curator). A blog post by a listed Swedish security firm (Safestate) retelling how the PHP emergency unfolded. It says the maintainers shipped out-of-cycle patch...
+
+capture 20261031T071303Z · HTTP 200 · https://www.safestate.com/post/php2shell-vulnerability-how-the-php-emergency-unfolded- `headers.json` d1d898b0fc455d2487387f31800a0102e6d91443adfc91518df4a8ae5bc8f860 1,490 bytes
+- `page.html` 155b6eb56eec7215599ea73b24a0a4080983331b0ff3ed0fbcd9f0d5b4b7b879 38,467 bytes
+- `provenance.json` 9fbeaf127e8c86002aac5d299711d01082c86bebabce6af4941832b95445b1a4 1,740 bytes
+- `rendered.html` 02647b0a699ce4f00300c459fff881c781b4b565293740d16a2403ffe8a5944f 39,976 bytes
+- `screenshot.jpg` 3f5bf70cdbede4e98458413794cee9874b4dc461e9208a6b7709189b1a058992 729,191 bytes
+- `text.txt` ef2a6a3f12968a837b2007a683f80c337d5775e2883775b1e7ffee308a27e65d 8,755 bytes
+
 ### [Trust Status](salesforce-general-message-20000267/index.html) [original ↗](https://status.salesforce.com/generalmessages/20000267)
 
 **Salesforce** · vendor · primary · captured · published 2026-10-21T20:12Z · added by `breaking@php.newsroom (curator's role)` · `salesforce-general-message-20000267`
@@ -9503,4 +9542,4 @@ capture 20261027T121358Z · HTTP 200 · https://www.zoomtecnologico.com/2026/10/
 
 
 ---
-site v0.22.55 · data as of 2026-10-30T17:13Z · vault commit 2f80607e87ad · https://refs.php.oct.2026.newsroom.sgit.ai/sources/index.html
+site v0.22.56 · data as of 2026-10-31T09:42Z · vault commit b79970cfb056 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/index.html

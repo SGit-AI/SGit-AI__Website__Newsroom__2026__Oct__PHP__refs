@@ -24,4 +24,4 @@ published patched images before the embargo lifted, per the Foundation
 
 
 ---
-site v0.22.55 · data as of 2026-10-30T17:13Z · vault commit 2f80607e87ad · https://refs.php.oct.2026.newsroom.sgit.ai/actors/chainguard/index.html
+site v0.22.56 · data as of 2026-10-31T09:42Z · vault commit b79970cfb056 · https://refs.php.oct.2026.newsroom.sgit.ai/actors/chainguard/index.html

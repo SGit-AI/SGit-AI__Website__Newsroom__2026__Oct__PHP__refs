@@ -168,4 +168,4 @@ v2 · site v0.5.8 · 22 October 2026 · reportedNoAs of 20:50 UTC on 22 October,
 
 
 ---
-site v0.22.55 · data as of 2026-10-30T17:13Z · vault commit 2f80607e87ad · https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/index.html
+site v0.22.56 · data as of 2026-10-31T09:42Z · vault commit b79970cfb056 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/no-confirmed-compromise/index.html
