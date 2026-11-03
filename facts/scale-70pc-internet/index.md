@@ -62,4 +62,4 @@ v2 · site v0.12.1 · 24 October 2026 · unverifiedRoughly 70% of the Internet i
 
 
 ---
-site v0.22.56 · data as of 2026-10-31T09:42Z · vault commit b79970cfb056 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-70pc-internet/index.html
+site v0.22.57 · data as of 2026-11-02T15:57Z · vault commit e4bbd16da443 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/scale-70pc-internet/index.html

@@ -56,4 +56,4 @@ Sources: quarkslab-blog-php-src-audit, substack-lopezkurtz-patch-is-the-exploit
 
 
 ---
-site v0.22.56 · data as of 2026-10-31T09:42Z · vault commit b79970cfb056 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/quarkslab-redacted/index.html
+site v0.22.57 · data as of 2026-11-02T15:57Z · vault commit e4bbd16da443 · https://refs.php.oct.2026.newsroom.sgit.ai/facts/quarkslab-redacted/index.html
