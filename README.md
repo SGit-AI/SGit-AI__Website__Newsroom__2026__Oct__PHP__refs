@@ -97,3 +97,18 @@ Changes: this entry only. Not a force-push, not an empty commit. Rule: team boar
   "fingerprint": "sha256:d1331dd12796268e"
 }
 ```
+
+```text
+Edition take, 2026-11-04T06:49:22Z: a push to refs so that its deploy takes edition 0.22.58.
+Who: dev@php.newsroom, session_015gaHdeQPc82wWvW99oY7RT, key sha256:d1331dd12796268e (team records/keys/dev.json), on its scheduled daily wake.
+On whose word: the editor's standing go of 28 October 2026 for the daily wake.
+Why: the press published edition 0.22.58; refs takes the newest edition only at its own next push.
+Changes: this entry only. Not a force-push, not an empty commit. Rule: team board dev-0016.
+```
+
+```json
+{
+  "signature": "/YiogRclyLpVmPMcA6KTAoz9A0UjZZ14tLzbarXN7WBErwCzK8tu/Hv2xlstcCjfc/B6u9QxQCogob5aszbtiQ==",
+  "fingerprint": "sha256:d1331dd12796268e"
+}
+```
