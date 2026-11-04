@@ -56,4 +56,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.57 · data as of 2026-11-02T15:57Z · vault commit e4bbd16da443 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/belg24-d8-ab-d8-ba-d8-b1-d8-a7-d8-aa-d8-a8-d9-8/index.html
+site v0.22.58 · data as of 2026-11-03T12:16Z · vault commit a8e4e3dc5490 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/belg24-d8-ab-d8-ba-d8-b1-d8-a7-d8-aa-d8-a8-d9-8/index.html

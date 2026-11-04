@@ -2,13 +2,13 @@
 
 > Research: collected from outside sources and what this site derives from them; every fact links to a saved copy of its source.
 
-2283 nodes and 2417 typed edges: every claim, number, event, signal, advice, party, source and capture on the PHP flaws story, walkable, with the independent origins of each claim.
+2299 nodes and 2425 typed edges: every claim, number, event, signal, advice, party, source and capture on the PHP flaws story, walkable, with the independent origins of each claim.
 
 # The story as a graph
 
 In plain English Who said each thing first, who passed it on, and which saved pages it rests on. Click anything to walk from it to what it is connected to.
 
-2283 nodes and 2417 edges in 15 verbs: 793 captures, 727 sources, 538 parties, 70 claims, 69 events, 20 exploitation signals, 18 numbers, 16 advice, 12 tensions, 8 topics, 8 phases, 4 CVEs. Each is drawn from the same rows as the pages, so the picture cannot disagree with the text. Start anywhere, follow a link, and the graph re-centres on it; a node with a thick ring opens a graph of its own.
+2299 nodes and 2425 edges in 15 verbs: 801 captures, 735 sources, 538 parties, 70 claims, 69 events, 20 exploitation signals, 18 numbers, 16 advice, 12 tensions, 8 topics, 8 phases, 4 CVEs. Each is drawn from the same rows as the pages, so the picture cannot disagree with the text. Start anywhere, follow a link, and the graph re-centres on it; a node with a thick ring opens a graph of its own.
 
 The interactive graph needs JavaScript. Every node is also on a page: [the claims](https://php.oct.2026.newsroom.sgit.ai/claims/), [the sources](../sources/index.html), [the parties](../graph/parties/index.html), [the timeline](https://php.oct.2026.newsroom.sgit.ai/timeline/), [the tensions](https://php.oct.2026.newsroom.sgit.ai/factcheck/); the whole graph is [data/graph.json](https://data.php.oct.2026.newsroom.sgit.ai/latest/graph.json).
 
@@ -24,7 +24,7 @@ Every edge is a verb, and read from the other end it has a different name: Wiz *
 | `counts` | `counted_by` | A counts B | 6 | proposed here |
 | `published_by` | `publishes` | A is published by B | 616 | inherited from governance-beat-ontology |
 | `syndicates` | `syndicated_in` | A syndicates B | 9 | proposed here |
-| `captured_in` | `captures` | A is captured in B | 793 | inherited from portugal-ontology |
+| `captured_in` | `captures` | A is captured in B | 801 | inherited from portugal-ontology |
 | `appears_in` | `carries` | A appears in B | 146 | inherited from altitudes.json (Concept to Unit) |
 | `flags` | `flagged_by` | A flags B | 25 | inherited from altitudes.json edge_registry |
 | `advises` | `advised_by` | A advises B | 16 | proposed here |
@@ -154,8 +154,8 @@ Kinds of node:
 | Topic | story | 8 | A class in the topic taxonomy of claims. |
 | Phase | story | 8 | A class in the phase taxonomy of the timeline. |
 | Party | world | 538 | A person, organisation, agency, outlet, group, registry, platform or project (data/entities.json); its class is in 'class'. |
-| Source | evidence | 727 | A page in the evidence vault's manifest (data/sources.json). |
-| Capture | evidence | 793 | One time the vault saved a source: its files and their hashes. The first fractal layer below a source. |
+| Source | evidence | 735 | A page in the evidence vault's manifest (data/sources.json). |
+| Capture | evidence | 801 | One time the vault saved a source: its files and their hashes. The first fractal layer below a source. |
 | CVE | anchor | 4 | An anchor node: a CVE identifier, where the story graph joins the code-review graph (data/review.json) and the outside world (cve.org). It has no authority of its own. |
 
 Verbs this graph will not use, and why:
@@ -170,4 +170,4 @@ The grammar is the estate's, from [graphs.sgit.ai](https://graphs.sgit.ai/v1/gra
 
 
 ---
-site v0.22.57 · data as of 2026-11-02T15:57Z · vault commit e4bbd16da443 · https://refs.php.oct.2026.newsroom.sgit.ai/graph/index.html
+site v0.22.58 · data as of 2026-11-03T12:16Z · vault commit a8e4e3dc5490 · https://refs.php.oct.2026.newsroom.sgit.ai/graph/index.html

@@ -56,4 +56,4 @@ The captured files are held privately in the evidence vault and are not republis
 
 
 ---
-site v0.22.57 · data as of 2026-11-02T15:57Z · vault commit e4bbd16da443 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/notebookcheck-cn-php2shell-php-1433819-0-html/index.html
+site v0.22.58 · data as of 2026-11-03T12:16Z · vault commit a8e4e3dc5490 · https://refs.php.oct.2026.newsroom.sgit.ai/sources/notebookcheck-cn-php2shell-php-1433819-0-html/index.html
